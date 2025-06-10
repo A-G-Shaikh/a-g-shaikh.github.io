@@ -1,0 +1,123 @@
+---
+layout: default
+---
+{% assign sidebar_pos = site.toc_position | default: "right" %}
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <div class="post-meta">
+      <span class="post-date-author">
+        <time class="dt-published post-date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time>
+        {%- if page.author -%}
+        <span class="separator">|</span>
+        <span class="post-author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name">{{ page.author }}</span>
+        </span>
+        {%- endif -%}
+      </span>
+      
+      {%- if page.categories.size > 0 -%}
+      <span class="post-categories">
+        {% for category in page.categories %}
+        {% assign category_slug = category | slugify %}
+        <a href="{{ '/categories/#' | append: category_slug | relative_url }}">{{ category }}</a>
+        {% endfor %}
+      </span>
+      {%- endif -%}
+      
+      <span class="reading-time" title="Estimated read time">
+        {% assign words = content | number_of_words %}
+        {% if words < 360 %}
+          1 min read
+        {% else %}
+          {{ words | divided_by: 180 }} min read
+        {% endif %}
+      </span>
+    </div>
+    
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    
+    {%- if page.description -%}
+    <p class="post-description" itemprop="description">{{ page.description }}</p>
+    {%- endif -%}
+  </header>
+
+  {%- if page.image -%}
+    <div class="post-featured-image">
+      <img 
+        src="{{ '/assets/images/' | append: page.image | relative_url }}" 
+        alt="{{ page.title }}" 
+        width="800" 
+        height="450" 
+        loading="eager"
+        style="aspect-ratio: 16/9; max-width: 100%; height: auto;"
+      />
+    </div>
+  {% else %}
+    <!-- Generate CSS featured image for posts without specified images -->
+    <div class="post-featured-image css-featured-image" 
+         data-pattern="{{ page.title | size | modulo: 6 }}" 
+         data-title="{{ page.title | slice: 0 | upcase }}">
+      <div class="css-image-title">{{ page.title | slice: 0 | upcase }}</div>
+    </div>
+  {%- endif -%}
+
+  <div class="post-layout {% if sidebar_pos == 'left' %}sidebar-left{% else %}sidebar-right{% endif %}">
+    {% if page.toc != false %}
+    <aside class="post-sidebar">
+      <div class="floating-toc">
+        <h2>Table of Contents</h2>
+        {% include toc.html html=content h_min=2 h_max=3 %}
+      </div>
+    </aside>
+    {% endif %}
+
+    <div class="post-content-wrapper">
+      <div class="post-content e-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+
+      {%- if page.tags.size > 0 -%}
+      <div class="post-tags">
+        <h3>Tags:</h3>
+        <ul class="tag-list">
+          {%- for tag in page.tags -%}
+          {% assign tag_slug = tag | slugify %}
+          <li><a href="{{ '/tags/#' | append: tag_slug | relative_url }}" class="tag">{{ tag }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </div>
+      {%- endif -%}
+
+      <!-- Social sharing buttons -->
+      {% include social-sharing.html %}
+
+      <div class="post-navigation">
+        {% if page.previous.url %}
+        <a class="prev" href="{{ page.previous.url | relative_url }}">
+          <span class="nav-label">Previous Post</span>
+          <span class="post-title">{{page.previous.title}}</span>
+        </a>
+        {% endif %}
+        {% if page.next.url %}
+        <a class="next" href="{{ page.next.url | relative_url }}">
+          <span class="nav-label">Next Post</span>
+          <span class="post-title">{{page.next.title}}</span>
+        </a>
+        {% endif %}
+      </div>
+
+      {%- if site.giscus.enabled -%}
+        {%- include giscus.html -%}
+      {%- endif -%}
+      
+      <!-- Related posts section -->
+      {% include related-posts.html %}
+    </div>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

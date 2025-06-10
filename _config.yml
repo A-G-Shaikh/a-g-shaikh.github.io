@@ -18,27 +18,121 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tree of Knowledge
+title: Evolve
 email: Amar.G.Shaikh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My biggest passion is learning and sharing knoweldge.
   Knowledge (~Gno): To know, recognise and see the truth. To be able to play with ideas, concepts and frameworks and see things from new angles. 
     Taking complex topics and simply explaining them is incredibly fulfilling.
-  but when I’m finally done, it gives me satisfaction knowing that I've helped people to understand new topics !
+  When I’m finally done, it gives me satisfaction knowing that I've helped people to understand important topics !
     I hope that you can feel all my passion when reading my posts and that you may benefit from them !
 # Teach us what is beneficial. Let us benefit from what you teach us. Increase us in our knowledge.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://a-g-shaikh.github.io"
-twitter_username: ''
-github_username:  'a-g-shaikh'
+#twitter_username: ''
+#github_username:  'a-g-shaikh'
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: awcodify/arsxy-theme
+
 plugins:
   - jekyll-feed  
-  - jekyll-seo-tag
+  - jekyll-seo-tag  
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Dark mode configuration
+dark_mode:
+  enabled: true
+  default: true
   
+# Navigation
+navigation:
+  - title: Home
+    url: /
+    icon: home
+  - title: Articles
+    url: /articles
+    icon: book-open
+#  - title: Categories
+#   url: /categories
+#      icon: folder
+#      - title: Tags
+#      url: /tags
+#      icon: tag
+  - title: About
+    url: /about
+    icon: info
+  - title: Contact
+    url: /contact
+    icon: mail
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      toc: true
+      featured: false
+      reading_time: true
+      share: true
+
+
+# Homepage configuration
+homepage:
+  # About section configuration for sidebar
+  about_widget:
+    enabled: true
+    title: "About"
+    content: "A place to learn, share and grow "
+    link_text: "Discover more →"
+    link_url: "/about/"
+    
+  # Featured posts settings
+  featured_posts:
+    enabled: true
+    title: "Featured Posts"
+    limit: 3
+
+# Table of Contents configuration
+toc:
+  enabled: true
+  h_min: 2   # Minimum heading level to include in TOC
+  h_max: 3   # Maximum heading level to include in TOC
+
+# Search functionality
+search:
+  enabled: true
+  placeholder: "Search posts..."
+  results_count: 10  # Maximum number of search results to display
+  
+social:
+email: Amar.G.Shaikh@gmail.com
+
+#feature toggles
+features:
+#  dark_mode: true                   # Enable dark mode toggle
+#  auto_dark_mode: true              # Respect system preferences
+#  toc: true                         # Table of contents for posts
+#  reading_time: true                # Show estimated reading time
+#  social_sharing: true              # Show social sharing buttons
+#  hero_section: true                # Enable hero section on homepage
+  related_posts: true               # Show related posts
+
+# Build settings
+#markdown: kramdown
+#highlighter: rouge                  # Syntax highlighter
+#sass:
+#  style: compressed                 # CSS compression
+
+# Theme-specific settings
+date_format: "%b %-d, %Y" # e.g. May 5, 2025
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

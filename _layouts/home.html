@@ -1,0 +1,192 @@
+---
+layout: default
+---
+
+<div class="home">
+  <!-- Hero Section -->
+  {% if site.homepage.hero.enabled %}
+  <section class="hero-section">
+    <div class="hero-content">
+      <h1 class="hero-title">{{ site.homepage.hero.title }}</h1>
+      <p class="hero-subtitle">{{ site.homepage.hero.subtitle }}</p>
+      <div class="hero-buttons">
+        {% for button in site.homepage.hero.buttons %}
+          <a href="{{ button.url | relative_url }}" class="btn {% if button.primary %}btn-primary{% else %}btn-secondary{% endif %}">{{ button.label }}</a>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="hero-image">
+      <img 
+        src="{{ '/assets/images/' | append: site.homepage.hero.image | relative_url }}" 
+        alt="{{ site.homepage.hero.title }}"
+        width="600"
+        height="400"
+        loading="eager"
+      >
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- Main Content Area with Sidebar -->
+  <div class="content-with-sidebar">
+    <!-- Main Content -->
+    <div class="main-content">
+      <!-- Featured Posts Section -->
+      {% if site.homepage.featured_posts.enabled %}
+      <section class="featured-posts">
+        <h2 class="section-heading">{{ site.homepage.featured_posts.title }}</h2>
+        <div class="featured-grid">
+          {% assign featured_posts = site.posts | where: "featured", true %}
+          {% assign limit = site.homepage.featured_posts.limit | default: 3 %}
+          {% for post in featured_posts limit:limit %}
+            <div class="featured-card">
+              {% if post.image %}
+                <div class="card-image">
+                  <a href="{{ post.url | relative_url }}">
+                    <img 
+                      src="{{ '/assets/images/' | append: post.image | relative_url }}" 
+                      alt="{{ post.title }}"
+                      width="400"
+                      height="225"
+                      loading="{% if forloop.index <= 1 %}eager{% else %}lazy{% endif %}"
+                    >
+                  </a>
+                </div>
+              {% endif %}
+              <div class="card-content">
+                <span class="card-meta">{{ post.date | date: site.date_format | default: "%b %-d, %Y" }}</span>
+                <h3 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+                <p class="card-excerpt">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+                <a href="{{ post.url | relative_url }}" class="read-more" aria-label="Read more">Read more →</a>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+      <!-- Latest Articles -->
+      {% if site.homepage.latest_articles.enabled %}
+      <section class="latest-articles">
+        <h2 class="section-heading">{{ site.homepage.latest_articles.title }}</h2>
+        <ul class="post-list">
+          {% for post in paginator.posts %}
+            {% unless post.featured %}
+            <li class="post-item">
+              <div class="post-preview {% unless post.image %}no-image{% endunless %}">
+                <div class="post-preview-content">
+                  <span class="post-meta">
+                    {{ post.date | date: site.date_format | default: "%b %-d, %Y" }}
+                    {% if post.categories.size > 0 %}
+                      <span class="post-categories">
+                        {% for category in post.categories %}
+                          {% assign category_slug = category | slugify %}
+                          <a href="{{ '/categories/#' | append: category_slug | relative_url }}">{{ category }}</a>
+                        {% endfor %}
+                      </span>
+                    {% endif %}
+                  </span>
+                  
+                  <h3>
+                    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+                  </h3>
+                  
+                  <p class="post-excerpt">
+                    {% assign excerpt_length = site.homepage.latest_articles.excerpt_length | default: 30 %}
+                    {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
+                  </p>
+                  
+                  <a href="{{ post.url | relative_url }}" class="read-more" aria-label="Read more about {{ post.title }}">Read more →</a>
+                </div>
+                
+                {% if post.image %}
+                <div class="post-preview-image">
+                  <a href="{{ post.url | relative_url }}">
+                    <img 
+                      src="{{ '/assets/images/' | append: post.image | relative_url }}" 
+                      alt="{{ post.title }}" 
+                      loading="{% if forloop.index <= 2 %}eager{% else %}lazy{% endif %}"
+                      width="400"
+                      height="225"
+                    />
+                  </a>
+                </div>
+                {% endif %}
+              </div>
+            </li>
+            {% endunless %}
+          {% endfor %}
+        </ul>
+        
+        <!-- Pagination -->
+        {% if paginator.total_pages > 1 %}
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-previous">&laquo; Previous</a>
+          {% else %}
+            <span class="pagination-previous disabled">&laquo; Previous</span>
+          {% endif %}
+          
+          <div class="pagination-pages">
+            {% for page in (1..paginator.total_pages) %}
+              {% if page == paginator.page %}
+                <span class="pagination-current">{{ page }}</span>
+              {% elsif page == 1 %}
+                <a href="{{ '/' | relative_url }}" class="pagination-link">{{ page }}</a>
+              {% else %}
+                <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="pagination-link">{{ page }}</a>
+              {% endif %}
+            {% endfor %}
+          </div>
+          
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-next">Next &raquo;</a>
+          {% else %}
+            <span class="pagination-next disabled">Next &raquo;</span>
+          {% endif %}
+        </div>
+        {% endif %}
+      </section>
+      {% endif %}
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <!-- About Widget -->
+      {% if site.homepage.about_widget.enabled %}
+      <div class="sidebar-widget about-widget">
+        <h3 class="widget-title">{{ site.homepage.about_widget.title }}</h3>
+        <p>{{ site.homepage.about_widget.content }}</p>
+        <a href="{{ site.homepage.about_widget.link_url | relative_url }}" class="sidebar-link">{{ site.homepage.about_widget.link_text }}</a>
+      </div>
+      {% endif %}
+
+      <!-- Categories Widget -->
+      <div class="sidebar-widget categories-widget">
+        <h3 class="widget-title">Categories</h3>
+        <ul class="category-list">
+          {% assign categories = site.categories | sort %}
+          {% for category in categories %}
+            {% assign category_slug = category[0] | slugify %}
+            <li><a href="{{ '/categories/#' | append: category_slug | relative_url }}">{{ category[0] }} <span>({{ category[1].size }})</span></a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      
+      <!-- Tags Widget -->
+      <div class="sidebar-widget tags-widget">
+        <h3 class="widget-title">Tags</h3>
+        <div class="sidebar-tags">
+          {% assign tags = site.tags | sort %}
+          {% for tag in tags limit:15 %}
+            {% assign tag_slug = tag[0] | slugify %}
+            <a href="{{ '/tags/#' | append: tag_slug | relative_url }}" class="sidebar-tag">{{ tag[0] }}</a>
+          {% endfor %}
+          {% if site.tags.size > 15 %}
+            <a href="{{ '/tags/' | relative_url }}" class="view-all-tags">View all</a>
+          {% endif %}
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>

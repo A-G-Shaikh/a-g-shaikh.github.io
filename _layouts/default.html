@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}" 
+      {% if site.dark_mode.enabled == false %}data-dark-mode-enabled="false"{% else %}data-dark-mode-enabled="true"{% endif %}
+      {% if site.dark_mode.default %}data-dark-mode-default="true"{% else %}data-dark-mode-default="false"{% endif %}>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="baseurl" content="{{ site.baseurl }}">
+  
+  <!-- Cache control hints for browsers -->
+  <meta http-equiv="Cache-Control" content="max-age=86400, public">
+  
+  {%- seo -%}
+  
+  <!-- Preconnect to Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <!-- Critical/main CSS -->
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  
+  <!-- Custom CSS files -->
+  {% if page.custom_css %}
+    {% for css in page.custom_css %}
+    <link rel="stylesheet" href="{{ "/assets/css/" | append: css | append: ".css" | relative_url }}">
+    {% endfor %}
+  {% endif %}
+  
+  <!-- Non-critical/extended CSS loaded asynchronously -->
+  <link rel="preload" href="{{ "/assets/css/extended.css" | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="{{ "/assets/css/extended.css" | relative_url }}"></noscript>
+  
+  <!-- Google Fonts loaded with font-display: swap -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"></noscript>
+  
+  {%- feed_meta -%}
+  
+  <!-- Favicon -->
+  {% if site.favicon.enabled != false %}
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ site.favicon.apple_touch_icon | default: "/assets/images/favicon/apple-touch-icon.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ site.favicon.icon32 | default: "/assets/images/favicon/favicon-32x32.png" | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ site.favicon.icon16 | default: "/assets/images/favicon/favicon-16x16.png" | relative_url }}">
+  <link rel="manifest" href="{{ site.favicon.manifest | default: "/assets/images/favicon/site.webmanifest" | relative_url }}">
+  {% if site.favicon.mask_icon %}
+  <link rel="mask-icon" href="{{ site.favicon.mask_icon | relative_url }}" color="{{ site.favicon.mask_icon_color | default: '#5bbad5' }}">
+  {% endif %}
+  {% if site.favicon.shortcut_icon %}
+  <link rel="shortcut icon" href="{{ site.favicon.shortcut_icon | relative_url }}">
+  {% endif %}
+  {% if site.favicon.ms_config %}
+  <meta name="msapplication-config" content="{{ site.favicon.ms_config | relative_url }}">
+  {% endif %}
+  {% endif %}
+  
+  <!-- Preload critical JS -->
+  <link rel="preload" href="{{ "/assets/js/main.js" | relative_url }}" as="script">
+  
+  {% if page.layout == 'home' and site.homepage.hero.enabled %}
+  <!-- Preload hero image for faster LCP (Largest Contentful Paint) -->
+  <link rel="preload" as="image" href="{{ '/assets/images/' | append: site.homepage.hero.image | relative_url }}">
+  {% endif %}
+  
+  <!-- Fallback for browsers that don't support preload -->
+  <script>
+    !function(n){"use strict";n.loadCSS||(n.loadCSS=function(){});var o=loadCSS.relpreload={};if(o.support=function(){var e;try{e=n.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),o.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},o.poly=function(){if(!o.support())for(var t=n.document.getElementsByTagName("link"),e=0;e<t.length;e++){var a=t[e];"preload"!==a.rel||"style"!==a.getAttribute("as")||a.getAttribute("data-loadcss")||(a.setAttribute("data-loadcss",!0),o.bindMediaToggle(a))}},!o.support()){o.poly();var t=n.setInterval(o.poly,500);n.addEventListener?n.addEventListener("load",function(){o.poly(),n.clearInterval(t)}):n.attachEvent&&n.attachEvent("onload",function(){o.poly(),n.clearInterval(t)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:n.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+  </script>
+  
+  <!-- Dark mode detection -->
+  <script>
+    // Get configuration from data attributes
+    const html = document.documentElement;
+    const darkModeEnabled = html.getAttribute('data-dark-mode-enabled') === 'true';
+    
+    if (!darkModeEnabled) {
+      // If dark mode is disabled in config, force light mode
+      // This will override any user preference or OS setting
+      html.classList.remove('dark-mode');
+      localStorage.setItem('theme', 'light');
+    } else {
+      // Dark mode is enabled in config, check other preferences
+      const siteDefaultDark = html.getAttribute('data-dark-mode-default') === 'true';
+      const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const storedTheme = localStorage.getItem('theme');
+      
+      if (storedTheme === 'dark' || (!storedTheme && siteDefaultDark)) {
+        // Apply dark mode if:
+        // 1. User explicitly chose dark mode in the past OR
+        // 2. No stored preference AND site default is dark
+        html.classList.add('dark-mode');
+      } else if (storedTheme === 'light' || (!storedTheme && !siteDefaultDark)) {
+        // Apply light mode if:
+        // 1. User explicitly chose light mode in the past OR
+        // 2. No stored preference AND site default is light
+        html.classList.remove('dark-mode');
+      }
+    }
+  </script>
+</head>
+
+<body class="{% if page.layout %}layout-{{ page.layout }}{% endif %}">
+  {%- include header.html -%}
+  
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+  
+  {%- include footer.html -%}
+  
+  <script src="{{ "/assets/js/main.js" | relative_url }}" defer></script>
+  <script src="{{ "/assets/js/search.js" | relative_url }}" defer></script>
+</body>
+</html>

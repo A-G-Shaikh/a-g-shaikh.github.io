@@ -1,14 +1,20 @@
 ---
 Title: On Happiness
 layout: post
-Date: 2024-12-08 
-Category: Philosophy
-Authors: AGS
-Summary: Understanding Happiness
+author: AGS
+Description: Reflections on Happiness
+categories : philosophy 
+toc: true
+tags: happiness 
+featured: true
+image: happi.jpg
 ---
-‬
 
-How do we make sense of happiness ? This is an important question for us all
+
+‬How do we make sense of happiness ? 
+
+### Introduction 
+This is an important question for us all
 to understand because happiness can be seen as a measure of our actions
 aligning with our core values. It indicates whether we are treading the right
 path or whether it is necessary to correct our course.
@@ -18,6 +24,9 @@ the long run ? Who are we happiest around ? Why does happiness exist ?
 How can we design a life to increase our chances of happiness ? I found many
 of the answers to these questions by reading “The Alchemy of Happiness” by
 Al-Ghazali (R.A).
+
+### Background 
+
 Happiness can be viewed as an emotional as well as a spiritual state
 (contentment/equanimity). A person can have wealth, power and fortune in
 this world and yet be ill at ease. Whereas a seemingly ‘unfortunate’ person can
@@ -37,6 +46,8 @@ misery. We can take pride in the fact that we overcame states such as sense
 desire, sloth, ill will, restlessness and doubt to achieve our aims. Thus, we can
 be happy with our past (if we acted virtuously), where we are now and where
 we’re heading.
+
+### Recognising Joy 
 
 As a benchmark of our effort, we can be happy when we put our best effort
 into an activity. We can then be pleased with our attempt, regardless of the
@@ -65,11 +76,13 @@ health, faith or other resources. Being happy means celebrating daily wins,
 with what went well as well as acknowledging and affirming our
 accomplishments that resulted from the qualities and skills we have been
 endowed with.
+
+### Unification
+
 A soul that is harmonious, unified and whole is more likely to return to peace
 and gladness. This means working to understand and reconcile our seemingly
 conflicting parts (each with their own unique wants and needs), without any
 part of ourselves rejected or granted supremacy. The whims and indulgence
-
 of our lower selves are well managed and our inner feedback mechanism is
 not operating from a place of harsh criticism. Our higher self can then operate
 from an integrated position and act according to divine principles and it’s true
@@ -79,6 +92,9 @@ blame, harsh judgement or ill will towards others. Once we connect with
 ourselves and hold ourselves in unconditional positive regard we can do the
 same with others. This flow of generosity, love and kindness plays a pivotal
 role in the happiness we wish for others as we wish for ourselves.
+
+### Connection
+
 Connecting deeply with God, nature, humanity and our own selves is a key
 element of happiness for me. Knowing the Divine presence experientially
 means we can tap straight into the source of security, serenity and grace.
@@ -94,6 +110,9 @@ higher selves, to understand our selves more fully. This affirmed by the
 proverb ‘Whoever knows himself, knows his Lord’. Meditative tools thus let us
 experience rapture, intimacy and be inspired by exploring the depths of our
 soul.
+
+### Spheres of Happiness
+
 Happiness can also be viewed through the spheres of intellect, heart, body
 and soul. Each experiences it’s own version joy. Intellectual joy can come
 through curiosity, participating in and appreciating art, literature, science,
@@ -105,6 +124,9 @@ through strength, power and stamina. Happiness for the soul means noticing
 the synchronicity of day to day miracles, being of service, seeing the
 humorous side of events, appreciating the sanctity of the present moment as
 well as learning the art of discernment to decide wisely.
+
+### Conclusion 
+
 Surah Al-Asr reminds us as the day starts to fade away, those that find
 happiness are the ones who lived in accordance with faith, knowing they
 contributed with their actions and embodied their values by prioritising well.
