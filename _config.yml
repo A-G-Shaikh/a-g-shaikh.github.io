@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  A.G.S
+title: AGS
 email: Amar.G.Shaikh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     I love to learn, write and and share knoweldge.
-  Knowledge (~Gno): To know, recognise and see the truth. To be able to play with ideas, concepts and frameworks and see things from new angles. 
+    Knowledge (~Gno): To know, recognise and see the truth. To be able to play with ideas, concepts and frameworks and see things from new angles. 
     Taking complex topics and simply explaining them is incredibly fulfilling for me.
-  When I’m finally done writing, it gives me satisfaction to know that I've helped people to understand important topics !
+    When I’m finally done writing, it gives me satisfaction to know that I've helped people to understand important topics !
     I hope that you can feel all my passion when reading my posts and that you may benefit from them. 
 # Teach us what is beneficial. Let us benefit from what you teach us. Increase us in our knowledge.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://a-g-shaikh.github.io"
+url: "a-g-s.netlify.app"
 #twitter_username: ''
 #github_username:  'a-g-shaikh'
 
