@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Evolve
+title:  A.G.S
 email: Amar.G.Shaikh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My biggest passion is learning and sharing knoweldge.
+    I love to learn, write and and share knoweldge.
   Knowledge (~Gno): To know, recognise and see the truth. To be able to play with ideas, concepts and frameworks and see things from new angles. 
-    Taking complex topics and simply explaining them is incredibly fulfilling.
-  When I’m finally done, it gives me satisfaction knowing that I've helped people to understand important topics !
-    I hope that you can feel all my passion when reading my posts and that you may benefit from them !
+    Taking complex topics and simply explaining them is incredibly fulfilling for me.
+  When I’m finally done writing, it gives me satisfaction to know that I've helped people to understand important topics !
+    I hope that you can feel all my passion when reading my posts and that you may benefit from them. 
 # Teach us what is beneficial. Let us benefit from what you teach us. Increase us in our knowledge.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -88,7 +88,7 @@ homepage:
   about_widget:
     enabled: true
     title: "About"
-    content: "A place to learn, share and grow "
+    content: "Read, in the name of your Lord...  "
     link_text: "Discover more →"
     link_url: "/about/"
     
@@ -111,7 +111,7 @@ search:
   results_count: 10  # Maximum number of search results to display
   
 social:
-email: Amar.G.Shaikh@gmail.com
+    email: Amar.G.Shaikh@gmail.com
 
 #feature toggles
 features:
@@ -131,8 +131,6 @@ features:
 
 # Theme-specific settings
 date_format: "%b %-d, %Y" # e.g. May 5, 2025
-
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

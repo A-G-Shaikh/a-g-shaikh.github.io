@@ -14,7 +14,7 @@ What's the best way to approach learning Arabic ?
 
 ### Introduction
 
-Is learning Arabic really that important ?  Can’t I get by with English instead ? What’s wrong with using a translation ? What do I hope to achieve with my efforts ? Can I get by without all this grammar ? 
+> Is learning Arabic really that important ?  Can’t I get by with English instead ? What’s wrong with using a translation ? What do I hope to achieve with my efforts ? Can I get by without all this grammar ? 
 
 These questions inevitably surface in the mind of every Arabic, let alone any language learner. It is important to bear in mind however,that learning a language and even having the resources to study such subjects is a privilege granted to only a few us. It’s something we get to do, rather than have to do.
 
@@ -22,7 +22,7 @@ These questions inevitably surface in the mind of every Arabic, let alone any la
 
 Indeed, Arabic is intimidating when we look at the data (according to the Foreign Service Institute, USA1 Arabic is rated as a Category 4 language, alongside Chinese, Japanese and Korean, in terms of difficulty and class hours for English speakers.) Whereas, languages closer to English such as French and Spanish take far fewer hours. This is understandable, given the differences in pronunciation, writing paradigm and structure. However, by developing a clear reason for learning alongside a solid strategy, we significantly increase our chances of success. A steady resolve keeps us firm and helps us through the valleys of doubt and despair that we will come across along the way.  We can recognise this as a challenging task and ask ourselves, what would God want and expect from us ? What resources can we draw on to accomplish these goals ? Motivation can come and go but the discipline and consistency of a smart approach as well as help from higher up, is what ultimately helps us pass through.
 
-Truly, we have sent it down as an Arabic Quran so that you [people] may         understand.     (12:2)
+`Truly, we have sent it down as an Arabic Quran so that you [people] may understand. (12:2)`
 
 ### Motivation
 
@@ -31,13 +31,14 @@ The reasons for learning Arabic or even the type of Arabic can vary considerably
 ### The beauty of Arabic
 
 Arabic is so precise in its usage that solely relying on a translation means that a crucial part of the experience is missing. The spirit, feel and beauty of the language get lost  (especially the eloquence, rhythm and rhyme in Literature). Arabic, especially in the Quran uses acoustic emphasis and elliptical passages to make a point (called Ijaz). The idiom and phraseology in its natural form can be exceedingly beautiful and the language seems to sing at its highest levels. Arabic is unique as a Semitic language that has remained in usage uninterruptedly since the Quran was revealed. Other languages used in sacred texts such as Hebrew had not been used in society till recently and had to be resurrected. By learning it, we are performing a sacred duty and integrating it as part of a rich heritage of Arabic literature and culture. Steadily we start learning Arabic not because we feel forced because we want to. We develop a love and yearning for the language and its quirks (how words can morph from their roots, how Classical Arabic roots are no longer than 5 letters2 and how we can acquire new words simply by decoding the root word).  The mindset of loving the process means that we switch to putting the joy and fascination back into our endeavour. Choosing ways that will suit us and that we’re likely to stick to makes a world of difference in terms of feeling that reward and personal happiness. Having our intention clear in this regard, e.g.  learning and understanding Arabic to enjoy the Quran or understand what is said in prayers, can help power us through. We can rely on English translations yet the flow, beauty and poetic nature of this text can easily get lost (despite incredible translations e.g M.A.S. Abdel Haleem). Connecting directly to the spirit of Arabic, allows us to understand not only with our minds but with our hearts and souls. 
-                                                                          فَلَا اقْتَحَمَ الْعَقَبَةَ
 
-But he did not brave the steep path (90:11)
+                                                                        فَلَا اقْتَحَمَ الْعَقَبَ
+                                                                        
+`But he did not brave the steep path (90:11)`
 
   وَمَا أَدْرَاكَ مَا الْعَقَبَةُ
   
-And what will explain to you what the steep path is? (90:12) 
+`And what will explain to you what the steep path is? (90:12)` 
 
 ### From struggle to fulfilment
 
@@ -70,10 +71,9 @@ The volume and amount of reps and effort we put in does ultimately make a differ
 May this journey be successful and may you all receive the fruits of this wonderful language. 
 
 
+`Then each soul will know what it has sent forth (prioritised) or left behind    (delayed) (82:5)`
+
 عَلِمَتْ نَفْسٌۭ مَّا قَدَّمَتْ وَأَخَّرَتْ ٥
-
-Then each soul will know what it has sent forth (prioritised) or left behind    (delayed) (82:5)
-
 
 ### Resources
 
@@ -97,6 +97,5 @@ Gateway to Arabic – book and Youtube videos (especially Arabic root verbs seri
 https://www.youtube.com/@ImranAlawiye-gatewaytoarabic 
 
 Al-Quran institute (Free group classes, covering Modules in Quranic Arabic) 
-
 
 Regent’s Park Classes (For in person classes)

@@ -4,10 +4,13 @@ title: About
 permalink: /about/
 ---
 
-## About The Tree of Knowledge
-  
-This site was created to share insights and wisdom. 
+## About
 
-Feel free to share yours by adding a comment or getting in touch !
+
+`Abdullah bin Amr bin al-Aas (May Allah Most High be pleased with them both) said that the Messenger of Allah (PBUH) said, ‘Capture knowledge.’` 
+
+`I said, how is it captured?` 
+
+`He (PBUH) said, ‘By writing it.’ (al-Mustadrak, Hakim 362).`
 
 
