@@ -68,9 +68,9 @@ navigation:
   - title: Dua
     url: /dua
     icon: users
-  - title: Contact
-    url: /contact
-    icon: mail   
+#  - title: Contact
+#    url: /contact
+#    icon: mail   
      
 rss_enabled: false
 
@@ -97,6 +97,16 @@ homepage:
     link_text: "Discover more →"
     link_url: "/about/"
     
+  hero:
+    enabled: true
+    title: "Seek. Learn. Share"
+    subtitle: "Expand your horizons"
+    image: "welcome-to-arsxy-theme.webp"
+    buttons:
+      - label: "Browse all articles"
+        url: "/articles/"
+        primary: true 
+        
   # Featured posts settings
   featured_posts:
     enabled: true
@@ -109,6 +119,9 @@ toc:
   h_min: 2   # Minimum heading level to include in TOC
   h_max: 3   # Maximum heading level to include in TOC
 #toc_position: left # Options: 'left', 'right' (default)
+
+
+
 
 # Search functionality
 search:
@@ -126,8 +139,8 @@ features:
 #  toc: true                         # Table of contents for posts
 #  reading_time: true                # Show estimated reading time
 #  social_sharing: true              # Show social sharing buttons
-#  hero_section: true                # Enable hero section on homepage
-   related_posts: true               # Show related posts
+#   hero_section: true                # Enable hero section on homepage
+  related_posts: true               # Show related posts
 
 # Build settings
 #markdown: kramdown

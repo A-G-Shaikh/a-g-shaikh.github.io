@@ -10,12 +10,12 @@ image: dua.png
 
 “And your Lord has said: Pray unto Me and I will hear your prayer.” (40:60)
 
-Ask and it will be given to you;
+"Ask and it will be given to you;
 seek and you will find;
 knock and the door will be opened to you.
 for everyone who asks receives;
 the one who seeks finds;
-and to the one who knocks, the door will be opened.
+and to the one who knocks, the door will be opened."
 
 ## In the footsteps of Abu Darda (R.A) 
 

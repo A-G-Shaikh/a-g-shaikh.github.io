@@ -96,4 +96,24 @@ Noticing the state of the heart and soul is a key responsibility for Muslims. Wh
 
 By tuning in to what God wants of us and remembering our intention with Bismillah (from the beginning, middle to the end of any process) we can reorient ourselves towards the true purpose of any activity and purify our intention. Continually cleansing our thoughts, emotions, sensation and behaviours means that we are in a better position to understand signals that are messages from the divine. Our mirror has been sufficiently polished to better reflect the light This can be a lifelong journey of continual cleansing but it is indeed a worthy endeavour. The path of mindfully attending to each sphere of our experiences means we can be grateful for them, despite how arduous it may seem. When the alternative is sleepwalking through our lives, we risk living a life half lived. So the challenge for us all today is, how and where would you like to be more mindful ? Where is your consciousness leading you to ? 
 
+---
 
+# Resources
+
+### Apps (free)
+
+Insight Timer
+
+Medito 
+
+Blip Blip (mindfulness bell)
+
+### Books
+
+Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness (Jon Kabat-Zinn) 
+
+The Qur'an (M. A. S. Abdel Haleem)
+
+The Mind Illuminated: A Complete Meditation Guide (Dr John Yates)
+
+Peace Is Every Step: The Path of Mindfulness in Everyday Life (Thich Nhat Hanh)

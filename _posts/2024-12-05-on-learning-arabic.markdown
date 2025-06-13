@@ -32,11 +32,7 @@ The reasons for learning Arabic or even the type of Arabic can vary considerably
 
 Arabic is so precise in its usage that solely relying on a translation means that a crucial part of the experience is missing. The spirit, feel and beauty of the language get lost  (especially the eloquence, rhythm and rhyme in Literature). Arabic, especially in the Quran uses acoustic emphasis and elliptical passages to make a point (called Ijaz). The idiom and phraseology in its natural form can be exceedingly beautiful and the language seems to sing at its highest levels. Arabic is unique as a Semitic language that has remained in usage uninterruptedly since the Quran was revealed. Other languages used in sacred texts such as Hebrew had not been used in society till recently and had to be resurrected. By learning it, we are performing a sacred duty and integrating it as part of a rich heritage of Arabic literature and culture. Steadily we start learning Arabic not because we feel forced because we want to. We develop a love and yearning for the language and its quirks (how words can morph from their roots, how Classical Arabic roots are no longer than 5 letters2 and how we can acquire new words simply by decoding the root word).  The mindset of loving the process means that we switch to putting the joy and fascination back into our endeavour. Choosing ways that will suit us and that we’re likely to stick to makes a world of difference in terms of feeling that reward and personal happiness. Having our intention clear in this regard, e.g.  learning and understanding Arabic to enjoy the Quran or understand what is said in prayers, can help power us through. We can rely on English translations yet the flow, beauty and poetic nature of this text can easily get lost (despite incredible translations e.g M.A.S. Abdel Haleem). Connecting directly to the spirit of Arabic, allows us to understand not only with our minds but with our hearts and souls. 
 
-                                                                        فَلَا اقْتَحَمَ الْعَقَبَ
-                                                                        
 `But he did not brave the steep path (90:11)`
-
-  وَمَا أَدْرَاكَ مَا الْعَقَبَةُ
   
 `And what will explain to you what the steep path is? (90:12)` 
 
@@ -71,11 +67,9 @@ The volume and amount of reps and effort we put in does ultimately make a differ
 May this journey be successful and may you all receive the fruits of this wonderful language. 
 
 
-`Then each soul will know what it has sent forth (prioritised) or left behind    (delayed) (82:5)`
+---
 
-عَلِمَتْ نَفْسٌۭ مَّا قَدَّمَتْ وَأَخَّرَتْ ٥
-
-### Resources
+# Resources
 
 I have found the following resources helpful during my journey: 
 
