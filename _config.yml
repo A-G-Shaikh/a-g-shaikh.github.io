@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A.G.S
+title: A.G.S.guide
 email: Amar.G.Shaikh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Mission : To build a house of knowledge; a place to share guidance. 
     Acknowledgement:     I am incredibly grateful to God for giving me the courage and grace to push through and bring this project to fruition. 
     "Whoever has not thanked people, has not thanked God" Prophet Muhammad (PBUH).
-    This work is the result of my friends encouraging me to learn about programming and put it into practice. I am forever thankful to them and my family for their support and love. 
+    This work is the result of my friends encouraging me to learn about programming and then to put it into practice. I am forever thankful to them and my family for their support and love. 
     May this work bring benefit to you.
 # Teach us what is beneficial. Let us benefit from what you teach us. Increase us in our knowledge.
 
@@ -100,8 +100,8 @@ homepage:
     
   hero:
     enabled: true
-    title: "Seek. Learn. Share"
-    subtitle: "Going from the darkness of doubt to the light of certainty"
+    title: "Essays. Insights. Guides"
+    subtitle: "Going from the darkness of doubt back to the light of certainty"
     image: "welcome-to-arsxy-theme.webp"
     buttons:
       - label: "Browse all articles"
