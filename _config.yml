@@ -100,16 +100,16 @@ homepage:
     
   hero:
     enabled: true
-    title: "Essays. Insights. Guides"
-    subtitle: "Going from the darkness of doubt back to the light of certainty"
+    title: "Essays. Insights. Reflections"
+    subtitle: "On going from the darkness of doubt back to the light of certainty"
     image: "welcome-to-arsxy-theme.webp"
-    buttons:
-      - label: "Browse all articles"
-        url: "/articles/"
-        primary: true 
-      - label: "About"
-        url: "/about/"
-        primary: false
+#    buttons:
+#      - label: "Browse all articles"
+#        url: "/articles/"
+#        primary: true 
+#      - label: "About"
+#        url: "/about/"
+#        primary: false
         
   # Latest articles settings
   latest_articles:
