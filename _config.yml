@@ -21,10 +21,11 @@
 title: A.G.S
 email: Amar.G.Shaikh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    I love to learn, discover and explore different branches of knowledge.  
-    The root of the word Knowledge (~Gno) means to know, recognise and see the truth. Another root meaning is to be able to play with ideas, concepts and frameworks and see things from new angles. 
-    Taking complex ideas, gathering their core concepts and simply explaining them is incredibly fulfilling for me.
-    I hope that you can feel all my passion when reading my posts and that you may benefit from them. 
+    Mission : To build a house of knowledge; a place to share guidance. 
+    Acknowledgement:     I am incredibly grateful to God for giving me the courage and grace to push through and bring this project to fruition. 
+    "Whoever has not thanked people, has not thanked God" Prophet Muhammad (PBUH).
+    This work is the result of my friends encouraging me to learn about programming and put it into practice. I am forever thankful to them and my family for their support and love. 
+    May this work bring benefit to you.
 # Teach us what is beneficial. Let us benefit from what you teach us. Increase us in our knowledge.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -100,13 +101,22 @@ homepage:
   hero:
     enabled: true
     title: "Seek. Learn. Share"
-    subtitle: "Expand your horizons"
+    subtitle: "Going from the darkness of doubt to the light of certainty"
     image: "welcome-to-arsxy-theme.webp"
     buttons:
       - label: "Browse all articles"
         url: "/articles/"
         primary: true 
+      - label: "About"
+        url: "/about/"
+        primary: false
         
+  # Latest articles settings
+  latest_articles:
+    enabled: false
+    title: "Latest Articles"
+    excerpt_length: 30
+
   # Featured posts settings
   featured_posts:
     enabled: true
@@ -116,10 +126,9 @@ homepage:
 # Table of Contents configuration
 toc:
   enabled: true
-  h_min: 2   # Minimum heading level to include in TOC
+  h_min: 1   # Minimum heading level to include in TOC
   h_max: 3   # Maximum heading level to include in TOC
 #toc_position: left # Options: 'left', 'right' (default)
-
 
 
 
