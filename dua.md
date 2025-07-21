@@ -29,6 +29,6 @@ Abu Darda would spend each night, praying for his family, friends and for his co
 
 Let us honour this beautiful practice. 
 
-## Including others in our Dua
 
-Kindly click the [link](https://www.mydualist.com/amar-general-44269) to submit a dua to my list. 
+
+
