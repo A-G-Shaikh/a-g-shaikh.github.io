@@ -158,7 +158,7 @@ The key is to find a method that works for you — and to keep going. Consistenc
 
 May your pages become places of light and healing. 
  
-Happy journalling !
+Happy journalling and thanks for reading my TED talk !
 
 ---
 
