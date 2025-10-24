@@ -154,13 +154,11 @@ It moves from a habit to a spiritual journey. Sharing this path with others can 
 
 Journalling offers meaningful benefits — not only for our psychological health but also for our biological and spiritual well-being. It is an act of remembering and honouring ourselves. Showing up in this manner is one of the greatest gifts we can offer ourselves: a path toward peace, fulfilment, and wholeness.
 
-The key is to find a method that works for you — and to keep going. Consistency unlocks the real rewards.
+The key is to find a method that works for you — and to keep going. Consistency unlocks the real rewards. Our words can be our mirrors — not only reflecting who we are, but steadily revealing the horizon of who we are striving to become.
 
-> May your pages become places of light and healing.  
-
-> Our words can be our mirrors — not only reflecting who we are, but steadily revealing the horizon of who we are striving to become.
-  
-> Happy journalling !
+May your pages become places of light and healing. 
+ 
+Happy journalling !
 
 ---
 
@@ -181,7 +179,7 @@ Making sense of our inner world reduces the intensity, frequency, and duration o
 
 ### Prompts for Reflection
 
-Try dropping these into the waters of your mind and see which ripples arise:
+Try dropping these into the waters of the mind and see what arises:
 
 ## Core Virtues
 - Wisdom  
