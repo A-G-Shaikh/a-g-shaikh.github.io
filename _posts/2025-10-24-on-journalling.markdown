@@ -102,7 +102,7 @@ You might write to a Higher Power about what troubles you and ask for help — f
 All you need is a quiet moment, a page, and willingness to listen inwardly.  
 Start where you are — no rules, no editing.  
 
-Are you ready to turn insights into action?
+Are you ready to enact those insights ?
 
 ---
 
@@ -125,15 +125,15 @@ Creating a safe environment is essential to access the inner self. You might:
 - Notice your surroundings and breathing before beginning  
 - Dedicate even a short period to write whatever weighs on your heart  
 
-If you’re often on the move, keeping a small notebook to journal in a **Bullet Journal** style is a viable option. Digital journalling works too, but handwriting has a grounding rhythm. The tactile flow and tangible outcome make it deeply satisfying, as the movement of pen (or pencil!) on paper reveals its own wisdom.
+If you’re often on the move, keeping a small notebook to journal in a Bullet Journal style is a viable option too. Digital journalling works too, but handwriting has a grounding rhythm. The immersive flow, tactile nature and tangible outcome make it deeply satisfying. The movement of pen (or pencil!) on paper can reveal much more than the words. 
 
 ---
 
 ### Timing and Consistency
 
-Some writers prefer to journal in the **morning** to catch insights and process what surfaced overnight. Recalling dreams and noting their associated emotions offers huge returns on investment, as dreams often reveal what our waking minds suppress.
+Some writers prefer to journal in the morning to catch insights and process what surfaced overnight. Recalling dreams and noting their associated emotions offers huge returns on investment, as dreams often reveal what our waking minds suppress.
 
-Others prefer to journal in the **evening** to process the day’s events — or even throughout the day. The most important factor is consistency.  
+Others prefer to journal in the evening to process the day’s events — or even throughout the day. The most important factor is consistency.  
 The best time to journal is the one we adhere to.
 
 A simple reflective structure to use daily:
@@ -157,8 +157,10 @@ Journalling offers meaningful benefits — not only for our psychological health
 The key is to find a method that works for you — and to keep going. Consistency unlocks the real rewards.
 
 > May your pages become places of light and healing.  
-> Our words can be our mirrors — not only reflecting who we are, but steadily revealing the horizon of who we are striving to become.  
-> **Happy journalling.**
+
+> Our words can be our mirrors — not only reflecting who we are, but steadily revealing the horizon of who we are striving to become.
+  
+> Happy journalling !
 
 ---
 
@@ -187,7 +189,7 @@ Try dropping these into the waters of your mind and see which ripples arise:
 - Courage  
 - Justice
 
-# Hindrances
+## Hindrances
 - Sense desire  
 - Torpor & sloth  
 - Ill-will  
@@ -196,7 +198,7 @@ Try dropping these into the waters of your mind and see which ripples arise:
 
 Acknowledging these errors, understanding why they arose, and making amends is our path to freedom.
 
-## Daily Nourishment
+### Daily Nourishment
 - Connecting  
 - Learning  
 - Being active  
@@ -206,7 +208,7 @@ Acknowledging these errors, understanding why they arose, and making amends is o
 - Resting  
 - Sleeping  
 
-## Reflections
+### Reflections
 - What distractions or avoidance patterns showed up today?  
 - What am I grateful for?  
 - Which talents and skills can I use to benefit others?  
