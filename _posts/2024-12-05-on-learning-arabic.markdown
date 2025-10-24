@@ -14,7 +14,7 @@ What's the best way to approach learning Arabic ?
 
 ### Introduction
 
-> Is learning Arabic really that important ?  Can’t I get by with English instead ? What’s wrong with using a translation ? What do I hope to achieve with my efforts ? Can I get by without all this grammar ? 
+> Is learning Arabic really that important ?  Can’t I get by with English instead ? What’s wrong with using a translation ? What do I hope to achieve with my efforts ? Can't I get by without all this grammar ? 
 
 These questions inevitably surface in the mind of every Arabic, let alone any language learner. It is important to bear in mind however,that learning a language and even having the resources to study such subjects is a privilege granted to only a few us. It’s something we get to do, rather than have to do.
 

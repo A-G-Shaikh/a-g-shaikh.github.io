@@ -100,8 +100,8 @@ homepage:
     
   hero:
     enabled: true
-    title: "Essays. Insights. Reflections"
-    subtitle: "Synthesising, summarising and sharing knowledge about Psychology, Philosophy, Spirituality and more..."
+    title: "To seek and share knowledge"
+    subtitle: "Essays. Insights. Reflections"
     image: "welcome-to-arsxy-theme.webp"
 #    buttons:
 #      - label: "Browse all articles"
