@@ -82,6 +82,7 @@ Whether you keep or destroy what you write, the act of writing itself is rewardi
 
 The real work in relationships often begins within. By resolving inner tension, grief, and anxiety, we can show up more fully for others as our capacity to connect deepens. Through dialogue, acceptance, and review, we rekindle our emotional capacity and re-energise ourselves where we once felt depleted.
 
+As emotional release deepens, it opens the heart and soul to spiritual insight, inspiration and guidance — the next layer gets unlocked.
 ---
 
 ### Spiritual Reflection
@@ -91,7 +92,7 @@ The real work in relationships often begins within. By resolving inner tension, 
 
 Habits that lead to harm can be examined and made sense of through *muhasabah* (self-accounting) and *muraqabah* (self-vigilance). It is far better to account for our deeds now than to be taken to task for them later.
 
-Spiritually, journalling allows us to tend to the garden of the heart and refine our character. Imam Al-Ghazali (R.A.) wrote in *Ayyuhal Walad* (“O Dear Son”) that rather than bury ourselves in endless learning, focusing on the matters of the heart through *muhasabah* (accounting), *muraqabah* (vigilance), *tafakkur* (contemplating), *du’a* (supplication), and *dhikr* (remembrance) is far more fruitful as we journey toward our Lord.
+Spiritually, journalling allows us to tend to the garden of the heart and refine our character. It lets us trace the roots of our thoughts, emotions and behaviour — seeing where they branch, tangle, or need pruning so that they can result in virtue rather than in vice.  Imam Al-Ghazali (R.A.) wrote in *Ayyuhal Walad* (“O Dear Son”) that rather than bury ourselves in endless learning, focusing on the matters of the heart through *muhasabah* (accounting), *muraqabah* (vigilance), *tafakkur* (contemplating), *du’a* (supplication), and *dhikr* (remembrance) is far more fruitful as we journey toward our Lord.
 
 Through journalling, we can own our errors and shortcomings, creating space for divine insight and guidance. Each entry is an opportunity to remove weeds and thorns that cause harm. We can instead nurture qualities such as contentment, gratitude, and patience — allowing us to receive fruits in the form of grace, peace, and faith. Removing blockages in our heart also means we have greater chances of entering those streams of joy, rapture and bliss. 
 
@@ -114,7 +115,7 @@ How would we like to relate to them ? It’s our choice — our responsibility. 
 
 Just as doing complex maths in your head can be frustrating, trying to “solve” emotional equations mentally only adds more pressure. Journalling helps you process what’s in your heart and mind, freeing up mental bandwidth for creativity and problem-solving.
 
-Dealing with pain, loss, failure, and regret can be remarkably tricky. Working in high-pressure situations and in healthcare professions means regular encounters with death, disease, and distress. During such moments, we’re vulnerable to anguish, despair, and sadness. Esepcially when it seems like too much, too fast and too soon. 
+Dealing with pain, loss, failure, and regret can be remarkably tricky. Working in high-pressure situations and in healthcare professions means regular encounters with death, disease, and distress. During such moments, we’re vulnerable to anguish, despair, and sadness. Especially when it seems like too much, too fast and too soon. 
 
 Pouring your heart out onto paper releases these burdens without excessive judgment or censorship. Let the page absorb it all. Rather than abandoning those parts of yourself, you honour and care for them. This steadily harmonises our core as we go from dispersion and fragmentation to integration and unity. 
 
@@ -157,13 +158,13 @@ It moves from a habit to a spiritual journey. Sharing this path with others can 
 
 ### Conclusion
 
-Journalling offers meaningful benefits — not only for our psychological health but also for our biological and spiritual well-being. It is an act of remembering and honouring ourselves. Showing up in this manner is one of the greatest gifts we can offer ourselves: a path toward peace, fulfilment, and wholeness.
+Journalling offers meaningful benefits — not only for our psychological health but also for our biological and spiritual well-being. It is an act of remembering and honouring ourselves. Showing up in this manner is one of the greatest gifts we can offer ourselves: meeting ourselves where we are, instead of where we immediately wish to be. 
 
 The key is to find a method that works for you — and to keep going. Consistency unlocks the real rewards. Our words can be our mirrors — not only reflecting who we are, but steadily revealing the horizon of who we are striving to become.
 
 May your pages become places of light and healing. 
  
-Happy journalling and thanks for reading my TED talk !
+Happy journalling and if this ever does become a TED Talk — you heard it here first.
 
 ---
 
