@@ -83,6 +83,7 @@ Whether you keep or destroy what you write, the act of writing itself is rewardi
 The real work in relationships often begins within. By resolving inner tension, grief, and anxiety, we can show up more fully for others as our capacity to connect deepens. Through dialogue, acceptance, and review, we rekindle our emotional capacity and re-energise ourselves where we once felt depleted.
 
 As emotional release deepens, it opens the heart and soul to spiritual insight, inspiration and guidance — the next layer gets unlocked.
+
 ---
 
 ### Spiritual Reflection
