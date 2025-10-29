@@ -34,11 +34,14 @@ Thus, tuning in fully — mind, body, and soul — helps us stay in step with th
 
 ### Why Journal
 
-Not yet convinced ? (or if you are, jump to Part 2 : Practical Tools for Journalling)  
+Not yet convinced ?  
 
 Professor James Pennebaker’s studies found that writing about key life experiences for just **15–20 minutes a day over four days** improved immune function and emotional resilience. This form of journalling uses keywords as prompts to write about what weighs on the mind. Releasing these thoughts by putting them on paper has a direct and positive impact on both the body and psyche.
 
 If trauma, pain, and unprocessed memories are held in the mind, they manifest in the body — often as weariness, weakness, or exhaustion. Just as we can see hyperactivity physically, our minds can also become hyperactive. Journalling is a “top-down” way of processing experience, using our higher faculties to make sense of what we’ve lived through. Other “bottom-up” methods — such as movement (martial arts, yoga, prayer, Qi Gong), breathwork (Tonglen, Metta), and touch — are beyond the scope of this essay and will be discussed in another article. Science has clearly shown what many have felt, that writing heals both mind and body. 
+Whether you keep or destroy what you write, the act of writing itself is rewarding. When we feel disconnected, isolated, or lonely, journalling helps us reconnect with our inner world — a way to show up for ourselves. It is simple companionship with pen and page, a place that anybody can create in order to offer understanding. 
+
+The real work in relationships often begins within. By resolving inner tension, grief, and anxiety, we can show up more fully for others as our capacity to connect deepens. Through dialogue, acceptance, and review, we rekindle our emotional capacity and re-energise ourselves where we once felt depleted.
 
 ---
 
@@ -54,19 +57,37 @@ Through writing, we can recognise distorted thinking (such as cognitive distorti
 
 ---
 
+### How to Journal
+
+Just as doing complex maths in your head can be frustrating, trying to “solve” emotional equations mentally only adds more pressure. Journalling helps you process what’s in your heart and mind, freeing up mental bandwidth for creativity and problem-solving.
+
+We can start by acknowledging : What’s been swirling around in our head ?  Are we stuck in repetitive patterns of thought, emotion, or behaviour?   How would we like to relate to them ? It’s our choice — our responsibility. With this responsibility, comes great power. The power to change how we respond. 
+Creating a safe environment is essential to access the inner self. We can dedicate even a short period to write whatever weighs on the heart
+Noticing our surroundings and how we're breathing before beginning can allow us to settle in. We can then observe and purify our intention before beginning e.g. to seek clarity, healing and be closer to the Divine. 
+ 
+A simple reflective structure to use daily:
+- **[+/=)]** What went well  
+- **[–/=(]** What didn’t go so well  
+- **(>)** What can I improve or do differently next time
+
+If you’re often on the move, keeping a small notebook to journal in a Bullet Journal style is a viable option too. Digital journalling works too, but writing by hand has a grounding rhythm. The immersive flow, tactile nature and tangible outcome make it deeply satisfying. The movement of pen (or pencil!) on paper can reveal much more than the words. 
+
+> “Proclaim, that your Lord is most Generous, who taught by the pen, who taught man what he did not know ”  
+> *(Qur’an 96:3-5)*
+
+---
+
 ### Emotional Release
 
 Emotionally, journalling is one of the safest forms of relief. You can pour your heart out without censorship. If you feel restricted or subdued in what you write, you can even shred what you write afterward if privacy is a concern.
 
-Writing about emotions related to our experiences allows the heart to settle — it feels seen. Those parts of us feel heard, understood, and validated. Including fears, jealousy, longing, grief, anger, and joys in our writing is deeply fulfilling. Those emotions soften as they are acknowledged.
+Writing about emotions related to our experiences allows the heart to settle — it feels seen. Those parts of us feel heard, understood, and validated. Including fears, jealousy, longing, grief, anger, and joys in our writing is deeply fulfilling. Those emotions soften as they are acknowledged. This helps the heart heal and make sense of experiences, reducing denial or victimhood.  
 
-This helps the heart heal and make sense of experiences, reducing denial or victimhood.  
+Dealing with pain, loss, failure, and regret can be remarkably tricky. Working in high-pressure situations and in healthcare professions means regular encounters with death, disease, and distress. During such moments, we’re vulnerable to anguish, despair, and sadness. Especially when it seems like too much, too fast and too soon.  Pouring your heart out onto paper releases these burdens without excessive judgment or censorship. Let the page absorb it all. Rather than abandoning those parts of yourself, you honour and care for them. This steadily harmonises our core as we go from dispersion and fragmentation to integration and unity. 
+
+Uncertainty, loss of control, perceived threats, or loss of love can be turbulent for the mind as well as the heart. Paying attention to these emotions and working through them can bring relief — and even moments of grace, hope, and contentment.
 
 The most painful thing we can do is abandon ourselves by ignoring these meaningful inner experiences. Simply naming and acknowledging emotions — without trying to fix them — is deeply healing.
-
-Whether you keep or destroy what you write, the act of writing itself is rewarding. When we feel disconnected, isolated, or lonely, journalling helps us reconnect with our inner world — a way to show up for ourselves. It is simple companionship with pen and page, a place that anybody can create in order to offer understanding. 
-
-The real work in relationships often begins within. By resolving inner tension, grief, and anxiety, we can show up more fully for others as our capacity to connect deepens. Through dialogue, acceptance, and review, we rekindle our emotional capacity and re-energise ourselves where we once felt depleted.
 
 As emotional release deepens, it opens the heart and soul to spiritual insight, inspiration and guidance — the next layer gets unlocked.
 
@@ -95,43 +116,12 @@ All you need is a quiet moment, a page, and willingness to listen inwardly. Star
 
 ---
 
-### How to Journal
-
-We can start by acknowledging : What’s been swirling around in our head.  
-Are we stuck in repetitive patterns of thought, emotion, or behaviour?  
-How would we like to relate to them ? It’s our choice — our responsibility. With this responsibility, comes great power. The power to change how we respond. 
-
-Just as doing complex maths in your head can be frustrating, trying to “solve” emotional equations mentally only adds more pressure. Journalling helps you process what’s in your heart and mind, freeing up mental bandwidth for creativity and problem-solving.
-
-Dealing with pain, loss, failure, and regret can be remarkably tricky. Working in high-pressure situations and in healthcare professions means regular encounters with death, disease, and distress. During such moments, we’re vulnerable to anguish, despair, and sadness. Especially when it seems like too much, too fast and too soon. 
-
-Pouring your heart out onto paper releases these burdens without excessive judgment or censorship. Let the page absorb it all. Rather than abandoning those parts of yourself, you honour and care for them. This steadily harmonises our core as we go from dispersion and fragmentation to integration and unity. 
-
-Uncertainty, loss of control, perceived threats, or loss of love can be turbulent for the mind as well as the heart. Paying attention to these emotions and working through them can bring relief — and even moments of grace, hope, and contentment.
-
-Creating a safe environment is essential to access the inner self. We can dedicate even a short period to write whatever weighs on the heart
-Notice our surroundings and how we're breathing before beginning can allow us to settle in. We can then observe and purify our intention before beginning e.g. to seek clarity, healing and be closer to the Divine. 
- 
- 
-
-If you’re often on the move, keeping a small notebook to journal in a Bullet Journal style is a viable option too. Digital journalling works too, but writing by hand has a grounding rhythm. The immersive flow, tactile nature and tangible outcome make it deeply satisfying. The movement of pen (or pencil!) on paper can reveal much more than the words. 
-
-> “Proclaim, that your Lord is most Generous, who taught by the pen, who taught man what he did not know ”  
-> *(Qur’an 96:3-5)*
-
----
-
 ### Timing and Consistency
 
-Some writers prefer to journal in the morning to catch insights and process what surfaced overnight. Recalling dreams and noting their associated emotions offers huge returns on investment, as dreams often reveal what our waking minds suppress.
+Some writers prefer to journal in the morning to catch insights and process what surfaced overnight. Recalling dreams and noting their associated emotions as soon as we're out of bed offers huge returns on investment. This is because dreams often reveal what our waking minds suppress.
 
 Others prefer to journal in the evening to process the day’s events — or even throughout the day. The most important factor is consistency.  
 The best time to journal is the one we adhere to.
-
-A simple reflective structure to use daily:
-- **[+/=)]** What went well  
-- **[–/=(]** What didn’t go so well  
-- **(>)** What can I improve or do differently next time
 
 You can also mind-map recurring thoughts, emotions, behaviours, or memories. Like tracing constellations in the sky, this helps reveal patterns and meaningful coincidences (*synchronicities*).
 
