@@ -21,7 +21,6 @@
 title: A.G.S
 email: Amar.G.Shaikh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Mission : To build a house of knowledge; a place to share guidance. 
     Acknowledgement:     I am incredibly grateful to God for giving me the courage and grace to push through and bring this project to fruition. 
     "Whoever has not thanked people, has not thanked God" Prophet Muhammad (PBUH).
     This work is the result of my friends encouraging me to learn about programming and then to put it into practice. I am forever thankful to them and my family for their support and love. 
@@ -46,7 +45,7 @@ plugins:
 # Dark mode configuration
 dark_mode:
   enabled: true
-  default: true
+  default: false
   
 # Navigation
 navigation:
@@ -83,7 +82,7 @@ defaults:
       layout: "post"
       comments: true
       toc: true
-      featured: false
+      featured: true
       reading_time: true
       share: true
 
@@ -121,7 +120,7 @@ homepage:
   featured_posts:
     enabled: true
     title: "Featured Posts"
-    limit: 6
+    limit: 8
 
 # Table of Contents configuration
 toc:
@@ -138,13 +137,13 @@ search:
   placeholder: "Search posts..."
   results_count: 10  # Maximum number of search results to display
   
-social:
-    email: Amar.G.Shaikh@gmail.com
+#social:
+   # email: N/A
 
 #feature toggles
 features:
 #  dark_mode: true                   # Enable dark mode toggle
-#  auto_dark_mode: true              # Respect system preferences
+   auto_dark_mode: false              # Respect system preferences
 #  toc: true                         # Table of contents for posts
 #  reading_time: true                # Show estimated reading time
 #  social_sharing: true              # Show social sharing buttons

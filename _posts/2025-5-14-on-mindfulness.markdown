@@ -7,14 +7,14 @@ categories : mindfulness
 toc: true
 tags: mindfulness islam
 featured: true
-image : mind.jpeg
+image : brain.jpg
 ---
 ‬
 Mind full or mind empty ? 
 
 ### Introduction
 
-`"It is Allah Who has created the heavens and the earth and everything in between in six aeons, then established Himself on the Throne. 
+`"It is God who has created the heavens and the earth and everything in between in six aeons, then established Himself on the Throne. 
 You have no protector or intercessor besides Him. 
 Will you not then be mindful? (32:4)"`
  
@@ -24,19 +24,17 @@ These are key questions to reflect on in order to live life fully. The ultimate 
 
 ### Unifying the mind 
 
-`"... and hold firmly together to the rope of Allah and do not be divided. (3:103)"`
+`"... and hold firmly together to the rope of God and do not be divided. (3:103)"`
 
 Mindfulness can be understood as awareness in the moment  (paying attention to how our attention moves with an attitude of curiosity and wonder).
 Even though the preceding verse is a warning about splitting into factions, it can be applied to our own internal system, which can be split up into various disintegrated parts if it is without a strong core. 
 Rather than splitting and dividing our attention between multiple objects and whims we can return to our object of focus. A person can be aware of what is in the forefront of consciousness (stimuli and reactions both internal and external) in terms of thought, emotion, sensations, intentions as well as behaviours.
 This can be contrasted with mindlessness where there is a lack of awareness or knowledge of these movements of attention : 
 
-`"They are the ones whose hearts, ears, and eyes are sealed by Allah, and it is they who are truly heedless.(16:108)"`
+`"They are the ones whose hearts, ears, and eyes are sealed by God, and it is they who are truly heedless.(16:108)"`
 
 
  A person can thus be swept away by the tides of stimuli and their behaviour can represent an automaton. Being mindful means we rise above this robotic, stimulus → reaction existence. Mindfulness is not a separate practice to only do at a specified time but it is about nurturing this quality in each and every moment throughout the day. It can be cultivated at any age and children can be key reminders to us about the importance of fully immersing ourselves in life, moment to moment. Improving our daily life through  increasing instances of mindfulness means we are able to understand the impact of various stimuli and stories that our minds create. We can then choose from a bigger range of options in terms of how to respond to situations when we see these sequences. We can choose our attitude and behaviour by keeping our interpretations in check (by developing awareness of thought processes [seen as scripts running in the mind] and cultivating our psyche like a garden (weeding out what is harmful and nurturing what is healthy and helpful). There is a time that we can then go beyond techniques and arrive in true presence. Through this the end goal is to develop composure in the face of any circumstance and to live each of our precious moments dedicated to the worship of our Creator (by tuning in to what is being asked of us in any given period of time). In this way, worship can take the form of keeping God in mind in whatever we do. 
-
-`"I did not create jinn and humans except to worship Me (51:56)"`
 
 
 ### Thoughts
@@ -58,24 +56,18 @@ We can increase our mindfulness of thoughts by noticing and letting them go, by 
 
 Another key area to be mindful of is our emotions. What are emotions ? How do they  manifest ? What do our bodies feel like when they arise ? When they pass ? What effects can they have on our decision making ? What’s the best way to go about understanding them better ? These questions are fascinating as feelings play a larger part in our decision making process than we might realise. Emotions can be understood as a system created by God to provide us with signals and signs about our experiences.  They can conquer our wiser selves when left unchecked, unprocessed and unresolved. Being mindful of emotions means understanding how we are feeling in any given moment. The first step is to simply recognise and allow the emotion to exist without trying to push it away/suppress it (the original meaning of kufr is to cover or bury) or conversely be completely drowned by it if we indulge it. This can be followed up with genuine curiosity and questions to develop a better understanding.  We can then ultimately asking ourselves what we would like most in that moment (e.g. validation, compassion or understanding).  Further expression can take place through journaling, music, talking and art. Unexpressed or unresolved emotions that have been pushed down can often surface in dreams or behaviours where our conscious minds can no longer hold them at bay. Being mindful of them means we can address them in time. 
 
-`"He taught Adam the names of all things, then He presented them to the angels and said, “Tell Me the names of these, if what you say is true?” (2:31)"` 
-
-
 Emotions can have enormous depth, from primary emotions of fear, happiness, sadness, anger, surprise and disgust to secondary and tertiary. Being mindful of their intensity as well as the range  (having the vocabulary to describe them)  allows us to access and understand them better. Reading and developing a sounder ‘Theory of Mind’ through literature is also an excellent way to understand not only ourselves but others better. By being mindful of emotions, we can come to similar conclusions as we do about thoughts, that they are temporary. They can be understood as signals that inform us rather than forces that dictate what we do. 
 
 
 ### Senses
 
-`"We will show them Our signs in the universe and within themselves until it becomes clear to them that this Quran is the truth.
-Is it not enough that your Lord is a Witness over all things? (41:53)"`
+`"We will show them Our signs in the universe and within themselves... (41:53)"`
 
 Senses, the doors of perception, are the primary way we notice and interact with the world around us. By being more mindful of our immediate environment and being a witness, we can fully immerse ourselves in and enjoy our experiences. This can be done by simple techniques e.g. noticing and naming 5 things we can see, 4 sounds, 3 points of contact with our body, 2 fragrances and 1 taste we can make out. This gives us some more space from being immersed in thought and opens our field of awareness. Thus we are able to truly appreciate the wonders around us in order to be more grateful. This then means we can savour the sunlight warming up our skin, birds singing in the morning, the richness of a sunset, the fragrance of a rose as well as the full appreciation of a meal. Being mindful in these sphere can increase our levels of gratitude and instil a sense of curiosity about the natural world. 
 
 ### Breath
 
-`"..then He fashioned them and had a spirit of His own creation breathed into them. 
-And He gave you hearing, sight, and intellect. 
-Yet you hardly give any thanks (32:9)"`
+`"..then He fashioned them and had a spirit of His own creation breathed into them. (32:9)"`
 
 Breathing and noticing the breath is one of the simplest anchors to the present moment. However, how often do we notice our breathing patterns ? Their lengths ? Their depth ? What information might this give us ? By noticing the breath that gives us life and nourishes us, we can tune in to our internal state much more easily (e.g. whether it is shallow or short, there may be a stressor affecting our system). Noticing our breathing doesn’t require any extra equipment and is the most accessible gateway to strengthen our ability to be mindful. It is the home base and anchor that never leaves us and gives us the opportunity to be thankful for each breath and return to a smile for the gift of being alive. There are numerous techniques to increase mindfulness thorough breathing practice. One of the most effective techniques is the long exhale sigh out, which allows us to release stressors that can overwhelm us. Being mindful of our breathing can be taken as the cornerstone of mindfulness. We can then anchor to a sense of appreciation and return to a higher plane of consciousness. 
 
@@ -83,8 +75,8 @@ Breathing and noticing the breath is one of the simplest anchors to the present 
 ### Spirit
 
 `"Have you seen those who have taken their own desires as their god? 
-And so Allah left them to stray knowingly, sealed their hearing and hearts, and placed a cover on their sight. 
-Who then can guide them after Allah? Will you all not then be mindful? (45:23)"` 
+And so God left them to stray knowingly, sealed their hearing and hearts, and placed a cover on their sight. 
+Who then can guide them after God ? Will you all not then be mindful? (45:23)"` 
 
 Noticing the state of the heart and soul is a key responsibility for Muslims. What state is our soul in ? Are we able to focus in prayer ? What is the ultimate goal of mindfulness ? Are we transcending the lower plane (Dunya – coming from the word ‘adna’ which means low’) and ascending to what is higher (towards God’s attributes and their embodied understanding) ? By mindfully attending to our experiences, using virtues such as patience, courage, wisdom and love, we can rise above vices such as laziness, ill will, doubt and indulgence. Satan will always come at us from all sides to whisper to us about taking the lower path, yet being mindful will allow us to keep the end in mind and choose a superior route. It allows us to move past our narrow view and subjectivity of experience to arrive at the greater Truth.
 

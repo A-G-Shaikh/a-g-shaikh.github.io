@@ -11,7 +11,7 @@ image: woods.jpg
 ---
 
 
-Let it shine...
+Let it shine through...
 
 ### Introduction 
 This is an important question for us all
