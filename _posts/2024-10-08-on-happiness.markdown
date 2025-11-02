@@ -7,11 +7,11 @@ categories : philosophy
 toc: true
 tags: happiness al-ghazali
 featured: true
-image: happi.jpg
+image: woods.jpg
 ---
 
 
-‬How do we make sense of happiness ? 
+Let it shine...
 
 ### Introduction 
 This is an important question for us all

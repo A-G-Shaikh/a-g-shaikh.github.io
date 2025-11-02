@@ -10,7 +10,7 @@ featured: true
 image : mind.jpeg
 ---
 ‬
-What does it mean to be mindful? 
+Mind full or mind empty ? 
 
 ### Introduction
 

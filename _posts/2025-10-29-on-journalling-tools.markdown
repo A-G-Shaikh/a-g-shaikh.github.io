@@ -7,7 +7,7 @@ categories : psychology
 toc: true
 tags: psychology philosophy
 featured: false
-image: journal.png
+image: journaltools.jpg
 ---
 
 Part 2 : Practical tools to start journalling 

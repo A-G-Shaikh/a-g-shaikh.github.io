@@ -10,7 +10,7 @@ featured: true
 image: arabic.jpeg
 ---
 ‬
-What's the best way to approach learning Arabic ? 
+From stumbling to success...
 
 ### Introduction
 

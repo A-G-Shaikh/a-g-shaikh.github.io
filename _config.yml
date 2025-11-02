@@ -101,7 +101,7 @@ homepage:
   hero:
     enabled: true
     title: "Essays. Insights. Reflections"
-    subtitle: "To seek and share knowledge"
+    subtitle: "A place to seek and share knowledge"
     image: "welcome-to-arsxy-theme.webp"
 #    buttons:
 #      - label: "Browse all articles"
@@ -121,7 +121,7 @@ homepage:
   featured_posts:
     enabled: true
     title: "Featured Posts"
-    limit: 3
+    limit: 6
 
 # Table of Contents configuration
 toc:
