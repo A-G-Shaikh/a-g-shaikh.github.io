@@ -82,7 +82,7 @@ defaults:
       layout: "post"
       comments: true
       toc: true
-      featured: true
+      featured: false
       reading_time: true
       share: true
 

@@ -7,6 +7,7 @@ categories : book-reviews
 toc: true
 tags: allama iqbal reconstruction islamic-thought
 image : thinking.svg
+featured: false
 ---
 ‬
 Delve into what this pioneering book has to say...
