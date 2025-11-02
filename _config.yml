@@ -45,7 +45,7 @@ plugins:
 # Dark mode configuration
 dark_mode:
   enabled: true
-  default: false
+  default: true
   
 # Navigation
 navigation:
@@ -143,7 +143,7 @@ search:
 #feature toggles
 features:
 #  dark_mode: true                   # Enable dark mode toggle
-   auto_dark_mode: false              # Respect system preferences
+#   auto_dark_mode: false              # Respect system preferences
 #  toc: true                         # Table of contents for posts
 #  reading_time: true                # Show estimated reading time
 #  social_sharing: true              # Show social sharing buttons
