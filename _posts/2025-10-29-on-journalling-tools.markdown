@@ -20,12 +20,6 @@ This involves writing freely for a set time about what’s unsettling you. Write
 Prompts like *“I’m recognising that…,” “realising…,” “understanding…,” “because of…,”* and *“noticing that…”* focus on meaning-making.  
 Making sense of our inner world reduces the intensity, frequency, and duration of repetitive or distressing thoughts and emotions.
 
-### Ask yourself:
-- Did I really recognise/understand/realise what I just said or did?  
-- How could I have done it differently?  
-- What impact did this have on me and others?
-
-
 ### Prompts for Reflection
 
 Try dropping these into the waters of the mind and see what ripples out:
@@ -36,6 +30,14 @@ Try dropping these into the waters of the mind and see what ripples out:
 - What am I grateful for?  
 - Which talents and skills can I use to benefit others?  
 - How can I thank my past self and send goodness ahead to my future self?
+
+### Ask yourself:
+
+- Did I really recognise/understand/realise what I just said or did?  
+- How could I have done it differently?  
+- What impact did this have on me and others?
+- Can I forgive myself for not understanding ? Can I forgive the other person for not understanding/knowing ? 
+
 
 ## Core Virtues
 

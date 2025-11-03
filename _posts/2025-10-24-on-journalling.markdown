@@ -16,14 +16,18 @@ image: journal.png
 
 ### Introduction
 
-People commonly ask me: “What are you writing about?”  
-I usually smile, because it’s hard to answer without turning it into a TED Talk. The truth is, what started out as a way to store ideas and free up mental space ended up turning into so much more. 
-We can spend years exploring the world outside, but how much time have we given to the world within ? Maybe a major part of the map to peace has been there within us all along. 
+People commonly ask me: “What are you writing about?” 
+ 
+I usually smile, because it’s hard to answer without turning it into a TED Talk.
+
+The truth is, what started out as a way to store ideas and free up mental space ended up turning into so much more. 
+Reflecting regularly led naturally into emotional release — as the mind quietened, the heart began to speak. Journalling with no filter or censorship thus became one of the best ways to listen. 
+
+
+I realised that we can spend years exploring the world outside, but how much time have we given to the world within ? Maybe it's more about recognising that a major part of the map to peace has been there within us all along. 
 
 > “We shall show them Our signs in every region of the earth and *in themselves*...”  
 > *(Qur’an, 41:53)*
-
-Reflecting regularly leads naturally into emotional release — as the mind quiets, the heart begins to speak. Journalling with no filter or censorship thus becomes one of the best ways to listen. 
 
 Have there been times when you’ve subdued parts of yourself, even when alone? As if certain thoughts, emotions, sensations, fears, or dreams aren’t “allowed”? Writing about what’s going on inside us — without the critical voice stepping in — allows us to express ourselves fully and gives our unspoken parts a voice.  
 
