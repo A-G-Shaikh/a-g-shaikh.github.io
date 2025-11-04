@@ -11,24 +11,15 @@ image: books.jpg
 
 ---
 
-## 📚 Currently Reading / In Progress
+## 📚 In Progress
 
 | Title                                                                 | Author                | Genre/Category                     |
 |-----------------------------------------------------------------------|-----------------------|------------------------------------|
 | On Becoming a Person                                                  | Carl Rogers           | Psychology / Self-Development      |
-| Crossing the Floods                                                  | Ajahn Sucitto         | Spirituality                        |
-| The Diary of a Young Girl                                            | Anne Frank            | Biography / History                |
-| The Pilgrim’s Progress                                                | John Bunyan           | Christian Allegory / Classic Lit   |
-| On the Road                                                           | Jack Kerouac          | Beat Literature / Fiction           |
 | Essays                                                                | Francis Bacon         | Philosophy / Essays                |
 | Saviours of the Islamic Spirit                                        | Abul Hasan Ali Nadwi  | Islamic History / Biography        |
 | The Pickwick Papers                                                   | Charles Dickens       | Classic Fiction / Satire            |
-| On the Origin of Species                                             | Charles Darwin        | Science / Evolution                |
-| Islamic Psychology: Human Nature and the Path to Spiritual Development | Abdallah Rothman      | Psychology / Islam                 |
 | Emma                                                                 | Jane Austen           | Classic Fiction                     |
-| Supercoach (p.122)                                                   | Michael Neill         | Self-Development / Coaching        |
-| Getting Things Done                                                   | David Allen           | Self-Development                   |
-| Why Zebras Don’t Get Ulcers                                           | Robert Sapolsky       | Science / Stress / Psychology      |
 
 ---
 
@@ -40,11 +31,9 @@ image: books.jpg
 |--------------------------------------------|-----------------------|
 | Pride and Prejudice                        | Jane Austen           |
 | Jane Eyre                                  | Charlotte Brontë      |
-| Great Expectations                         | Charles Dickens       |
 | A Tale of Two Cities                       | Charles Dickens       |
 | Oliver Twist                               | Charles Dickens       |
 | The Scarlet Letter                         | Nathaniel Hawthorne   |
-| Crime and Punishment                       | Fyodor Dostoevsky     |
 | The Prince and the Pauper                  | Mark Twain            |
 | Adventures of Huckleberry Finn             | Mark Twain            |
 | Tom Sawyer, Detective                      | Mark Twain            |
@@ -80,7 +69,6 @@ image: books.jpg
 | Dune                                       | Frank Herbert         |
 | Ender’s Game                               | Orson Scott Card      |
 | Stranger in a Strange Land                 | Robert Heinlein       |
-| American Gods                              | Neil Gaiman           |
 | The Kite Runner                            | Khaled Hosseini       |
 | The Hunger Games (Trilogy)                 | Suzanne Collins       |
 | Confederacy of Dunces                      | John Kennedy Toole    |
@@ -121,6 +109,7 @@ image: books.jpg
 |--------------------------------------------|-----------------------|
 | Driven to Distraction                      | Edward M. Hallowell   |
 | Scattered Minds                            | Gabor Maté            |
+| Islamic Psychology: Human Nature and the Path to Spiritual Development | Abdallah Rothman      | Psychology / Islam                 |
 | The Body Keeps the Score                    | Bessel van der Kolk   |
 | Healing the Shame That Binds You            | John Bradshaw         |
 | Recovery of Your Inner Child                | Lucia Capacchione     |
@@ -192,9 +181,26 @@ image: books.jpg
 | Aesop’s Fables                             | Aesop                 |
 | Big Book of Fairy Tales / Fairy Tales Compilation | Various       |
 | Tales of Beedle the Bard                    | J.K. Rowling          |
-| Paddington (Series)                        | Michael Bond          |
+| Paddington                                 | Michael Bond          |
 | Winnie-the-Pooh                            | A.A. Milne            |
 | Peter Rabbit                               | Beatrix Potter        |
+
+---
+
+
+###  Open Threads/Limbo
+
+| Title                                      | Author                |
+|--------------------------------------------|-----------------------|
+| The Pilgrim’s Progress                                                | John Bunyan           | Christian Allegory / Classic Lit   |
+| The Diary of a Young Girl                                            | Anne Frank            | Biography / History                |
+| Crossing the Floods                                                  | Ajahn Sucitto         | Spirituality                        |
+| Getting Things Done                                                   | David Allen           | Self-Development                   |
+| Why Zebras Don’t Get Ulcers                                           | Robert Sapolsky       | Science / Stress / Psychology      |
+| On the Origin of Species                                             | Charles Darwin        | Science / Evolution                |
+| American Gods                              | Neil Gaiman           |
+
+
 
 ---
 
