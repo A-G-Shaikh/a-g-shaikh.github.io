@@ -9,6 +9,8 @@ image: books.jpg
 
 # My Reading Journey: 
 
+Exploring mind, body and soul through not only non-fiction but stories: 
+
 ---
 
 ## 📚 In Progress
@@ -71,7 +73,9 @@ image: books.jpg
 | Stranger in a Strange Land                 | Robert Heinlein       |
 | The Kite Runner                            | Khaled Hosseini       |
 | The Hunger Games (Trilogy)                 | Suzanne Collins       |
-| Confederacy of Dunces                      | John Kennedy Toole    |
+| War of the Worlds / The Invisible Man / The Time Machine / Dr. Moreau | H.G. Wells |
+| The Martian                                | Andy Weir             |
+| Do Androids Dream of Electric Sheep?       | Philip K. Dick        |
 
 ---
 
@@ -113,7 +117,6 @@ image: books.jpg
 | The Body Keeps the Score                    | Bessel van der Kolk   |
 | Healing the Shame That Binds You            | John Bradshaw         |
 | Recovery of Your Inner Child                | Lucia Capacchione     |
-| Dealing with Emotional Immaturity           | Lindsay C. Gibson     |
 | When I Say No I Feel Guilty                 | Manuel J. Smith       |
 | Can’t Hurt Me                              | David Goggins         |
 | 7 Habits of Highly Effective People         | Stephen Covey         |
@@ -134,6 +137,7 @@ image: books.jpg
 | Modern Romance                              | Aziz Ansari           |
 | Emotional Intelligence                      | David Walton          |
 | Silence Your Mind                           | Ramesh Manocha        |
+| The Man Who Mistook His Wife for a Hat      | Oliver Sacks        |
 
 ---
 
@@ -152,20 +156,10 @@ image: books.jpg
 | Man’s Search for Meaning                    | Viktor Frankl         |
 | The Power of Now                            | Eckhart Tolle         |
 | Peace Is Every Step                         | Thich Nhat Hanh       |
-
----
-
-### 🔬 Science, Technology & Social Commentary
-
-| Title                                      | Author                |
-|--------------------------------------------|-----------------------|
 | Bad Science                                 | Ben Goldacre          |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto   |
 | The Death of Common Sense                   | Philip K. Howard      |
 | Procrastination Equation                    | Piers Steel           |
-| War of the Worlds / The Invisible Man / The Time Machine / Dr. Moreau | H.G. Wells |
-| The Martian                                | Andy Weir             |
-| Do Androids Dream of Electric Sheep?       | Philip K. Dick        |
 
 ---
 
@@ -188,7 +182,8 @@ image: books.jpg
 ---
 
 
-###  Open Threads/Limbo
+###  To revisit or resume 
+paused but not forgotten
 
 | Title                                      | Author                |
 |--------------------------------------------|-----------------------|
@@ -204,7 +199,7 @@ image: books.jpg
 
 ---
 
-What’s next on your reading list? 
+
 
 
 

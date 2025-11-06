@@ -96,7 +96,7 @@ Habits that lead to harm can be examined and made sense of through *muhasabah* (
 
 Through journalling, we can own our errors and shortcomings, creating space for divine insight and guidance. Each entry is an opportunity to remove weeds and thorns that cause harm. As Rumi advises us in the Mathnawi (2:17), not to be like the man who delayed uprooting the thornbush. These thorns grow stronger each day as the days go by. We can instead nurture qualities such as contentment, gratitude, and patience — allowing us to receive fruits in the form of grace, peace, and faith. Removing blockages in our heart also means we have greater chances of entering those streams of joy, rapture and bliss. 
 
-You might write to a higher Power about what troubles you and ask for help — for whatever you need most that day. This ally knows your life story intimately and desires goodness for you. Why not write to them asking for support? This can be the bridge between the soul and the Source. We can ask to get elevated to the ranks of the elite, for the assistance to inspire us to perform deeds to reach the level of the elect. 
+We can write to a power that is above us, about whatever might be troubling us and ask for help — for whatever we need most. This ally knows our life story intimately and desires goodness for us. Why not write to them asking for support? This can be the bridge between the soul and the Source. We can ask for the assistance to inspire us to perform deeds to reach the level of the elect. 
 
 All you need is a quiet moment, a page, and willingness to listen inwardly.   
 

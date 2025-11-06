@@ -15,7 +15,7 @@ Part 2 : Practical tools to start journalling
 Here are some tools and prompts I've found helpful over the years, feel free to try them out and adapt them: 
 
 ### The Pennebaker Protocol
-This involves writing freely for a set time about what’s unsettling you. Write about difficult conversations, hurt feelings, awkward moments, or emotional conflicts — and explore the fears and concerns tied to them. It's helpful to mindmap the circumstance, write down emotions that arise and then write about without interruption. 
+This involves writing freely for a set time about what’s unsettling you. Write about difficult conversations, hurt feelings, awkward moments, or emotional conflicts — and explore the fears and concerns tied to them. It's helpful to mindmap the circumstance, write down emotions that arise and then write without interruption. 
 
 Prompts like *“I’m recognising that…,” “realising…,” “understanding…,” “because of…,”* and *“noticing that…”* focus on meaning-making.  
 Making sense of our inner world reduces the intensity, frequency, and duration of repetitive or distressing thoughts and emotions.
