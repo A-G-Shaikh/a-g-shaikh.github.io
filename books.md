@@ -20,11 +20,12 @@ image: books.jpg
 | Qisas an Nabiyeen (Arabic)| Abul Hasan Ali Nadwi |
 | Stations of the Travellers (Arabic: Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
 | Tom Jones | Henry Fielding  |
+| Daily Wisdom | Abdur Raheem Kidwai |
 
 
 ## Finished Books
 
-## Classics: 
+## Fiction: 
 
 | Aesop's Fables | Aesop |
 | A Christmas Carol | Charles Dickens |
@@ -81,6 +82,8 @@ image: books.jpg
 | The Time Machine / War of the Worlds / The Invisible Man /Island of Dr. Moreau | H.G. Wells |
 | The Hunger Games (Trilogy) |Suzanne Collins|
 | The Wizard of Oz | L. Frank Baum |
+| Tales of Beedle the Bard | J.K. Rowling |
+| Winnie-the-Pooh | A.A. Milne |
 | To Kill a Mockingbird | Harper Lee |
 | Tom Sawyer, Detective | Mark Twain |
 | Treasure Island | Robert Louis Stevenson |
@@ -138,7 +141,6 @@ image: books.jpg
 | Breathing to Liberation | Ajahn Sucitto |
 | Can’t Hurt Me | David Goggins |
 | Conversations with scientists | Vivien Marx |
-| Daily Wisdom | Abdur Raheem Kidwai |
 | Darkness Visible | William Styron |
 | Die with Zero | Bill Perkins |
 | Driven to Distraction | Edward M. Hallowell |
@@ -201,8 +203,7 @@ image: books.jpg
 | Poetry by Heart | Liz Attenborough |
 | Rubbiyat | Omar Khayyam |
 | Sonnets | Shakespeare |
-| Tales of Beedle the Bard | J.K. Rowling |
-| Winnie-the-Pooh | A.A. Milne |
+
 
 ---
 
@@ -226,7 +227,9 @@ image: books.jpg
 | Saviours of the Islamic Spirit | Abul Hasan Ali Nadwi |
 | Essays | Francis Bacon |
 
-Books can serve not only to inform and entertain, but to enlighten us. 
+Books can serve not only to inform and entertain, but to enlighten us.
+
+Which book has been calling out to you ?  
 
 
 
