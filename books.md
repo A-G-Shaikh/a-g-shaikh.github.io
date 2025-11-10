@@ -9,6 +9,10 @@ image: books.jpg
 
 # A path through books: 
 
+A combination of great works as well as contempory classics. Mortimer Adler's list of Great Works was a great source of inspiration.
+
+May you find a book that sparks your interest !
+
 ---
 
 ## In Progress
@@ -24,6 +28,7 @@ image: books.jpg
 
 
 ## Finished Books
+
 
 ## Fiction: 
 
@@ -63,7 +68,7 @@ image: books.jpg
 | The Adventures of Pinocchio | Carlo Collodi |
 | The Alchemist | Paulo Coelho |
 | The Canterbury Tales | Geoffrey Chaucer |
-| The Chronicles of Narnia | C.S. Lewis |
+| The Chronicles of Narnia (1-5) | C.S. Lewis |
 | The Great Gatsby | F. Scott Fitzgerald |
 | The Hitchhiker’s Guide to the Galaxy (Series) | Douglas Adams |
 | The Hobbit | J.R.R. Tolkien |
@@ -76,6 +81,7 @@ image: books.jpg
 | The Old Man and the Sea | Ernest Hemingway |
 | The Picture of Dorian Gray | Oscar Wilde |
 | The Prince and the Pauper | Mark Twain |
+| The Rosie Project | Graeme Simison |
 | The Scarlet Letter | Nathaniel Hawthorne |
 | The Sorrows of Young Werther | Johann Wolfgang von Goethe |
 | The Tale of Two Cities | Charles Dickens |
@@ -98,15 +104,14 @@ image: books.jpg
 
 ### Philosophy, Religion & Spirituality
 
-
+| The Qur'an | M.A.S Abdel Haleem  |
+| Bhagavad Gita | — |
 | Alchemy of Happiness | Al-Ghazali |
 | Aphorisms of Ibn Ata Allah | Ibn Ata Allah al-Iskandari |
-| Bhagavad Gita | — |
 | Confessions | St Augustine |
 | Purfication of the Heart |Imam Mawlud, Hamza Yusuf |
 | Dua: The Weapon of the Believer | Yasir Qadhi |
 | Islam at the Crossroads | Muhammad Asad |
-| Message of the Qur’an | Muhammad Asad |
 | Messenger | Tariq Ramadan |
 | O Dear Son (Ayyuhal Walad) | Al-Ghazali |
 | On Reading Well: Finding the Good Life through Great Books | Karen Swallow |
@@ -117,8 +122,9 @@ image: books.jpg
 | Prayers upon the Beloved | Umar Hafez |
 | Road to Mecca | Muhammad Asad |
 | Sustenance for the Soul | Abu Zayd al-Balkhi |
+| Tao te Ching | Lao Tsu |
 | The Book of Assistance | Imam al-Haddad |
-| The Qur'an | M.A.S Abdel Haleem  |
+| The Enchiridion | Epictetus |
 | The Reconstruction of Religious Thought in Islam | Muhammad Iqbal |
 | The Search for Truth | Mahatma Gandhi |
 | The Sorrows of Young Werther | J.W Goethe |
@@ -126,19 +132,17 @@ image: books.jpg
 | Timeless Seeds of Advice | B. B. Abdullah |
 | Western Civilisation, Islam and Muslims | Syed Abul Hasan Ali Nadwi |
 | With the Heart in Mind | Mikaeel Ahmed Smith |
-| Your Lord Has Not Forsaken You | Najwa Zebian |
+| 12 years a slave | Solomon Northup |
+| 8000 years of Wisdom | Mike Cast |
 
 ---
 
-### Psychology & Self-Development
+### Psychology and Self-development
 
-| 8000 years of Wisdom | Mike Cast |
 | 7 Habits of Highly Effective People | Stephen Covey |
-| 12 years a slave | Solomon Northup |
 | A Conversation about Healthy Eating | Nicholas A. Lesica |
 | Atomic Habits | James Clear |
 | Be Useful: Seven Tools for Life | Arnold Schwarzenegger |
-| Breathing to Liberation | Ajahn Sucitto |
 | Can’t Hurt Me | David Goggins |
 | Conversations with scientists | Vivien Marx |
 | Darkness Visible | William Styron |
@@ -159,7 +163,6 @@ image: books.jpg
 | Man and His Symbols | Carl Jung |
 | Modern Romance | Aziz Ansari |
 | Mud, sweat and tears | Bear Grylls |
-| Procrastination Equation | Piers Steel |
 | Recovery of Your Inner Child | Lucia Capacchione |
 | Silence Your Mind | Ramesh Manocha |
 | The Antidote | Oliver Burkeman |
@@ -185,12 +188,14 @@ image: books.jpg
 | The Power of Now | Eckhart Tolle |
 | The Prince | Niccolò Machiavelli |
 | Wittgenstein for Beginners | John Heaton & Judy Groves |
+| Your Lord Has Not Forsaken You | Najwa Zebian |
 | Your money or your life | Vicki Robins  |
 
 ---
 
 ### Poetry
 
+| The Anthology of Popular Verse | C. Huverford |
 | Best-Loved Poems | Neil Philip |
 | Big Book of Fairy Tales | Various 
 | Book of Verse | Young Puffin books |
@@ -201,6 +206,7 @@ image: books.jpg
 | Nation’s Favourite Poems | BBC |
 | Oxford Children’s Book of Poetry | Michael Harrison & Christopher Stuart-Clark |
 | Poetry by Heart | Liz Attenborough |
+| Poems for Gardeners | Various |
 | Rubbiyat | Omar Khayyam |
 | Sonnets | Shakespeare |
 
@@ -209,8 +215,7 @@ image: books.jpg
 
 ### Paused but not forgotten: 
 
-| Title | Author |
-|-------|---------|
+
 | American Gods | Neil Gaiman |
 | Crossing the Floods | Ajahn Sucitto |
 | Getting Things Done | David Allen |
@@ -221,15 +226,17 @@ image: books.jpg
 | Faust | Johann Wolfgang von Goethe |
 | Divine Comedy | Dante Alighieri |
 | Code | Charles Petzold |
+| Message of the Qur’an | Muhammad Asad |
 | House of Wisdom | Jim al-Khalili |
 | Short stories in Arabic | Olly Richards |
 | Emma | Jane Austen |
 | Saviours of the Islamic Spirit | Abul Hasan Ali Nadwi |
 | Essays | Francis Bacon |
+| Poems | William Wordsworth |
 
 Books can serve not only to inform and entertain, but to enlighten us.
 
-Which book has been calling out to you ?  
+Which book will you choose next ? 
 
 
 
