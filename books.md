@@ -7,15 +7,13 @@ image: books.jpg
 ---
 
 
-# A path through books: 
-
-A combination of great works as well as contempory classics. Mortimer Adler's list of Great Works was a great source of inspiration.
+### A path through books: 
 
 May you find a book that sparks your interest !
 
-# Reading List (Markdown Tables)
+### Reading List
 
-## In Progress
+### In Progress
 
 | Title                                            | Author                       |
 | ------------------------------------------------ | ---------------------------- |
@@ -30,7 +28,7 @@ May you find a book that sparks your interest !
 
 ---
 
-## Finished Books
+### Finished Books
 
 ### Fiction
 
@@ -88,7 +86,7 @@ May you find a book that sparks your interest !
 
 ---
 
-## Philosophy, Religion & Spirituality
+### Philosophy, Religion & Spirituality
 
 | Title                                            | Author                    |
 | ------------------------------------------------ | ------------------------- |
@@ -121,7 +119,7 @@ May you find a book that sparks your interest !
 
 ---
 
-## Psychology & Self-Development
+### Psychology & Self-Development
 
 | Title                                          | Author                |
 | ---------------------------------------------- | --------------------- |
@@ -174,7 +172,7 @@ May you find a book that sparks your interest !
 
 ---
 
-## Poetry
+### Poetry
 
 | Title                            | Author           |
 | -------------------------------- | ---------------- |
@@ -194,7 +192,7 @@ May you find a book that sparks your interest !
 
 ---
 
-## Paused but Not Forgotten
+### Paused but Not Forgotten
 
 | Title                                | Author               |
 | ------------------------------------ | -------------------- |
