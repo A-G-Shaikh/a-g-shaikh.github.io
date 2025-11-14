@@ -13,226 +13,210 @@ A combination of great works as well as contempory classics. Mortimer Adler's li
 
 May you find a book that sparks your interest !
 
----
+# Reading List (Markdown Tables)
 
 ## In Progress
 
+| Title                                            | Author                       |
+| ------------------------------------------------ | ---------------------------- |
+| Crisis of the Modern World                       | René Guénon                  |
+| Purity of Heart Is to will one thing | Søren Kierkegaard    |
+| On Becoming a Person                             | Carl Rogers                  |
+| Stations of the Travellers (Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
+| Qisas an Nabiyeen                                | Abul Hasan Ali Nadwi         |
+| Tom Jones                                        | Henry Fielding               |
+| The Pickwick Papers                              | Charles Dickens              |
+| Daily Wisdom                                     | Abdur Raheem Kidwai          |
 
-| Crisis of the Modern World | René Guénon |
-| On Becoming a Person | Carl Rogers |
-| The Pickwick Papers | Charles Dickens |
-| Qisas an Nabiyeen (Arabic)| Abul Hasan Ali Nadwi |
-| Stations of the Travellers (Arabic: Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
-| Tom Jones | Henry Fielding  |
-| Daily Wisdom | Abdur Raheem Kidwai |
-
+---
 
 ## Finished Books
 
+### Fiction
 
-## Fiction: 
-
-| Aesop's Fables | Aesop |
-| A Christmas Carol | Charles Dickens |
-| A Confederacy of Dunces | John Kennedy Toole |
-| Adventures of Huckleberry Finn | Mark Twain |
-| Animal Farm | George Orwell |
-| Black Beauty | Anna Sewell |
-| Brave New World & Revisited | Aldous Huxley |
-| Catch-22 | Joseph Heller |
-| Catcher in the Rye | J.D. Salinger |
-| Charlie and the Chocolate factory, Fantastic Mr. Fox, Matilda | Roald Dahl  |
-| Dune | Frank Herbert |
-| Dr Jekyll and Mr Hyde | Robert Louis Stevenson |
-| Dracula | Bram Stoker |
-| Ender’s Game | Orson Scott Card |
-| Fahrenheit 451 | Ray Bradbury |
-| Frankenstein | Mary Shelley |
-| Fight Club | Chuck Palahniuk |
-| Journey to the centre of the Earth | Jules Verne  |
-| Kidnapped | Robert Louis Stevenson |
-| Koshka's Tales | James Mayhew |
-| Little Women | Louisa May Alcott |
-| Lord of the Flies | William Golding |
-| Men Without Women | Ernest Hemingway |
-| The Metamorphosis | Franz Kafka |
-| Of Mice and Men | John Steinbeck |
-| Oliver Twist | Charles Dickens |
-| Pride and Prejudice | Jane Austen |
-| Prince and the Pauper | Mark Twain |
-| Robinson Crusoe | Daniel Defoe |
-| Siddhartha | Hermann Hesse |
-| Slaughterhouse 5  | Kurt Vonnegut |
-| Cat's cradle  | Kurt Vonnegut |
-| The Adventures of Peter Pan | J.M. Barrie |
-| The Adventures of Pinocchio | Carlo Collodi |
-| The Alchemist | Paulo Coelho |
-| The Canterbury Tales | Geoffrey Chaucer |
-| The Chronicles of Narnia (1-5) | C.S. Lewis |
-| The Great Gatsby | F. Scott Fitzgerald |
-| The Hitchhiker’s Guide to the Galaxy (Series) | Douglas Adams |
-| The Hobbit | J.R.R. Tolkien |
-| The Inimitable Jeeves, Thank you Jeeves, Jeeves in the Offing, How right you are Jeeves, Meet Mr. Mulliner | P.G.Wodehouse |
-| The Iron Man | Ted Hughes |
-| The Kite Runner | Khaled Hosseini |
-| The Lord of the Rings (Trilogy) | J.R.R. Tolkien |
-| The Last Question and The Last Answer | Isaac Asimov |
-| The Martian | Andy Weir |
-| The Old Man and the Sea | Ernest Hemingway |
-| The Picture of Dorian Gray | Oscar Wilde |
-| The Prince and the Pauper | Mark Twain |
-| The Rosie Project | Graeme Simison |
-| The Scarlet Letter | Nathaniel Hawthorne |
-| The Sorrows of Young Werther | Johann Wolfgang von Goethe |
-| The Tale of Two Cities | Charles Dickens |
-| The Time Machine / War of the Worlds / The Invisible Man /Island of Dr. Moreau | H.G. Wells |
-| The Hunger Games (Trilogy) |Suzanne Collins|
-| The Wizard of Oz | L. Frank Baum |
-| Tales of Beedle the Bard | J.K. Rowling |
-| Winnie-the-Pooh | A.A. Milne |
-| To Kill a Mockingbird | Harper Lee |
-| Tom Sawyer, Detective | Mark Twain |
-| Treasure Island | Robert Louis Stevenson |
-| Troilus and Criseyde | Geoffrey Chaucer |
-| 1984 | George Orwell |
-| Paddington | Michael Bond |
-| Peter Rabbit | Beatrix Potter |
-| A Tale of Two Cities | Charles Dickens |
-| Stranger in a Strange Land | Robert A. Heinlein |
+| Title                                                             | Author                 |
+| ----------------------------------------------------------------- | ---------------------- |
+| The Lord of the Rings (Trilogy)                                   | J.R.R. Tolkien         |
+| 1984                                                              | George Orwell          |
+| The Metamorphosis                                                 | Franz Kafka            |
+| The Great Gatsby                                                  | F. Scott Fitzgerald    |
+| The Picture of Dorian Gray                                        | Oscar Wilde            |
+| Brave New World & Revisited                                       | Aldous Huxley          |
+| Siddhartha                                                        | Hermann Hesse          |
+| Dracula                                                           | Bram Stoker            |
+| Frankenstein                                                      | Mary Shelley           |
+| Slaughterhouse 5                                                  | Kurt Vonnegut          |
+| Cat's Cradle                                                      | Kurt Vonnegut          |
+| Dune                                                              | Frank Herbert          |
+| Ender’s Game                                                      | Orson Scott Card       |
+| Catch-22                                                          | Joseph Heller          |
+| Adventures of Huckleberry Finn                                    | Mark Twain             |
+| Animal Farm                                                       | George Orwell          |
+| To Kill a Mockingbird                                             | Harper Lee             |
+| The Hobbit                                                        | J.R.R. Tolkien         |
+| Lord of the Flies                                                 | William Golding        |
+| The Time Machine / War of the Worlds / Invisible Man / Dr. Moreau | H.G. Wells             |
+| A Tale of Two Cities                                              | Charles Dickens        |
+| A Christmas Carol                                                 | Charles Dickens        |
+| The Kite Runner                                                   | Khaled Hosseini        |
+| The Adventures of Peter Pan                                       | J.M. Barrie            |
+| The Adventures of Pinocchio                                       | Carlo Collodi          |
+| The Rosie Project                                                 | Graeme Simison         |
+| The Martian                                                       | Andy Weir              |
+| The Hunger Games Trilogy                                          | Suzanne Collins        |
+| The Old Man and the Sea                                           | Ernest Hemingway       |
+| Men Without Women                                                 | Ernest Hemingway       |
+| Journey to the Centre of the Earth                                | Jules Verne            |
+| Little Women                                                      | Louisa May Alcott      |
+| Fahrenheit 451                                                    | Ray Bradbury           |
+| Black Beauty                                                      | Anna Sewell            |
+| Robinson Crusoe                                                   | Daniel Defoe           |
+| Oliver Twist                                                      | Charles Dickens        |
+| The Prince and the Pauper                                         | Mark Twain             |
+| Pride and Prejudice                                               | Jane Austen            |
+| Tom Sawyer, Detective                                             | Mark Twain             |
+| Treasure Island                                                   | Robert Louis Stevenson |
+| Kidnapped                                                         | Robert Louis Stevenson |
+| Dr Jekyll & Mr Hyde                                               | R.L. Stevenson         |
+| Koshka’s Tales                                                    | James Mayhew           |
+| The Wizard of Oz                                                  | L. Frank Baum          |
+| Tales of Beedle the Bard                                          | J.K. Rowling           |
+| Winnie-the-Pooh                                                   | A.A. Milne             |
+| Paddington                                                        | Michael Bond           |
+| Stranger in a Strange Land                                        | Robert Heinlein        |
+| A Confederacy of Dunces                                           | John Kennedy Toole     |
 
 ---
 
-### Philosophy, Religion & Spirituality
+## Philosophy, Religion & Spirituality
 
-| The Qur'an | M.A.S Abdel Haleem  |
-| Bhagavad Gita | — |
-| Alchemy of Happiness | Al-Ghazali |
-| Aphorisms of Ibn Ata Allah | Ibn Ata Allah al-Iskandari |
-| Confessions | St Augustine |
-| Purfication of the Heart |Imam Mawlud, Hamza Yusuf |
-| Dua: The Weapon of the Believer | Yasir Qadhi |
-| Islam at the Crossroads | Muhammad Asad |
-| Messenger | Tariq Ramadan |
-| O Dear Son (Ayyuhal Walad) | Al-Ghazali |
-| On Reading Well: Finding the Good Life through Great Books | Karen Swallow |
-| Letters to a Poet| Rilke |
-| Peace Is Every Step | Thich Nhat Hanh |
-| Philosophy 101 by Socrates | Peter Kreeft |
-| Prayers of the Last Prophet | Yusuf Islam |
-| Prayers upon the Beloved | Umar Hafez |
-| Road to Mecca | Muhammad Asad |
-| Sustenance for the Soul | Abu Zayd al-Balkhi |
-| Tao te Ching | Lao Tsu |
-| The Book of Assistance | Imam al-Haddad |
-| The Enchiridion | Epictetus |
-| The Reconstruction of Religious Thought in Islam | Muhammad Iqbal |
-| The Search for Truth | Mahatma Gandhi |
-| The Sorrows of Young Werther | J.W Goethe |
-| The Varieties of Religious Experience | William James |
-| Timeless Seeds of Advice | B. B. Abdullah |
-| Western Civilisation, Islam and Muslims | Syed Abul Hasan Ali Nadwi |
-| With the Heart in Mind | Mikaeel Ahmed Smith |
-| 12 years a slave | Solomon Northup |
-| 8000 years of Wisdom | Mike Cast |
+| Title                                            | Author                    |
+| ------------------------------------------------ | ------------------------- |
+| The Qur’an                                       | M.A.S. Abdel Haleem       |
+| Bhagavad Gita                                    | -                         |
+| Confessions                                      | St Augustine              |
+| The Reconstruction of Religious Thought in Islam | Muhammad Iqbal            |
+| Alchemy of Happiness                             | Al-Ghazali                |
+| The Book of Assistance                           | Imam al-Haddad            |
+| Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah             |
+| Road to Mecca                                    | Muhammad Asad             |
+| Islam at the Crossroads                          | Muhammad Asad             |
+| Western Civilisation, Islam and Muslims          | Abul Hasan Ali Nadwi      |
+| Purification of the Heart                        | Imam Mawlud / Hamza Yusuf |
+| Peace Is Every Step                              | Thich Nhat Hanh           |
+| The Varieties of Religious Experience            | William James             |
+| The Enchiridion                                  | Epictetus                 |
+| Tao Te Ching                                     | Lao Tsu                   |
+| The Search for Truth                             | Mahatma Gandhi            |
+| O Dear Son (Ayyuhal Walad)                       | Al-Ghazali                |
+| Messenger                                        | Tariq Ramadan             |
+| With the Heart in Mind                           | Mikaeel Ahmed Smith       |
+| Letters to a Young Poet                          | Rilke                     |
+| Prayers of the Last Prophet                      | Yusuf Islam               |
+| Prayers Upon the Beloved                         | Umar Hafez                |
+| Sustenance for the Soul                          | Abu Zayd al-Balkhi        |
+| The Prophet                                      | Kahlil Gibran             |
+| On Reading Well                                  | Karen Swallow             |
+| 8000 Years of Wisdom                             | Mike Cast                 |
 
 ---
 
-### Psychology and Self-development
+## Psychology & Self-Development
 
-| 7 Habits of Highly Effective People | Stephen Covey |
-| A Conversation about Healthy Eating | Nicholas A. Lesica |
-| Atomic Habits | James Clear |
-| Be Useful: Seven Tools for Life | Arnold Schwarzenegger |
-| Can’t Hurt Me | David Goggins |
-| Conversations with scientists | Vivien Marx |
-| Darkness Visible | William Styron |
-| Die with Zero | Bill Perkins |
-| Driven to Distraction | Edward M. Hallowell |
-| Dream Yoga : Awakening through Lucid Dreaming | Andrew Holecek |
-| Early Retirement Extreme | Jacob Lund Fisker |
-| Feeling Good: The New Mood Therapy | David D. Burns |
-| Games People Play | Eric Berne |
-| Healing the Shame That Binds You | John Bradshaw |
-| Help! | Oliver Burkeman |
-| How to Live | Derek Sivers |
-| Hopeful | Omid Djalili |
-| Into the Magic Shop | James Doty |
-| I Will Teach You to Be Rich | Ramit Sethi |
-| Islamic Psychology: Human Nature and the Path to Spiritual Development | Abdallah Rothman |
-| Life changing magic of tidying up, Kurashi | Marie Kondo |
-| Man and His Symbols | Carl Jung |
-| Modern Romance | Aziz Ansari |
-| Mud, sweat and tears | Bear Grylls |
-| Recovery of Your Inner Child | Lucia Capacchione |
-| Silence Your Mind | Ramesh Manocha |
-| The Antidote | Oliver Burkeman |
-| The Body Keeps the Score | Bessel van der Kolk |
-| The Man Who Mistook His Wife for a Hat | Oliver Sacks |
-| The Price of Money | Rob Dix |
-| The Procrastination Equation | Piers Steel |
-| When I Say No I Feel Guilty | Manuel J. Smith |
-| Four Thousand Weeks | Oliver Burkeman |
-| Bad Science | Ben Goldacre |
-| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto |
-| Black Skin, White Masks | Frantz Fanon |
-| How to Read a Book | Mortimer Adler |
-| How to Flourish | Adapted from Aristotle |
-| Kafka for Beginners | David Zane Mairowitz |
-| Man’s Search for Meaning | Viktor Frankl |
-| Surely You’re Joking, Mr. Feynman | Richard Feynman |
-| Stand tall little girl | Hope Virgo |
-| The Anxious Generation | Jonathan Haidt |
-| The Communist Manifesto | Karl Marx & Friedrich Engels |
-| The Consolation of Philosophy | Boethius |
-| The Death of Common Sense | Philip K. Howard |
-| The Power of Now | Eckhart Tolle |
-| The Prince | Niccolò Machiavelli |
-| Wittgenstein for Beginners | John Heaton & Judy Groves |
-| Your Lord Has Not Forsaken You | Najwa Zebian |
-| Your money or your life | Vicki Robins  |
+| Title                                          | Author                |
+| ---------------------------------------------- | --------------------- |
+| Man’s Search for Meaning                       | Viktor Frankl         |
+| The Consolation of Philosophy                  | Boethius              |
+| The Body Keeps the Score                       | Bessel van der Kolk   |
+| The Antidote                                   | Oliver Burkeman       |
+| Four Thousand Weeks                            | Oliver Burkeman       |
+| The Power of Now                               | Eckhart Tolle         |
+| Games People Play                              | Eric Berne            |
+| The Man Who Mistook His Wife for a Hat         | Oliver Sacks          |
+| How to Live                                    | Derek Sivers          |
+| 7 Habits of Highly Effective People            | Stephen Covey         |
+| How to Read a Book                             | Mortimer Adler        |
+| Die with Zero                                  | Bill Perkins          |
+| The Price of Money                             | Rob Dix               |
+| Modern Romance                                 | Aziz Ansari           |
+| Bad Science                                    | Ben Goldacre          |
+| Driven to Distraction                          | Edward Hallowell      |
+| Silence Your Mind                              | Ramesh Manocha        |
+| When I Say No I Feel Guilty                    | Manuel J. Smith       |
+| Feeling Good                                   | David Burns           |
+| Help!                                          | Oliver Burkeman       |
+| Into the Magic Shop                            | James Doty            |
+| Dream Yoga                                     | Andrew Holecek        |
+| Hopeful                                        | Omid Djalili          |
+| Can’t Hurt Me                                  | David Goggins         |
+| Be Useful                                      | Arnold Schwarzenegger |
+| The Anxious Generation                         | Jonathan Haidt        |
+| Your Money or Your Life                        | Vicki Robins          |
+| Recovery of Your Inner Child                   | Lucia Capacchione     |
+| Darkness Visible                               | William Styron        |
+| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto      |
+| Man and His Symbols                            | Carl Jung             |
+| Life-Changing Magic of Tidying Up / Kurashi    | Marie Kondo           |
+| A Conversation About Healthy Eating            | Nicholas Lesica       |
+| Conversations with Scientists                  | Vivien Marx           |
+| Healing the Shame That Binds You               | John Bradshaw         |
+| Black Skin, White Masks                        | Frantz Fanon          |
+| The Procrastination Equation                   | Piers Steel           |
+| The Death of Common Sense                      | Philip Howard         |
+| 12 Years a Slave                                 | Solomon Northup           |
+| Islamic Psychology                             | Abdallah Rothman      |
+| The Prince                                     | Machiavelli           |
+| Wittgenstein for Beginners                     | Heaton & Groves       |
+| Kafka for Beginners                            | Mairowitz             |
+| Surely You’re Joking, Mr Feynman               | Richard Feynman       |
+| Stand Tall Little Girl                         | Hope Virgo            |
+| Your Lord Has Not Forsaken You                 | Najwa Zebian          |
 
 ---
 
-### Poetry
+## Poetry
 
-| The Anthology of Popular Verse | C. Huverford |
-| Best-Loved Poems | Neil Philip |
-| Big Book of Fairy Tales | Various 
-| Book of Verse | Young Puffin books |
-| Classic Poetry | Michael Rosen & Clare Walters |
-| Golden Apples | Fiona Waters |
-| International Poetry | Bartram |
-| Mathnawi (Vol 1-4) | Rumi |
-| Nation’s Favourite Poems | BBC |
-| Oxford Children’s Book of Poetry | Michael Harrison & Christopher Stuart-Clark |
-| Poetry by Heart | Liz Attenborough |
-| Poems for Gardeners | Various |
-| Rubbiyat | Omar Khayyam |
-| Sonnets | Shakespeare |
-
+| Title                            | Author           |
+| -------------------------------- | ---------------- |
+| Mathnawi (Vol 1–4)               | Rumi             |
+| Rubbaiyat                        | Omar Khayyam     |
+| Sonnets                          | Shakespeare      |
+| Nation’s Favourite Poems         | BBC              |
+| International Poetry             | Bartram          |
+| Classic Poetry                   | Rosen & Walters  |
+| Best-Loved Poems                 | Neil Philip      |
+| Anthology of Popular Verse       | C. Huverford     |
+| Golden Apples                    | Fiona Waters     |
+| Poems for Gardeners              | Various          |
+| Book of Verse                    | Young Puffin     |
+| Oxford Children’s Book of Poetry | Harrison & Clark |
+| Big Book of Fairy Tales          | Various          |
 
 ---
 
-### Paused but not forgotten: 
+## Paused but Not Forgotten
 
+| Title                                | Author               |
+| ------------------------------------ | -------------------- |
+| Divine Comedy                        | Dante                |
+| Faust                                | Goethe               |
+| The Death of Ivan Ilyich             | Leo Tolstoy          |
+| The Diary of a Young Girl            | Anne Frank           |
+| On the Origin of Species             | Charles Darwin       |
+| Crossing the Floods                  | Ajahn Sucitto        |
+| Why Zebras Don’t Get Ulcers          | Robert Sapolsky      |
+| Message of the Qur’an                | Muhammad Asad        |
+| Saviours of the Islamic Spirit       | Abul Hasan Ali Nadwi |
+| House of Wisdom                      | Jim Al-Khalili       |
+| American Gods                        | Neil Gaiman          |
+| Code                                 | Charles Petzold      |
+| Emma                                 | Jane Austen          |
+| Essays                               | Francis Bacon        |
+| Poems                                | William Wordsworth   |
+| Short Stories in Arabic              | Olly Richards        |
+| Getting Things Done                  | David Allen          |
+| The Pilgrim’s Progress               | John Bunyan          |
 
-| American Gods | Neil Gaiman |
-| Crossing the Floods | Ajahn Sucitto |
-| Getting Things Done | David Allen |
-| On the Origin of Species | Charles Darwin |
-| The Diary of a Young Girl | Anne Frank |
-| The Pilgrim’s Progress | John Bunyan |
-| Why Zebras Don’t Get Ulcers | Robert Sapolsky |
-| Faust | Johann Wolfgang von Goethe |
-| Divine Comedy | Dante Alighieri |
-| Code | Charles Petzold |
-| Message of the Qur’an | Muhammad Asad |
-| House of Wisdom | Jim al-Khalili |
-| Short stories in Arabic | Olly Richards |
-| Emma | Jane Austen |
-| Saviours of the Islamic Spirit | Abul Hasan Ali Nadwi |
-| Essays | Francis Bacon |
-| Poems | William Wordsworth |
 
 Books can serve not only to inform and entertain, but to enlighten us.
 
