@@ -11,14 +11,10 @@ image: books.jpg
 
 May you find a book that sparks your interest !
 
-### Reading List
-
 ### In Progress
 
-| Title                                            | Author                       |
 | ------------------------------------------------ | ---------------------------- |
 | Crisis of the Modern World                       | René Guénon                  |
-| Purity of Heart Is to will one thing | Søren Kierkegaard    |
 | On Becoming a Person                             | Carl Rogers                  |
 | Stations of the Travellers (Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
 | Qisas an Nabiyeen                                | Abul Hasan Ali Nadwi         |
@@ -30,23 +26,34 @@ May you find a book that sparks your interest !
 
 ### Finished Books
 
+---
+
 ### Fiction
 
-| Title                                                             | Author                 |
 | ----------------------------------------------------------------- | ---------------------- |
+| Aesop's Fables                                                    | Aesop         |
 | The Lord of the Rings (Trilogy)                                   | J.R.R. Tolkien         |
 | 1984                                                              | George Orwell          |
 | The Metamorphosis                                                 | Franz Kafka            |
+| The Scarlet letter                                                | Nathaniel Hawthorne    |
+| The Canterbury Tales                                              | Geoffery Chaucer       |
+| Heart of Darkness                                                 | Joseph Conrad          |
+| Troilus and Criseyde                                              | Geoffrey Chaucer       |
 | The Great Gatsby                                                  | F. Scott Fitzgerald    |
+| The Death of Ivan Ilyich                                          | Leo Tolstoy            |
 | The Picture of Dorian Gray                                        | Oscar Wilde            |
 | Brave New World & Revisited                                       | Aldous Huxley          |
 | Siddhartha                                                        | Hermann Hesse          |
 | Dracula                                                           | Bram Stoker            |
+| The sorrows of young Werther                                      | Goethe               |
 | Frankenstein                                                      | Mary Shelley           |
 | Slaughterhouse 5                                                  | Kurt Vonnegut          |
+| The Last Answer, The Last Question                                | Isaac Asimov           |
+| Candide                                                           | Voltaire
 | Cat's Cradle                                                      | Kurt Vonnegut          |
 | Dune                                                              | Frank Herbert          |
 | Ender’s Game                                                      | Orson Scott Card       |
+| Hitchhiker's Guide to the Galaxy                                  | Douglas Adams         |
 | Catch-22                                                          | Joseph Heller          |
 | Adventures of Huckleberry Finn                                    | Mark Twain             |
 | Animal Farm                                                       | George Orwell          |
@@ -78,7 +85,8 @@ May you find a book that sparks your interest !
 | Dr Jekyll & Mr Hyde                                               | R.L. Stevenson         |
 | Koshka’s Tales                                                    | James Mayhew           |
 | The Wizard of Oz                                                  | L. Frank Baum          |
-| Tales of Beedle the Bard                                          | J.K. Rowling           |
+| Harry Potter                                                      | J.K. Rowling           |
+| The Chronicles of Narnia                                          | C.S. Lewis             |
 | Winnie-the-Pooh                                                   | A.A. Milne             |
 | Paddington                                                        | Michael Bond           |
 | Stranger in a Strange Land                                        | Robert Heinlein        |
@@ -88,7 +96,6 @@ May you find a book that sparks your interest !
 
 ### Philosophy, Religion & Spirituality
 
-| Title                                            | Author                    |
 | ------------------------------------------------ | ------------------------- |
 | The Qur’an                                       | M.A.S. Abdel Haleem       |
 | Bhagavad Gita                                    | -                         |
@@ -113,6 +120,7 @@ May you find a book that sparks your interest !
 | Prayers of the Last Prophet                      | Yusuf Islam               |
 | Prayers Upon the Beloved                         | Umar Hafez                |
 | Sustenance for the Soul                          | Abu Zayd al-Balkhi        |
+| The Mind Illuminated                             | Culadasa        |
 | The Prophet                                      | Kahlil Gibran             |
 | On Reading Well                                  | Karen Swallow             |
 | 8000 Years of Wisdom                             | Mike Cast                 |
@@ -121,14 +129,16 @@ May you find a book that sparks your interest !
 
 ### Psychology & Self-Development
 
-| Title                                          | Author                |
 | ---------------------------------------------- | --------------------- |
 | Man’s Search for Meaning                       | Viktor Frankl         |
 | The Consolation of Philosophy                  | Boethius              |
 | The Body Keeps the Score                       | Bessel van der Kolk   |
 | The Antidote                                   | Oliver Burkeman       |
+| Mud, Sweat and Tears                           | Bear Grylls       |
+| Scattered Minds                                | Gabor Mate        |
 | Four Thousand Weeks                            | Oliver Burkeman       |
 | The Power of Now                               | Eckhart Tolle         |
+| The Talent Code                                | Daniel Coyle        |
 | Games People Play                              | Eric Berne            |
 | The Man Who Mistook His Wife for a Hat         | Oliver Sacks          |
 | How to Live                                    | Derek Sivers          |
@@ -136,7 +146,6 @@ May you find a book that sparks your interest !
 | How to Read a Book                             | Mortimer Adler        |
 | Die with Zero                                  | Bill Perkins          |
 | The Price of Money                             | Rob Dix               |
-| Modern Romance                                 | Aziz Ansari           |
 | Bad Science                                    | Ben Goldacre          |
 | Driven to Distraction                          | Edward Hallowell      |
 | Silence Your Mind                              | Ramesh Manocha        |
@@ -174,7 +183,6 @@ May you find a book that sparks your interest !
 
 ### Poetry
 
-| Title                            | Author           |
 | -------------------------------- | ---------------- |
 | Mathnawi (Vol 1–4)               | Rumi             |
 | Rubbaiyat                        | Omar Khayyam     |
@@ -194,11 +202,9 @@ May you find a book that sparks your interest !
 
 ### Paused but Not Forgotten
 
-| Title                                | Author               |
 | ------------------------------------ | -------------------- |
 | Divine Comedy                        | Dante                |
 | Faust                                | Goethe               |
-| The Death of Ivan Ilyich             | Leo Tolstoy          |
 | The Diary of a Young Girl            | Anne Frank           |
 | On the Origin of Species             | Charles Darwin       |
 | Crossing the Floods                  | Ajahn Sucitto        |
@@ -214,7 +220,9 @@ May you find a book that sparks your interest !
 | Short Stories in Arabic              | Olly Richards        |
 | Getting Things Done                  | David Allen          |
 | The Pilgrim’s Progress               | John Bunyan          |
+| Purity of Heart is to will one thing | Søren Kierkegaard    |
 
+---
 
 Books can serve not only to inform and entertain, but to enlighten us.
 
