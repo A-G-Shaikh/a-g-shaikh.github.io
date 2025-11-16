@@ -132,10 +132,14 @@ May you find a book that sparks your interest !
 | ---------------------------------------------- | --------------------- |
 | Man’s Search for Meaning                       | Viktor Frankl         |
 | The Consolation of Philosophy                  | Boethius              |
+| Islamic Psychology                             | Abdallah Rothman      |
+| Black Skin, White Masks                        | Frantz Fanon          |
 | The Body Keeps the Score                       | Bessel van der Kolk   |
 | The Antidote                                   | Oliver Burkeman       |
 | Mud, Sweat and Tears                           | Bear Grylls       |
 | Scattered Minds                                | Gabor Mate        |
+| 12 Years a Slave                                 | Solomon Northup           |
+| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto      |
 | Four Thousand Weeks                            | Oliver Burkeman       |
 | The Power of Now                               | Eckhart Tolle         |
 | The Talent Code                                | Daniel Coyle        |
@@ -161,17 +165,13 @@ May you find a book that sparks your interest !
 | Your Money or Your Life                        | Vicki Robins          |
 | Recovery of Your Inner Child                   | Lucia Capacchione     |
 | Darkness Visible                               | William Styron        |
-| Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto      |
 | Man and His Symbols                            | Carl Jung             |
 | Life-Changing Magic of Tidying Up / Kurashi    | Marie Kondo           |
 | A Conversation About Healthy Eating            | Nicholas Lesica       |
 | Conversations with Scientists                  | Vivien Marx           |
 | Healing the Shame That Binds You               | John Bradshaw         |
-| Black Skin, White Masks                        | Frantz Fanon          |
 | The Procrastination Equation                   | Piers Steel           |
 | The Death of Common Sense                      | Philip Howard         |
-| 12 Years a Slave                                 | Solomon Northup           |
-| Islamic Psychology                             | Abdallah Rothman      |
 | The Prince                                     | Machiavelli           |
 | Wittgenstein for Beginners                     | Heaton & Groves       |
 | Kafka for Beginners                            | Mairowitz             |
