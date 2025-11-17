@@ -104,7 +104,7 @@ homepage:
     enabled: true
     title: "Essays. Insights. Reflections"
     subtitle: "A place to seek and share knowledge"
-    image: "welcome-to-arsxy-theme.webp"
+#    image: "welcome-to-arsxy-theme.webp"
 #    buttons:
 #      - label: "Browse all articles"
 #        url: "/articles/"
