@@ -68,8 +68,8 @@ navigation:
   - title: Dua
     url: /dua
     icon: users
-  - title: Books
-    url: /books
+  - title: Library
+    url: /library
     icon: book-open
 #  - title: Contact
 #    url: /contact

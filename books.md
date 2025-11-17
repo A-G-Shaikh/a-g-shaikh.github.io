@@ -1,8 +1,8 @@
 ---
 layout: post
 author: AGS
-title: Books
-permalink: /books/
+title: My library
+permalink: /library/
 image: books.jpg
 ---
 
@@ -19,12 +19,44 @@ May you find a book that sparks your interest !
 | Stations of the Travellers (Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
 | Qisas an Nabiyeen                                | Abul Hasan Ali Nadwi         |
 | Tom Jones                                        | Henry Fielding               |
-| The Pickwick Papers                              | Charles Dickens              |
 | Daily Wisdom                                     | Abdur Raheem Kidwai          |
 
 ---
 
-### Finished Books
+### Completed Books
+
+---
+
+### Philosophy, Religion & Spirituality
+
+| ------------------------------------------------ | ------------------------- |
+| The Qur’an                                       | M.A.S. Abdel Haleem       |
+| Tao Te Ching                                     | Lao Tsu                   |
+| Confessions                                      | St Augustine              |
+| The Book of Assistance                           | Imam al-Haddad            |
+| Bhagavad Gita                                    | -                         |
+| The Reconstruction of Religious Thought in Islam | Muhammad Iqbal            |
+| Alchemy of Happiness                             | Al-Ghazali                |
+| Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah             |
+| Road to Mecca                                    | Muhammad Asad             |
+| Islam at the Crossroads                          | Muhammad Asad             |
+| Western Civilisation, Islam and Muslims          | Abul Hasan Ali Nadwi      |
+| Purification of the Heart                        | Imam Mawlud / Hamza Yusuf |
+| Peace Is Every Step                              | Thich Nhat Hanh           |
+| The Varieties of Religious Experience            | William James             |
+| The Enchiridion                                  | Epictetus                 |
+| The Search for Truth                             | Mahatma Gandhi            |
+| O Dear Son (Ayyuhal Walad)                       | Al-Ghazali                |
+| Messenger                                        | Tariq Ramadan             |
+| With the Heart in Mind                           | Mikaeel Ahmed Smith       |
+| Letters to a Young Poet                          | Rilke                     |
+| Prayers of the Last Prophet                      | Yusuf Islam               |
+| Prayers Upon the Beloved                         | Umar Hafez                |
+| Sustenance for the Soul                          | Abu Zayd al-Balkhi        |
+| The Mind Illuminated                             | Culadasa        |
+| The Prophet                                      | Kahlil Gibran             |
+| 8000 Years of Wisdom                             | Mike Cast                 |
+
 
 ---
 
@@ -87,43 +119,9 @@ May you find a book that sparks your interest !
 | The Wizard of Oz                                                  | L. Frank Baum          |
 | Harry Potter                                                      | J.K. Rowling           |
 | The Chronicles of Narnia                                          | C.S. Lewis             |
-| Winnie-the-Pooh                                                   | A.A. Milne             |
 | Paddington                                                        | Michael Bond           |
 | Stranger in a Strange Land                                        | Robert Heinlein        |
 | A Confederacy of Dunces                                           | John Kennedy Toole     |
-
----
-
-### Philosophy, Religion & Spirituality
-
-| ------------------------------------------------ | ------------------------- |
-| The Qur’an                                       | M.A.S. Abdel Haleem       |
-| Bhagavad Gita                                    | -                         |
-| Confessions                                      | St Augustine              |
-| The Reconstruction of Religious Thought in Islam | Muhammad Iqbal            |
-| Alchemy of Happiness                             | Al-Ghazali                |
-| The Book of Assistance                           | Imam al-Haddad            |
-| Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah             |
-| Road to Mecca                                    | Muhammad Asad             |
-| Islam at the Crossroads                          | Muhammad Asad             |
-| Western Civilisation, Islam and Muslims          | Abul Hasan Ali Nadwi      |
-| Purification of the Heart                        | Imam Mawlud / Hamza Yusuf |
-| Peace Is Every Step                              | Thich Nhat Hanh           |
-| The Varieties of Religious Experience            | William James             |
-| The Enchiridion                                  | Epictetus                 |
-| Tao Te Ching                                     | Lao Tsu                   |
-| The Search for Truth                             | Mahatma Gandhi            |
-| O Dear Son (Ayyuhal Walad)                       | Al-Ghazali                |
-| Messenger                                        | Tariq Ramadan             |
-| With the Heart in Mind                           | Mikaeel Ahmed Smith       |
-| Letters to a Young Poet                          | Rilke                     |
-| Prayers of the Last Prophet                      | Yusuf Islam               |
-| Prayers Upon the Beloved                         | Umar Hafez                |
-| Sustenance for the Soul                          | Abu Zayd al-Balkhi        |
-| The Mind Illuminated                             | Culadasa        |
-| The Prophet                                      | Kahlil Gibran             |
-| On Reading Well                                  | Karen Swallow             |
-| 8000 Years of Wisdom                             | Mike Cast                 |
 
 ---
 
@@ -132,13 +130,14 @@ May you find a book that sparks your interest !
 | ---------------------------------------------- | --------------------- |
 | Man’s Search for Meaning                       | Viktor Frankl         |
 | The Consolation of Philosophy                  | Boethius              |
+| On Reading Well                                | Karen Swallow             |
 | Islamic Psychology                             | Abdallah Rothman      |
 | Black Skin, White Masks                        | Frantz Fanon          |
 | The Body Keeps the Score                       | Bessel van der Kolk   |
 | The Antidote                                   | Oliver Burkeman       |
 | Mud, Sweat and Tears                           | Bear Grylls       |
 | Scattered Minds                                | Gabor Mate        |
-| 12 Years a Slave                                 | Solomon Northup           |
+| 12 Years a Slave                               | Solomon Northup           |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto      |
 | Four Thousand Weeks                            | Oliver Burkeman       |
 | The Power of Now                               | Eckhart Tolle         |
@@ -195,8 +194,6 @@ May you find a book that sparks your interest !
 | Golden Apples                    | Fiona Waters     |
 | Poems for Gardeners              | Various          |
 | Book of Verse                    | Young Puffin     |
-| Oxford Children’s Book of Poetry | Harrison & Clark |
-| Big Book of Fairy Tales          | Various          |
 
 ---
 
@@ -208,6 +205,7 @@ May you find a book that sparks your interest !
 | The Diary of a Young Girl            | Anne Frank           |
 | On the Origin of Species             | Charles Darwin       |
 | Crossing the Floods                  | Ajahn Sucitto        |
+| The Pickwick Papers                              | Charles Dickens              |
 | Why Zebras Don’t Get Ulcers          | Robert Sapolsky      |
 | Message of the Qur’an                | Muhammad Asad        |
 | Saviours of the Islamic Spirit       | Abul Hasan Ali Nadwi |
