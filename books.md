@@ -14,6 +14,7 @@ May you find a book that sparks your interest !
 ### In Progress
 
 | ------------------------------------------------ | ---------------------------- |
+| The Qur’an                                       |                              |
 | Crisis of the Modern World                       | René Guénon                  |
 | On Becoming a Person                             | Carl Rogers                  |
 | Stations of the Travellers (Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
@@ -23,18 +24,16 @@ May you find a book that sparks your interest !
 
 ---
 
-### Completed Books
+### Completed 
 
 ---
 
 ### Philosophy, Religion & Spirituality
 
 | ------------------------------------------------ | ------------------------- |
-| The Qur’an                                       | M.A.S. Abdel Haleem       |
 | Tao Te Ching                                     | Lao Tsu                   |
 | Confessions                                      | St Augustine              |
 | The Book of Assistance                           | Imam al-Haddad            |
-| Bhagavad Gita                                    | -                         |
 | The Reconstruction of Religious Thought in Islam | Muhammad Iqbal            |
 | Alchemy of Happiness                             | Al-Ghazali                |
 | Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah             |
@@ -44,6 +43,7 @@ May you find a book that sparks your interest !
 | Purification of the Heart                        | Imam Mawlud / Hamza Yusuf |
 | Peace Is Every Step                              | Thich Nhat Hanh           |
 | The Varieties of Religious Experience            | William James             |
+| Bhagavad Gita                                    | -                         |
 | The Enchiridion                                  | Epictetus                 |
 | The Search for Truth                             | Mahatma Gandhi            |
 | O Dear Son (Ayyuhal Walad)                       | Al-Ghazali                |
@@ -77,7 +77,7 @@ May you find a book that sparks your interest !
 | Brave New World & Revisited                                       | Aldous Huxley          |
 | Siddhartha                                                        | Hermann Hesse          |
 | Dracula                                                           | Bram Stoker            |
-| The sorrows of young Werther                                      | Goethe               |
+| The Sorrows of young Werther                                      | Goethe               |
 | Frankenstein                                                      | Mary Shelley           |
 | Slaughterhouse 5                                                  | Kurt Vonnegut          |
 | The Last Answer, The Last Question                                | Isaac Asimov           |
@@ -119,7 +119,6 @@ May you find a book that sparks your interest !
 | The Wizard of Oz                                                  | L. Frank Baum          |
 | Harry Potter                                                      | J.K. Rowling           |
 | The Chronicles of Narnia                                          | C.S. Lewis             |
-| Paddington                                                        | Michael Bond           |
 | Stranger in a Strange Land                                        | Robert Heinlein        |
 | A Confederacy of Dunces                                           | John Kennedy Toole     |
 
