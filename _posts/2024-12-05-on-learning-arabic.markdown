@@ -26,7 +26,11 @@ It’s not something we have to do, but that we *get* to do, a gift to open our 
 
 ### Motivation - defining our 'why'
 
-Indeed, Arabic is intimidating when we look at the data (according to the Foreign Service Institute, USA Arabic is rated as a Category 4 language, alongside Chinese, Japanese and Korean, in terms of difficulty and class hours for English speakers.) Whereas, languages closer to English such as French and Spanish take far fewer hours. This is understandable, given the differences in pronunciation, writing paradigm and structure. However, by developing a clear reason for learning alongside a solid strategy, we significantly increase our chances of success. A steady resolve keeps us firm and helps us through the valleys of doubt and despair that we will come across along the way.  We can recognise this as a challenging task and ask ourselves, what would God want and expect from us ? What resources can we draw on to accomplish these goals ? Motivation can come and go but the discipline and consistency of a smart approach as well as help from higher up, is what ultimately helps us pass through.
+Indeed, Arabic is intimidating when we look at the data (according to the Foreign Service Institute, USA Arabic is rated as a Category 4 language, alongside Chinese, Japanese and Korean, in terms of difficulty and class hours for English speakers.) Whereas, languages closer to English such as French and Spanish take far fewer hours. 
+
+This is understandable, given the differences in pronunciation, writing paradigm and structure. However, by developing a clear reason for learning alongside a solid strategy, we significantly increase our chances of success. A steady resolve keeps us firm and helps us through the valleys of doubt and despair that we will come across along the way.  
+
+We can recognise this as a challenging task and ask ourselves, what would God want and expect from us ? What resources can we draw on to accomplish these goals ? Motivation can come and go but the discipline and consistency of a smart approach as well as help from higher up, is what ultimately helps us pass through.
 
 `Truly, we have sent it down as an Arabic Quran so that you [people] may understand. (12:2)`
 
@@ -50,7 +54,9 @@ Arabic, especially in the Quran uses acoustic emphasis and elliptical passages t
 
 Arabic is unique as a Semitic language that has remained in usage uninterruptedly since the Quran was revealed. Other languages used in sacred texts such as Hebrew had not been used in society till recently and had to be resurrected. By learning it, we are performing a sacred duty and integrating it as part of a rich heritage of Arabic literature and culture. 
 
-Steadily we start learning Arabic not because we feel forced because we want to. We develop a love and yearning for the language and its quirks (how words can morph from their roots, how Classical Arabic roots are no longer than 5 letters and how we can acquire new words simply by decoding the root word).  The mindset of loving the process means that we switch to putting the joy and fascination back into our endeavour. Choosing ways that will suit us and that we’re likely to stick to makes a world of difference in terms of feeling that reward and personal happiness. Having our intention clear in this regard, e.g.  learning and understanding Arabic to enjoy the Quran or understand what is said in prayers, can help power us through. We can rely on English translations yet the flow, beauty and poetic nature of this text can easily get lost (despite incredible translations e.g M.A.S. Abdel Haleem). 
+Steadily we start learning Arabic not because we feel forced because we want to. We develop a love and yearning for the language and its quirks (how words can morph from their roots, how Classical Arabic roots are no longer than 5 letters and how we can acquire new words simply by decoding the root word). 
+
+ The mindset of loving the process means that we switch to putting the joy and fascination back into our endeavour. Choosing ways that will suit us and that we’re likely to stick to makes a world of difference in terms of feeling that reward and personal happiness. Having our intention clear in this regard, e.g.  learning and understanding Arabic to enjoy the Quran or understand what is said in prayers, can help power us through. We can rely on English translations yet the flow, beauty and poetic nature of this text can easily get lost (despite incredible translations e.g M.A.S. Abdel Haleem). 
 
 Connecting directly to the spirit of Arabic, allows us to understand not only with our minds but with our hearts and souls.  
 
@@ -66,9 +72,13 @@ If we liken learning a language such as Arabic to climbing a mountain, the path 
 
 There will be days when it doesn't seem to be going in and we question our resolve. To deal with doubt, it is important to set our sights on a goal that we can make daily sustained progress on, with concrete steps such as reading a certain number of pages (of material that we find interesting), or listening for a certain amount of time. By noticing periods of greater energy, we can set aside blocks of time to improve our language skills.
 
- Trying to ensure that there are no zero days in terms of activity or at least no two zero days in a row, ensures we make that steady progress. Having done this and solidifying our intention, we can then chart out a path and set out more confidently. There will be numerous challenges and pitfalls on the way (social media, weariness, frustration,restlessness/impatience, self doubt) so the attitude we chose in navigating these emotional challenges will be crucial. 
+Trying to ensure that there are no zero days in terms of activity or at least no two zero days in a row, ensures we make that steady progress. Having done this and solidifying our intention, we can then chart out a path and set out more confidently. There will be numerous challenges and pitfalls on the way (social media, weariness, frustration,restlessness/impatience, self doubt) so the attitude we chose in navigating these emotional challenges will be crucial. 
  
- Despite the advent of technology we can be mired in analysing different methods, leading to information overload and then give up before our efforts can bring us success. One step that  improves outcomes in language learning is to notice progress and celebrate each check point we reach (it may be as simple as grasping a concept and understanding it in practice, or getting the meaning of a whole sentence we wouldn't have known before). Enjoying that moment when we can order a meal in Arabic, or understand a sermon, or reply to a colleague can thus be immensely satisfying. Breaking the mission into easier to digest chunks, acknowledging achievements and progress, receiving positive feedback are fantastic ways to stick to these goals. 
+Despite the advent of technology we can be mired in analysing different methods, leading to information overload and then give up before our efforts can bring us success.
+ 
+One step that  improves outcomes in language learning is to notice progress and celebrate each check point we reach (it may be as simple as grasping a concept and understanding it in practice, or getting the meaning of a whole sentence we wouldn't have known before). 
+
+Enjoying that moment when we can order a meal in Arabic, or understand a sermon, or reply to a colleague can thus be immensely satisfying. Breaking the mission into easier to digest chunks, acknowledging achievements and progress, receiving positive feedback are fantastic ways to stick to these goals. 
 
 ---
 
@@ -76,10 +86,14 @@ There will be days when it doesn't seem to be going in and we question our resol
 
 Now that we've recognised the challenges that await us, let's examine how we build the skills that we need. 
 
-Learning any language involves the four core aspects of reading, writing, listening and speaking. They are crucial yet overemphasis on writing and speaking too early on can discourage learners as they don’t have the foundation to draw on. By choosing the approach of language acquisition (how we learned our mother tongue through immersion and stories) we can focus first on listening and reading texts we get the gist of. With this approach, our minds fill in the missing words, grasp how sentences are put together and tune in to the magic of the language. Resources such as Arabic Blooms, Arabic workshop (Seerah series), podcasts, Arabic stories are incredibly helpful for this. Language learning then becomes an adventure, a journey of discovery and play.
+Learning any language involves the four core aspects of reading, writing, listening and speaking. They are crucial yet overemphasis on writing and speaking too early on can discourage learners as they don’t have the foundation to draw on. By choosing the approach of language acquisition (how we learned our mother tongue through immersion and stories) we can focus first on listening and reading texts we get the gist of.
+
+ With this approach, our minds fill in the missing words, grasp how sentences are put together and tune in to the magic of the language. Resources such as Arabic Blooms, Arabic workshop (Seerah series), podcasts, Arabic stories are incredibly helpful for this. Language learning then becomes an adventure, a journey of discovery and play.
 
 What do I hope to achieve with my efforts ? Can't I get by without all this grammar ? Trust me, I've been there too !
-Grammar can sound like a scary concept yet it is essentially how we put words together so that they make sense. Choosing a course (such as Al-Quran institute, Arabic in 60 steps, Gateway to Arabic, Arabic Bayna yadayk), means that we embark on a structured programme that covers the basics. Supplementing this with reading and listening to materials we enjoy means that we’re able to put these concepts into practice and bring the language to life. By seeing Grammar as a puzzle for us to solve and put in the right order, we can frame the challenge correctly and approach it with an attitude of curiosity and wonder rather than avoidance and neglect. 
+Grammar can sound like a scary concept yet it is essentially how we put words together so that they make sense. Choosing a course (such as Al-Quran institute, Arabic in 60 steps, Gateway to Arabic, Arabic Bayna yadayk), means that we embark on a structured programme that covers the basics. 
+
+Supplementing this with reading and listening to materials we enjoy means that we’re able to put these concepts into practice and bring the language to life. By seeing Grammar as a puzzle for us to solve and put in the right order, we can frame the challenge correctly and approach it with an attitude of curiosity and wonder rather than avoidance and neglect. 
 
 ---
 
@@ -88,6 +102,8 @@ Grammar can sound like a scary concept yet it is essentially how we put words to
 For vocabulary, Arabic roots have a fascinating paradigm where we can notice patterns and incorporate new words by knowing how a word can morph into a new form:
 
 k-t-b → kataba (he wrote), kitāb (book), maktab (office), maktūb (written).
+
+s-j-d → sajada (he prostrated), sujūd (prostration), masjid (place of prostration), masjūd (prostrated).
 
 The words can often echo deeper meanings. The word 'Ayat' can be translated as a 'verse' or as a 'sign/symbol/indicator/clue'. This leads us to a more complete meaning, which in turn allows us to contemplate the signs all around us. 
  

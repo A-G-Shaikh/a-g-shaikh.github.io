@@ -1,7 +1,7 @@
 ---
 layout: post
 author: AGS
-title: My library
+title: Library
 permalink: /library/
 image: books.jpg
 ---
@@ -117,8 +117,6 @@ May you find a book that sparks your interest !
 | Dr Jekyll & Mr Hyde                                               | R.L. Stevenson         |
 | Koshka’s Tales                                                    | James Mayhew           |
 | The Wizard of Oz                                                  | L. Frank Baum          |
-| Harry Potter                                                      | J.K. Rowling           |
-| The Chronicles of Narnia                                          | C.S. Lewis             |
 | Stranger in a Strange Land                                        | Robert Heinlein        |
 | A Confederacy of Dunces                                           | John Kennedy Toole     |
 
@@ -185,6 +183,8 @@ May you find a book that sparks your interest !
 | Mathnawi (Vol 1–4)               | Rumi             |
 | Rubbaiyat                        | Omar Khayyam     |
 | Sonnets                          | Shakespeare      |
+| Four Quartets                    | T.S. Eliot              |
+| Mathnawi (Vol 1–4)               | Rumi             |
 | Nation’s Favourite Poems         | BBC              |
 | International Poetry             | Bartram          |
 | Classic Poetry                   | Rosen & Walters  |
@@ -192,7 +192,6 @@ May you find a book that sparks your interest !
 | Anthology of Popular Verse       | C. Huverford     |
 | Golden Apples                    | Fiona Waters     |
 | Poems for Gardeners              | Various          |
-| Book of Verse                    | Young Puffin     |
 
 ---
 
