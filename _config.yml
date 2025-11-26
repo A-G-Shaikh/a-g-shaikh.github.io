@@ -45,7 +45,7 @@ plugins:
 # Dark mode configuration
 dark_mode:
   enabled: true
-  default: true
+  default: false
   
 # Navigation
 navigation:

@@ -159,13 +159,11 @@ May you find a book that sparks your interest !
 | Be Useful                                      | Arnold Schwarzenegger |
 | The Anxious Generation                         | Jonathan Haidt        |
 | Your Money or Your Life                        | Vicki Robins          |
-| Recovery of Your Inner Child                   | Lucia Capacchione     |
 | Darkness Visible                               | William Styron        |
 | Man and His Symbols                            | Carl Jung             |
 | Life-Changing Magic of Tidying Up / Kurashi    | Marie Kondo           |
 | A Conversation About Healthy Eating            | Nicholas Lesica       |
 | Conversations with Scientists                  | Vivien Marx           |
-| Healing the Shame That Binds You               | John Bradshaw         |
 | The Procrastination Equation                   | Piers Steel           |
 | The Death of Common Sense                      | Philip Howard         |
 | The Prince                                     | Machiavelli           |
@@ -183,8 +181,10 @@ May you find a book that sparks your interest !
 | Mathnawi (Vol 1–4)               | Rumi             |
 | Rubbaiyat                        | Omar Khayyam     |
 | Sonnets                          | Shakespeare      |
-| Four Quartets                    | T.S. Eliot              |
+| Four Quartets                    | T.S. Eliot       |
 | Mathnawi (Vol 1–4)               | Rumi             |
+| Gitanjali                        | Rabindranath Tagore   |
+| Pain and Passing                 | Joel Hayward     |
 | Nation’s Favourite Poems         | BBC              |
 | International Poetry             | Bartram          |
 | Classic Poetry                   | Rosen & Walters  |
@@ -195,7 +195,8 @@ May you find a book that sparks your interest !
 
 ---
 
-### Paused but Not Forgotten
+
+### Paused (but not forgotten)
 
 | ------------------------------------ | -------------------- |
 | Divine Comedy                        | Dante                |
@@ -203,7 +204,7 @@ May you find a book that sparks your interest !
 | The Diary of a Young Girl            | Anne Frank           |
 | On the Origin of Species             | Charles Darwin       |
 | Crossing the Floods                  | Ajahn Sucitto        |
-| The Pickwick Papers                              | Charles Dickens              |
+| The Pickwick Papers                  | Charles Dickens              |
 | Why Zebras Don’t Get Ulcers          | Robert Sapolsky      |
 | Message of the Qur’an                | Muhammad Asad        |
 | Saviours of the Islamic Spirit       | Abul Hasan Ali Nadwi |
