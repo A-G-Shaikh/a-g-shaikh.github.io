@@ -38,6 +38,7 @@ May you find a book that sparks your interest !
 | Alchemy of Happiness                             | Al-Ghazali                |
 | Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah             |
 | Road to Mecca                                    | Muhammad Asad             |
+| Deliverance from Error                           | Al-Ghazali         |
 | Islam at the Crossroads                          | Muhammad Asad             |
 | Western Civilisation, Islam and Muslims          | Abul Hasan Ali Nadwi      |
 | Purification of the Heart                        | Imam Mawlud / Hamza Yusuf |
@@ -66,6 +67,7 @@ May you find a book that sparks your interest !
 | Aesop's Fables                                                    | Aesop         |
 | The Lord of the Rings (Trilogy)                                   | J.R.R. Tolkien         |
 | 1984                                                              | George Orwell          |
+| Jane Eyre                                                         | Charlotte Bronte           |
 | The Metamorphosis                                                 | Franz Kafka            |
 | The Scarlet letter                                                | Nathaniel Hawthorne    |
 | The Canterbury Tales                                              | Geoffery Chaucer       |
@@ -86,6 +88,8 @@ May you find a book that sparks your interest !
 | Dune                                                              | Frank Herbert          |
 | Ender’s Game                                                      | Orson Scott Card       |
 | Hitchhiker's Guide to the Galaxy                                  | Douglas Adams         |
+| Persuasion                                                        | Jane Austen             |
+| Flowers for Algernon                                              | Daniel Keys           |
 | Catch-22                                                          | Joseph Heller          |
 | Adventures of Huckleberry Finn                                    | Mark Twain             |
 | Animal Farm                                                       | George Orwell          |
@@ -127,14 +131,15 @@ May you find a book that sparks your interest !
 | ---------------------------------------------- | --------------------- |
 | Man’s Search for Meaning                       | Viktor Frankl         |
 | The Consolation of Philosophy                  | Boethius              |
-| On Reading Well                                | Karen Swallow             |
+| On Reading Well                                | Karen Swallow         |
 | Islamic Psychology                             | Abdallah Rothman      |
 | Black Skin, White Masks                        | Frantz Fanon          |
 | The Body Keeps the Score                       | Bessel van der Kolk   |
 | The Antidote                                   | Oliver Burkeman       |
 | Mud, Sweat and Tears                           | Bear Grylls       |
 | Scattered Minds                                | Gabor Mate        |
-| 12 Years a Slave                               | Solomon Northup           |
+| The Elements of Eloquence                      | Mark Forsyth             |
+| 12 Years a Slave                               | Solomon Northup        |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto      |
 | Four Thousand Weeks                            | Oliver Burkeman       |
 | The Power of Now                               | Eckhart Tolle         |
@@ -148,6 +153,7 @@ May you find a book that sparks your interest !
 | The Price of Money                             | Rob Dix               |
 | Bad Science                                    | Ben Goldacre          |
 | Driven to Distraction                          | Edward Hallowell      |
+| Love                                           | Eric Fromm            |
 | Silence Your Mind                              | Ramesh Manocha        |
 | When I Say No I Feel Guilty                    | Manuel J. Smith       |
 | Feeling Good                                   | David Burns           |
@@ -164,6 +170,7 @@ May you find a book that sparks your interest !
 | Life-Changing Magic of Tidying Up / Kurashi    | Marie Kondo           |
 | A Conversation About Healthy Eating            | Nicholas Lesica       |
 | Conversations with Scientists                  | Vivien Marx           |
+| Arabic Stories                                 | Lufti Mansour            |
 | The Procrastination Equation                   | Piers Steel           |
 | The Death of Common Sense                      | Philip Howard         |
 | The Prince                                     | Machiavelli           |
