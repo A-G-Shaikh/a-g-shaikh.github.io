@@ -14,13 +14,13 @@ May you find a book that sparks your interest !
 ### In Progress
 
 | ------------------------------------------------ | ---------------------------- |
-| The Qur’an                                       |                              |
+| Al-Qur’an al-Majeed                              |                              |
 | Crisis of the Modern World                       | René Guénon                  |
 | On Becoming a Person                             | Carl Rogers                  |
 | Stations of the Travellers (Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
 | Qisas an Nabiyeen                                | Abul Hasan Ali Nadwi         |
-| Tom Jones                                        | Henry Fielding               |
 | Daily Wisdom                                     | Abdur Raheem Kidwai          |
+| Hafez : The Poets of Shiraz                      | D. Davis                   |
 
 ---
 
@@ -31,12 +31,15 @@ May you find a book that sparks your interest !
 ### Philosophy, Religion & Spirituality
 
 | ------------------------------------------------ | ------------------------- |
+| The Qur’an : A New Translation                   | M.A.S Abdel Haleem        |
 | Tao Te Ching                                     | Lao Tsu                   |
 | Confessions                                      | St Augustine              |
 | The Book of Assistance                           | Imam al-Haddad            |
 | The Reconstruction of Religious Thought in Islam | Muhammad Iqbal            |
+| The Illumination                                 | Ibn Ata Allah al-Sakandari             |
 | Alchemy of Happiness                             | Al-Ghazali                |
-| Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah             |
+| Meditations                                      | Marcus Aurelius             |
+| Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah al-Iskandari          |
 | Road to Mecca                                    | Muhammad Asad             |
 | Deliverance from Error                           | Al-Ghazali         |
 | Islam at the Crossroads                          | Muhammad Asad             |
@@ -55,6 +58,7 @@ May you find a book that sparks your interest !
 | Prayers Upon the Beloved                         | Umar Hafez                |
 | Sustenance for the Soul                          | Abu Zayd al-Balkhi        |
 | The Mind Illuminated                             | Culadasa        |
+| The Communist Manifesto                          | Karl Marx and F. Engels        |
 | The Prophet                                      | Kahlil Gibran             |
 | 8000 Years of Wisdom                             | Mike Cast                 |
 
@@ -69,6 +73,7 @@ May you find a book that sparks your interest !
 | 1984                                                              | George Orwell          |
 | Jane Eyre                                                         | Charlotte Bronte           |
 | The Metamorphosis                                                 | Franz Kafka            |
+| Tom Jones                                        | Henry Fielding               |
 | The Scarlet letter                                                | Nathaniel Hawthorne    |
 | The Canterbury Tales                                              | Geoffery Chaucer       |
 | Heart of Darkness                                                 | Joseph Conrad          |
@@ -79,6 +84,7 @@ May you find a book that sparks your interest !
 | Brave New World & Revisited                                       | Aldous Huxley          |
 | Siddhartha                                                        | Hermann Hesse          |
 | Dracula                                                           | Bram Stoker            |
+| Persuasion                                                             | Jane Austen          |
 | The Sorrows of young Werther                                      | Goethe               |
 | Frankenstein                                                      | Mary Shelley           |
 | Slaughterhouse 5                                                  | Kurt Vonnegut          |
@@ -101,6 +107,7 @@ May you find a book that sparks your interest !
 | A Christmas Carol                                                 | Charles Dickens        |
 | The Kite Runner                                                   | Khaled Hosseini        |
 | The Adventures of Peter Pan                                       | J.M. Barrie            |
+| Emma                                                              | Jane Austen          |
 | The Adventures of Pinocchio                                       | Carlo Collodi          |
 | The Rosie Project                                                 | Graeme Simison         |
 | The Martian                                                       | Andy Weir              |
@@ -113,6 +120,7 @@ May you find a book that sparks your interest !
 | Black Beauty                                                      | Anna Sewell            |
 | Robinson Crusoe                                                   | Daniel Defoe           |
 | Oliver Twist                                                      | Charles Dickens        |
+| The Wind in the Willows                                           | Kenneth Grahame         |
 | The Prince and the Pauper                                         | Mark Twain             |
 | Pride and Prejudice                                               | Jane Austen            |
 | Tom Sawyer, Detective                                             | Mark Twain             |
@@ -148,6 +156,7 @@ May you find a book that sparks your interest !
 | The Man Who Mistook His Wife for a Hat         | Oliver Sacks          |
 | How to Live                                    | Derek Sivers          |
 | 7 Habits of Highly Effective People            | Stephen Covey         |
+| Boy, Going Solo                                | Roald Dahl         |
 | How to Read a Book                             | Mortimer Adler        |
 | Die with Zero                                  | Bill Perkins          |
 | The Price of Money                             | Rob Dix               |
@@ -189,8 +198,8 @@ May you find a book that sparks your interest !
 | Rubbaiyat                        | Omar Khayyam     |
 | Sonnets                          | Shakespeare      |
 | Four Quartets                    | T.S. Eliot       |
-| Mathnawi (Vol 1–4)               | Rumi             |
 | Gitanjali                        | Rabindranath Tagore   |
+| Collected Poems                  | William Wordsworth   |
 | Pain and Passing                 | Joel Hayward     |
 | Nation’s Favourite Poems         | BBC              |
 | International Poetry             | Bartram          |
@@ -218,9 +227,7 @@ May you find a book that sparks your interest !
 | House of Wisdom                      | Jim Al-Khalili       |
 | American Gods                        | Neil Gaiman          |
 | Code                                 | Charles Petzold      |
-| Emma                                 | Jane Austen          |
 | Essays                               | Francis Bacon        |
-| Poems                                | William Wordsworth   |
 | Short Stories in Arabic              | Olly Richards        |
 | Getting Things Done                  | David Allen          |
 | The Pilgrim’s Progress               | John Bunyan          |
