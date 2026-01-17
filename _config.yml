@@ -45,7 +45,7 @@ plugins:
 # Dark mode configuration
 dark_mode:
   enabled: true
-  default: false
+  default: true
   
 # Navigation
 navigation:
@@ -104,14 +104,14 @@ homepage:
     enabled: true
     title: "Essays. Insights. Reflections"
     subtitle: "A place to seek and share knowledge"
-    image: "welcome-to-arsxy-theme.webp"
-#    buttons:
-#      - label: "Browse all articles"
-#        url: "/articles/"
-#        primary: true 
-#      - label: "About"
-#        url: "/about/"
-#        primary: false
+#    image: "welcome-to-arsxy-theme.webp"
+    buttons:
+      - label: "Browse all articles"
+        url: "/articles/"
+        primary: true 
+      - label: "Library"
+        url: "/library/"
+        primary: false
         
   # Latest articles settings
   latest_articles:
