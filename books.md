@@ -9,7 +9,7 @@ image: books.jpg
 
 ### A path through books: 
 
-May you find a book that sparks your interest !
+May you find a book below that helps you clarify, heal and grow : 
 
 ### In Progress
 
@@ -17,7 +17,6 @@ May you find a book that sparks your interest !
 | Al-Qur’an al-Majeed                              |                              |
 | Crisis of the Modern World                       | René Guénon                  |
 | On Becoming a Person                             | Carl Rogers                  |
-| Stations of the Travellers (Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
 | Qisas an Nabiyeen                                | Abul Hasan Ali Nadwi         |
 | Daily Wisdom                                     | Abdur Raheem Kidwai          |
 | Hafez : The Poets of Shiraz                      | D. Davis                   |
@@ -34,6 +33,7 @@ May you find a book that sparks your interest !
 | The Qur’an : A New Translation                   | M.A.S Abdel Haleem        |
 | Tao Te Ching                                     | Lao Tsu                   |
 | Confessions                                      | St Augustine              |
+| Stations of the Travellers (Manazil al-Sa’ireen) | Abdullah al-Ansari al-Harawi |
 | The Book of Assistance                           | Imam al-Haddad            |
 | The Reconstruction of Religious Thought in Islam | Muhammad Iqbal            |
 | The Illumination                                 | Ibn Ata Allah al-Sakandari             |
