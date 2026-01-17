@@ -73,9 +73,10 @@ May you find a book that sparks your interest !
 | 1984                                                              | George Orwell          |
 | Jane Eyre                                                         | Charlotte Bronte           |
 | The Metamorphosis                                                 | Franz Kafka            |
-| Tom Jones                                        | Henry Fielding               |
+| Tom Jones                                                        | Henry Fielding               |
 | The Scarlet letter                                                | Nathaniel Hawthorne    |
 | The Canterbury Tales                                              | Geoffery Chaucer       |
+| Jeeves & Wooster                                                   | P.G. Wodehouse         |
 | Heart of Darkness                                                 | Joseph Conrad          |
 | Troilus and Criseyde                                              | Geoffrey Chaucer       |
 | The Great Gatsby                                                  | F. Scott Fitzgerald    |
@@ -94,8 +95,8 @@ May you find a book that sparks your interest !
 | Dune                                                              | Frank Herbert          |
 | Ender’s Game                                                      | Orson Scott Card       |
 | Hitchhiker's Guide to the Galaxy                                  | Douglas Adams         |
-| Persuasion                                                        | Jane Austen             |
 | Flowers for Algernon                                              | Daniel Keys           |
+| Of Mice and Men                                                  | John Steinbeck           |
 | Catch-22                                                          | Joseph Heller          |
 | Adventures of Huckleberry Finn                                    | Mark Twain             |
 | Animal Farm                                                       | George Orwell          |
@@ -104,6 +105,7 @@ May you find a book that sparks your interest !
 | Lord of the Flies                                                 | William Golding        |
 | The Time Machine / War of the Worlds / Invisible Man / Dr. Moreau | H.G. Wells             |
 | A Tale of Two Cities                                              | Charles Dickens        |
+| The Curious Incident of the Dog in the Night-Time                 | Mark Haddon         |
 | A Christmas Carol                                                 | Charles Dickens        |
 | The Kite Runner                                                   | Khaled Hosseini        |
 | The Adventures of Peter Pan                                       | J.M. Barrie            |
@@ -164,6 +166,7 @@ May you find a book that sparks your interest !
 | Driven to Distraction                          | Edward Hallowell      |
 | Love                                           | Eric Fromm            |
 | Silence Your Mind                              | Ramesh Manocha        |
+| We are all Stardust                            | Stefan Klein         |
 | When I Say No I Feel Guilty                    | Manuel J. Smith       |
 | Feeling Good                                   | David Burns           |
 | Help!                                          | Oliver Burkeman       |
@@ -198,6 +201,7 @@ May you find a book that sparks your interest !
 | Rubbaiyat                        | Omar Khayyam     |
 | Sonnets                          | Shakespeare      |
 | Four Quartets                    | T.S. Eliot       |
+| Poems                            | Henry W. Longfellow          |
 | Gitanjali                        | Rabindranath Tagore   |
 | Collected Poems                  | William Wordsworth   |
 | Pain and Passing                 | Joel Hayward     |

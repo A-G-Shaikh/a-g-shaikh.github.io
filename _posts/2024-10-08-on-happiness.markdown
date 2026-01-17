@@ -153,3 +153,51 @@ Contemplating and reflecting on these questions has considerably enhanced
 my understanding of happiness. This process can enlighten us to understand
 not only ourselves but others. I would encourage others to ask themselves
 ‘What does happiness really mean to you ?’.
+
+
+### Poem 
+
+This was written by my friend (thank you !) , summing up the essay in verse :  
+
+He can live with joy, meaning and contentment, yet seem an unfortunate person.
+And everyone is unique - their action, rhythm and motion - and you
+Are unique, don't let your life just happen.
+
+My friend, listen.
+I've got news for you
+ You can overcome desire, restlessness and doubt, and ill-will.
+Derive meaning in the event, no matter how painful or pleasurable.
+This is your opportunity to be thankful. So set your anchor and do your best. 
+Like the seafarer of old, a cut above the rest.
+
+You wanna be happy with money, body, career, relationship - whatever that may be, but let me tell you something actually.
+Happiness is the energy within, 
+Manifesting
+In a smile, in warmth, in relaxation.
+Happiness is a pure emotion - that comes and goes, like good and bad - be happy not sad -
+I get the cycle of nature, you can't grasp it. 
+Happiness is like the beautiful bird in nature, you can only watch and appreciate it.
+Gratitude is your blessing,
+Remembering
+Your moment to moment happiness. 
+And there's no sadness in the security, optimism and abundance.
+
+Celebrate daily wins, be grateful, count your blessings in health and faith
+You've been endowed with, so why you playing it safe?
+The harmonious soul, unified and whole, returning to peace and gladness, cos that's the goal.
+Reconciling all those conflicting parts - none rejected, none granted supremacy.
+No such whims of the lower self, no depravity in its biology.
+Cos nature ain't the Lord.
+Allah, and none but he, has full control. It's his hegemony.
+
+ Loving God is security and serenity. It's the highest form of goodness.
+Come out of a narrow view of life, see the earth in all its vastness.
+Seek God's grace, seek open space, seek without embarrassment.
+Trust me, you want fulfilment -
+A special appointment
+On the avenue of bliss and contentment.
+The day is fading away. Don't play it safe.
+
+Embody encouragement and perseverance. Live with God in accordance.
+Be a true winner - that's your nature. Rediscover your higher self my dear brother or sister.
+Remember, you're unique. Life is a cycle. So be grateful and do your best.
