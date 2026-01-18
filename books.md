@@ -65,6 +65,26 @@ May you find a book below that helps you clarify, heal and grow :
 
 ---
 
+### Poetry
+
+| -------------------------------- | ---------------- |
+| Mathnawi (Vol 1–4)               | Rumi             |
+| Rubbaiyat                        | Omar Khayyam     |
+| Sonnets                          | Shakespeare      |
+| Four Quartets                    | T.S. Eliot       |
+| Poems                            | Henry W. Longfellow          |
+| Gitanjali                        | Rabindranath Tagore   |
+| Collected Poems                  | William Wordsworth   |
+| Pain and Passing                 | Joel Hayward     |
+| Nation’s Favourite Poems         | BBC              |
+| International Poetry             | Bartram          |
+| Classic Poetry                   | Rosen & Walters  |
+| Best-Loved Poems                 | Neil Philip      |
+| Anthology of Popular Verse       | C. Huverford     |
+| Poems for Gardeners              | Various          |
+
+---
+
 ### Fiction
 
 | ----------------------------------------------------------------- | ---------------------- |
@@ -93,46 +113,65 @@ May you find a book below that helps you clarify, heal and grow :
 | Candide                                                           | Voltaire
 | Cat's Cradle                                                      | Kurt Vonnegut          |
 | Dune                                                              | Frank Herbert          |
-| Ender’s Game                                                      | Orson Scott Card       |
 | Hitchhiker's Guide to the Galaxy                                  | Douglas Adams         |
 | Flowers for Algernon                                              | Daniel Keys           |
 | Of Mice and Men                                                  | John Steinbeck           |
 | Catch-22                                                          | Joseph Heller          |
 | Adventures of Huckleberry Finn                                    | Mark Twain             |
 | Animal Farm                                                       | George Orwell          |
-| To Kill a Mockingbird                                             | Harper Lee             |
-| The Hobbit                                                        | J.R.R. Tolkien         |
 | Lord of the Flies                                                 | William Golding        |
 | The Time Machine / War of the Worlds / Invisible Man / Dr. Moreau | H.G. Wells             |
 | A Tale of Two Cities                                              | Charles Dickens        |
 | The Curious Incident of the Dog in the Night-Time                 | Mark Haddon         |
 | A Christmas Carol                                                 | Charles Dickens        |
 | The Kite Runner                                                   | Khaled Hosseini        |
-| The Adventures of Peter Pan                                       | J.M. Barrie            |
+| The Fall of the House of Usher                                    | Edgar Allen Poe       |
 | Emma                                                              | Jane Austen          |
-| The Adventures of Pinocchio                                       | Carlo Collodi          |
 | The Rosie Project                                                 | Graeme Simison         |
 | The Martian                                                       | Andy Weir              |
-| The Hunger Games Trilogy                                          | Suzanne Collins        |
 | The Old Man and the Sea                                           | Ernest Hemingway       |
 | Men Without Women                                                 | Ernest Hemingway       |
 | Journey to the Centre of the Earth                                | Jules Verne            |
 | Little Women                                                      | Louisa May Alcott      |
 | Fahrenheit 451                                                    | Ray Bradbury           |
-| Black Beauty                                                      | Anna Sewell            |
 | Robinson Crusoe                                                   | Daniel Defoe           |
 | Oliver Twist                                                      | Charles Dickens        |
-| The Wind in the Willows                                           | Kenneth Grahame         |
-| The Prince and the Pauper                                         | Mark Twain             |
 | Pride and Prejudice                                               | Jane Austen            |
-| Tom Sawyer, Detective                                             | Mark Twain             |
-| Treasure Island                                                   | Robert Louis Stevenson |
-| Kidnapped                                                         | Robert Louis Stevenson |
 | Dr Jekyll & Mr Hyde                                               | R.L. Stevenson         |
-| Koshka’s Tales                                                    | James Mayhew           |
-| The Wizard of Oz                                                  | L. Frank Baum          |
 | Stranger in a Strange Land                                        | Robert Heinlein        |
 | A Confederacy of Dunces                                           | John Kennedy Toole     |
+| To Kill a Mockingbird                                             | Harper Lee          |
+| The Alchemist                                                    | P. Coelho             |
+
+---
+
+### Young Adult/Children's (Formative)  
+
+| ------------------------------------ | -------------------- |
+| The Wizard of Oz                     | L. Frank Baum          |
+| The Adventures of Peter Pan          | J.M. Barrie            |
+| Ender’s Game                        | Orson Scott Card       |
+| Golden Apples                    | Fiona Waters     |
+| Tom Sawyer, Detective                | Mark Twain             |
+| Treasure Island                      | Robert Louis Stevenson |
+| The Wind in the Willows              | Kenneth Grahame         |
+| Winnie the Pooh                    | A.A Milne |
+| Catcher in the Rye                   | J.D. Salinger       |
+| Kidnapped                            | Robert Louis Stevenson |
+| The Hunger Games Trilogy             | Suzanne Collins        |
+| Black Beauty                         | Anna Sewell            |
+| Paddington Bear                       | Michael Bond          |
+| Koshka’s Tales                      | James Mayhew           |
+| The Adventures of Pinocchio          | Carlo Collodi          |
+| The Tale of Peter Rabbit             | Beatrix Potter         |
+| The Hobbit                           | J.R.R. Tolkien         |
+| The Prince and the Pauper            | Mark Twain             |
+| Boy, Going Solo                      | Roald Dahl         |
+| Harry Potter                         | J.K Rowling          |
+| The Jungle Book                         | Rudyard Kipling        |
+| Animorphs                            | Katherine Applegate       |
+| The Chronicles of Narnia              | C.S. Lewis       |
+
 
 ---
 
@@ -158,7 +197,6 @@ May you find a book below that helps you clarify, heal and grow :
 | The Man Who Mistook His Wife for a Hat         | Oliver Sacks          |
 | How to Live                                    | Derek Sivers          |
 | 7 Habits of Highly Effective People            | Stephen Covey         |
-| Boy, Going Solo                                | Roald Dahl         |
 | How to Read a Book                             | Mortimer Adler        |
 | Die with Zero                                  | Bill Perkins          |
 | The Price of Money                             | Rob Dix               |
@@ -193,28 +231,6 @@ May you find a book below that helps you clarify, heal and grow :
 | Your Lord Has Not Forsaken You                 | Najwa Zebian          |
 
 ---
-
-### Poetry
-
-| -------------------------------- | ---------------- |
-| Mathnawi (Vol 1–4)               | Rumi             |
-| Rubbaiyat                        | Omar Khayyam     |
-| Sonnets                          | Shakespeare      |
-| Four Quartets                    | T.S. Eliot       |
-| Poems                            | Henry W. Longfellow          |
-| Gitanjali                        | Rabindranath Tagore   |
-| Collected Poems                  | William Wordsworth   |
-| Pain and Passing                 | Joel Hayward     |
-| Nation’s Favourite Poems         | BBC              |
-| International Poetry             | Bartram          |
-| Classic Poetry                   | Rosen & Walters  |
-| Best-Loved Poems                 | Neil Philip      |
-| Anthology of Popular Verse       | C. Huverford     |
-| Golden Apples                    | Fiona Waters     |
-| Poems for Gardeners              | Various          |
-
----
-
 
 ### Paused (but not forgotten)
 
