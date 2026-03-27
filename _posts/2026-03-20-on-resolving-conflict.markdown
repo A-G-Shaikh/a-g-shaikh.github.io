@@ -20,13 +20,11 @@ Interpersonal conflict is inevitable as life is not arranged so that everyone ge
 
 Yet it is beyond simply a social inconvenience because navigating it successfully is a part of the spiritual arena as well as the terrain of our moral testing.  
 
-In my experience of navigating conflict whilst working in more serious busy hospital environments of theatre surgeries and A&E to the somewhat less serious, in personal sphere (thermostat battles), it has become clear that successfully resolving conflict often centres around communication, understanding, and attitude.  
-
 I’ve realised that it can quite often be resolved amicably and smoothly through establishing key ground rules and being open to seeking solutions beyond the initial two opposing positions or ideas.  
 
-In this article, we will cover the physical, psychological, social, and spiritual aspects of interpersonal conflict. Being aware of our sensations, emotions, thoughts and ego means that we can resolve matters much more wisely, with justice and grace.  
-
 In a world where tensions seem to be rising, how we relate to others and deal with conflict gives us the opportunity to practise compassion, empathy, and justice in our search for solutions and reconciliation.  
+
+In this article, we will cover the physical, psychological, social, and spiritual aspects of interpersonal conflict. Being aware of our sensations, emotions, thoughts and ego means that we can resolve matters much more wisely, with justice and grace.  
 
 ---
 
@@ -36,9 +34,14 @@ How we navigate conflict can often reveal more about us than the other person.
 
 هينا لينا  
 *To be easy going and lenient*  
-Personality and recognising our own patterns are key factors in how we handle conflict. For me, I tend towards agreeableness, harmony, and peace. However, I realised that there was a danger here in suppressing, repressing, and continually putting aside anger or one’s own view/wants. Finding conflict frustrating is often a result of this temperament, as we want everyone to get along, yet this idealism/gift runs contrary to reality and it can turn into a trap of complacency. There is a cost to this self-silencing as it takes a psychological toll.  
+
+Personality and recognising our own patterns are key factors in how we handle conflict. For me, I tend towards agreeableness, harmony, and peace. 
+
+However, I realised that there was a danger here in suppressing, repressing, and continually putting aside anger or one’s own view/wants. Finding conflict frustrating is often a result of this temperament, as we want everyone to get along, yet this idealism/gift runs contrary to reality and it can turn into a trap of complacency. There is a cost to this self-silencing as it takes a psychological toll.  
 
 I chose to balance this side with working on assertiveness and expressivness in order to achieve more successful outcomes.  
+
+In my experience of navigating conflict whilst working in more serious busy hospital environments of theatre surgeries and A&E to the somewhat less serious, personal sphere (e.g. thermostat battles), it has become clear that successfully resolving conflict often centres around communication, understanding, and attitude.  
 
 The strengths of this balanced approach is one where understanding and compassion are unified with working towards a just and fair outcome.  
 
@@ -52,7 +55,7 @@ Spending time on understanding our temperament and areas of development thus pay
 > Water benefits all things and does not contend … 
 > He alone does not contend, hence there is no blame. (Tao Te Ching, Ch. 8)  
 
-Rather than approaching it from a combative perspective of my way is right and your way is wrong, the better approach is to honour the genuine wants and needs of both parties. Rather than conflict being an area of punishment or adversarial combat, our mindset can be one of informing, negotiating, and resolving differences to come to a win-win solution.  
+Rather than approaching it from a combative perspective of my way is right and your way is wrong, the better approach is to honour the genuine wants and needs of both parties. Rather than conflict being an area of punishment or adversarial combat, our mindset can be one of informing, negotiating, and resolving differences to come to a win-win solution. This unlocks the way to finding more solutions than just the initial 2.  
 
 Even if it is a behaviour, belief, or attitude, separating this from the individual allows space and emotional distance, which can in turn create safety, as we no longer see the other person as a threat or enemy.  
 
@@ -65,9 +68,9 @@ The way we position ourselves, as well as the way we notice the signals from our
 
 Standing, sitting, or walking side by side changes the physical as well as emotional geometry to allow both parties to work towards a solution together, where the challenge is there to be solved by both people.  
 
-A discussion that has devolved into an argument in a crowded and noisy shopping mall, under harsh lighting is the least favourable place to move towards a healthy resolution.  
+Being mindful of the time, manner, and place of discussions smooths the way to success. A discussion that has devolved into an argument in a crowded and noisy shopping mall, under harsh lighting is the least favourable place to move towards a healthy resolution.  
 
-Being mindful of the time, manner, and place of discussions smooths the way to success. A softened posture and a smile can change the scene. Starting with basics, being mindful of hand gestures, facial expression and body position really matters when establishing a peaceful and cooperative atmosphere (rather than fight, flight or freeze).  
+A softened posture and a smile can change the scene. Starting with basics, being mindful of hand gestures, facial expression and body position really matters when establishing a peaceful and cooperative atmosphere (rather than fight, flight or freeze).  
 
 This can be done by noticing, for example, if our chest is tightening, whether our face has contorted, whether our shoulders are holding tension, or whether our head is feeling heavy or buzzing.  
 
@@ -145,7 +148,7 @@ It means offering the other person their basic dignity and value in their inviol
 
 Remorse, regret, rumination — I wish I’d handled that better.
 
-How often have we all felt that way yet initially yet end up with our mind starting to find fault with the other party instead ?
+How often have we all felt that way initially yet end up with our mind starting to find fault with the other party instead ?
 
 When we adopt the position of them being to blame, or ask ourselves why they don’t realise or aren’t aware of their own behaviours or beliefs, we end up looking for the proverbial plank in the eye of the other person, which often means we miss out on seeing the plank in our own eye.  
 
