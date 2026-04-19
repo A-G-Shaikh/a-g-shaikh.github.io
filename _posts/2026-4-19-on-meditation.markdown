@@ -38,12 +38,33 @@ It is commonly experienced by people starting out on any kind of project, includ
 
 ---
 
+### Returning to a smile
+
+Compare and contrast the following:  
+
+> My mind has wandered off again.  
+Why am I so forgetful?  
+Why can’t I do this well ?  
+
+> I notice the mind has wandered off. 
+What a blessing to notice this !  
+
+It is the nature of the mind to wander. It is a structural feature that mental content will arise, and pass, continually (termed the Default Mode Network of the brain in Neuroscience).  
+Getting swept up is not necessarily failure. The awareness of ‘my attention has wandered’ is the essence of this practice.  
+
+Would we berate a toddler for wanting to explore ? Yet, how often do we beat ourselves up for being forgetful or distracted.  
+
+It is this insight that I found so liberating. 
+
+---
+
 ### Going deeper - spring cleaning, for the mind
 
 To peer into the depths of the psyche means getting acquainted with what can distract us and pull us off the straight path.  
 
 This points to a deeper spiritual and psychological theme in the Qur’an:  
 
+>
 لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ  
 No fear [worries about the future] shall be upon them, nor shall they grieve [regret and rumination]  
 
@@ -52,16 +73,19 @@ A decade ago, I was frequently getting swept away by the currents of the mind in
 This led me to explore meditation and find out how to relate to my mind as well as my heart in a more wholesome manner. It still is challenging.  
 But with consistent practice, the ability to truly tune in to each moment has improved. The ability to transform through training and simple noticing still surprises me.  
 
-The key shift was a different relationship with thoughts and emotions. Gradually, this led to something unexpected.  
-There was an aspect of pure joy as well as quieter and clearer awareness to enter into. My experience of life had become brighter, lighter and more playful. A childlike wonder had returned as I spent less time in narrative thinking. Spring was not only in the air, but in my step.  
+The key shift was a different relationship with thoughts and emotions. 
 
-This vitality is there for us to access– with training, perseverance and patience. The need to seek escape (social media,gaming) or constant novelty falls away as we find it within. The treasure rests in recognising our current state and releasing attachments in order to access the sublime nature of each moment.  
+Gradually, this led to something unexpected.  
+There was an aspect of pure joy as well as quieter and clearer awareness to enter into. My experience of life had become brighter, lighter and more playful. A childlike wonder had returned as I spent less time in narrative thinking. Spring was not only in the air, but in my step.  
 
 In my experience, it gives the choice of going beyond simply observing experiences. It becomes more about fully acknowledging what God is sending us (receiving as something sent for a purpose, not random). This self surrender in order to receive insight can be further trained by looking deeper into the mind, the heart as well as looking deeper into the spiritual realm through contemplating nature, revelation and purpose (tafakkur).  
 
 I was able to notice whenever my mind was getting caught up in a story, getting attached to a narrative or simply being lost in daydreaming mode. I noticed changes in the way I related to others and seeing more opportunities to practise kindness, empathy and generosity. The greatest gift we can give ourselves is returning to the present moment, to what is eternal.  
 
 ---
+
+This vitality is there for us to access– with training, perseverance and patience. The need to seek escape (social media,gaming) or constant novelty falls away as we find it within. The treasure rests in recognising our current state and releasing attachments in order to access the sublime nature of each moment.  
+
 
 ### Training
 
@@ -75,31 +99,9 @@ I noticed that meditative practices fall into these key groups:
 3. Focused attention  
 4. Reciting/Vocalising  
 
+
 These practices allow us to clear away the clouds of the mind. With regular practice, I found this deepened my connection with God, other people and nature.  
 Is there any treasure that could be more valuable than this?  
-
->من ذاق عرف  
-> whoever tastes, knows 
-
----
-
-### Returning to a smile
-
-Compare and contrast the following:  
-
-> My mind has wandered off again.  
-Why am I so forgetful?  
-Why can’t I do this well ?  
-
-> I notice the mind has wandered off. 
-What a blessing to notice this !  
-
-It is the nature of the mind to wander. It is a structural feature that mental content will arise, and pass, continually.  
-Getting swept up is not necessarily failure. The awareness of ‘my attention has wandered’ is the essence of this practice.  
-
-Would we berate a toddler for wanting to explore ? Yet, how often do we beat ourselves up for being forgetful or distracted.  
-
-It is this insight that is so liberating. 
 
 ---
 
@@ -220,6 +222,10 @@ What began as a way to relate to the mind, made me realise that it is not someth
 This is more than something to intellectually understand.  
 
 It is there, waiting to be discovered in each moment.  
+
+>من ذاق عرف  
+> whoever tastes, knows 
+
 
 ---
 
