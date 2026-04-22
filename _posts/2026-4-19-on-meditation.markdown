@@ -31,10 +31,14 @@ I start questioning whether this is worth the effort.
 Is this what it means to see the ego resist ? It was surprising to witness the distraction.  
 This is what my first few attempts at meditating looked like.  
 
-I came to realise later that this is a station, of doubt and restlessness (also termed ‘the monkey mind’).  
-I realised I was not failing and not a ‘failure’. The moment of noticing distraction was the moment of practice and training. It counted as a ‘rep’.  
+I came to realise later that this is a station, of doubt and restlessness (the 'monkey mind’).  
 
 It is commonly experienced by people starting out on any kind of project, including meditation.  
+
+I realised I was not failing and not a ‘failure’. The moment of noticing distraction was the moment of practice and training. 
+
+It counted as a ‘rep’.  
+
 
 ---
 
@@ -49,7 +53,8 @@ Why can’t I do this well ?
 > I notice the mind has wandered off. 
 What a blessing to notice this !  
 
-It is the nature of the mind to wander. It is a structural feature that mental content will arise, and pass, continually (termed the Default Mode Network of the brain in Neuroscience).  
+It is the nature of the mind to wander. It is a structural feature that mental content will arise, and pass, continually (the 'Default Mode Network' of the brain).  
+
 Getting swept up is not necessarily failure. The awareness of ‘my attention has wandered’ is the essence of this practice.  
 
 Would we berate a toddler for wanting to explore ? Yet, how often do we beat ourselves up for being forgetful or distracted.  
@@ -70,8 +75,9 @@ No fear [worries about the future] shall be upon them, nor shall they grieve [re
 
 A decade ago, I was frequently getting swept away by the currents of the mind into the past or the future. The heart was not fully anchored in trust (tawakkul) or peace (salam). Pretending, getting busier or speeding up in an effort to be more productive certainly wasn’t helping. It was a struggle to stay in the present, chasing what the self thought it must have, but what was not really needed.  
 
-This led me to explore meditation and find out how to relate to my mind as well as my heart in a more wholesome manner. It still is challenging.  
-But with consistent practice, the ability to truly tune in to each moment has improved. The ability to transform through training and simple noticing still surprises me.  
+This led me to explore meditation and find out how to relate to my mind as well as my heart in a more wholesome manner. 
+
+It still is challenging.  But with consistent practice, the ability to truly tune in to each moment has improved. The ability to transform through training and simple noticing still surprises me.  
 
 The key shift was a different relationship with thoughts and emotions. 
 
@@ -82,15 +88,14 @@ In my experience, it gives the choice of going beyond simply observing experienc
 
 I was able to notice whenever my mind was getting caught up in a story, getting attached to a narrative or simply being lost in daydreaming mode. I noticed changes in the way I related to others and seeing more opportunities to practise kindness, empathy and generosity. The greatest gift we can give ourselves is returning to the present moment, to what is eternal.  
 
----
-
 This vitality is there for us to access– with training, perseverance and patience. The need to seek escape (social media,gaming) or constant novelty falls away as we find it within. The treasure rests in recognising our current state and releasing attachments in order to access the sublime nature of each moment.  
 
+---
 
 ### Training
 
 The skill of observing the movements of the mind as well as how we can keep it on one object of focus can be trained.  
-So the question is, how do we train it ? Beyond the pure joy of catching the mind as it wanders, training this skill means that the flashlight of the mind can shine more brightly on an object. It can cast a wider beam or simply be returned to the object we want it to stay on more regularly and with more grace.  
+Beyond the pure joy of catching the mind as it wanders, training this skill means that the flashlight of the mind can shine more brightly on an object. It can cast a wider beam or simply be returned to the object we want it to stay on more regularly and with more grace.  
 
 I noticed that meditative practices fall into these key groups:  
 
@@ -101,55 +106,64 @@ I noticed that meditative practices fall into these key groups:
 
 
 These practices allow us to clear away the clouds of the mind. With regular practice, I found this deepened my connection with God, other people and nature.  
+
 Is there any treasure that could be more valuable than this?  
 
 ---
 
 ### The 6Rs
 
-1. Recognise - the mind has wandered, often through noticing tension in the head or how our facial muscles have contracted (as if standing under a waterfall of thoughts )
+So the question is, how do we train it ? This is the method I keep returning to and have found the most success with: 
 
-2. Release – do I need to follow this thought, emotion or sensation and the corresponding story ? (Taking a step back from the waterfall)
+1. Recognise - the mind has wandered, often through noticing tension in the head 
+(as if standing under a waterfall of thoughts )
+
+2. Release – do I need to follow this thought, emotion or sensation and the corresponding story ? 
+(Taking a step back from the waterfall)
 
 3. Relax – soften, breathing out a longer exhale (sigh out)
 
-4. Return – back to the object e.g. the feeling of gratitude or a phrase
+4. Return – back to the object of meditation e.g. the feeling of gratitude or a phrase
 
-5. Re-smiling – congratulations, the mind was pulled away and then brought back ! Done with a balance of right effort and sense of ease.
+5. Re-smiling – congratulations, the mind was pulled away and then brought back ! 
+(A slight smile - done with a balance of right effort and sense of ease)
 
 6. Repeating the process – every time a distraction happens  
 
-As with any path, there will be obstacles and challenges along the way.  
+As with any path, there will be obstacles and challenges along the way... 
 
 ---
 
 ### Dealing with distraction and impulsivity
 
-> An interpretative reflection: 
+An interpretative reflection on how we get pulled off our path :
+
+>  
 ثُمَّ لَآتِيَنَّهُم مِّنۢ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ أَيْمَٰنِهِمْ وَعَن شَمَآئِلِهِمْ  
-Then I will come to them: 
+Then I [Iblis]  will come at them: 
 
-1. from the front [the future anxiety/doubt]
+1. From the front [the future (anxiety/doubt/worry)]
 
-2. and from behind them [past - regret/rumination - memory traps]
+2. ...and from behind them [the past (regret/rumination - memory traps/loops)]
 
-3. from their right [self - pride/ego]
+3. ...from their right [self-righteousness/pride/ego]
 
-4. and from their left [desires/temptations/ill will] (7.17)
+4. ...and from their left [desires/temptations/ill will] (7:17)
 
 This is more than theory – it will start to play out within minutes of sitting in silence.  
 
 
-If we listen to these whispers or feed into the storyline, we can easily get taken off our path. 
+If we listen to these whispers or feed into the storyline, we can easily get taken off the path. 
 
+---
 
 ### Common hindrances (along with associated narratives) :   
 
-1. Sense desire – e.g. part of us may feel hunger and our thoughts may then drift to planning a meal  
+1. Sense desire – e.g. part of us may feel hunger and our thoughts may then drift to thoughts of food/other pleasure seeking 
 
 2. Sloth/Dullness – another part of us may want to rest or relax as the mind feels foggy or low in energy.  
 
-3. Ill will – this may come in the form of hostility, towards ourselves or others (around stressful situations, distressing memories or an underlying sense of hurt)  
+3. Ill will – this may come in the form of hostility, towards ourselves (for not doing it perfectly) or others (around stressful situations, distressing memories or an underlying sense of hurt)  
 
 4. Restlessness – our mind may resist as it is not getting the usual amount of external stimulation and it can throw up other ideas or activities that can appear to be more exciting.  
 
@@ -161,11 +175,13 @@ It is similar to seeing the surface of a lake which has many contents underneath
 
 What we can do is choose our attitude and response to what is surfacing.  
 
-We can choose to explore with curiosity and openness as we observe what arises without clinging or getting pulled into analysis (deeper reflection has its place in Tafakkur). Without feeding into it, we can then notice how experiences are ephemeral.  
+We can choose to explore with curiosity and openness as we observe what arises without clinging or getting pulled into analysis (deeper reflection has its place in contemplation [Tafakkur]). Without feeding into it, we can then notice how experiences are ephemeral.  
 
 ---
 
 ### Dua and Loving-Kindness
+
+> “None of you truly believes until he loves for his brother what he loves for himself.” 
 
 Being grateful for what we have been granted as well as wishing for equanimity, grace, and guidance is a key part of this practice. Expanding the practice and wishing it for others consistently, has resulted in more frequent states of happiness, peace, and tranquillity throughout the day.  
 
