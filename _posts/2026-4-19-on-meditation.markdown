@@ -7,7 +7,7 @@ categories : psychology spirituality
 toc: true
 tags: psychology
 featured: true
-image: watching.jpg
+image: aware.jpg
 ---
 
 The art and science of keeping watch (Muraqabah)
