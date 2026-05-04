@@ -68,24 +68,23 @@ Whole foods and fibre form the foundation. What we choose to drink is the place 
 
 `Drinking calories, thinking they don’t ‘count’, until they do...`
 
-If you change one thing, change this:
-Reduce and substitute out liquid calories from your diet.  
-
 Liquid calories in the form of sugary drinks, fizzy drinks, smoothies, and yes, even fruit juices, trick the brain into thinking that the body has not really taken in many calories.  
 
 A glass of orange juice can contain the sugar of several oranges. It’s easy to drink in a few seconds what would have taken minutes to eat and much longer to digest.  
 
 Or, in the case of artificially sweetened drinks, that may influence appetite in such a way that we end up eating much more (as we assume we have a greater calorie allowance).  
 
-Steadily in our household, we have stopped purchasing sugary drinks, including juices and smoothies (which are less healthy than whole fruit) because of the sugar content and its impact on blood sugar and insulin.  
+If you change one thing, change this:
+Reduce and substitute out liquid calories from your diet.  
 
 ---
 
 ### Mostly plants
 
-Meat every day.  
+`Meat every day`  
 
 Do we really need meat every day?  
+
 Is this sustainable for the environment?  
 For our health?  
 For our conscience?  
@@ -164,8 +163,6 @@ I wouldn’t want others to ever hear those screams.
 
 Nutrition choices shape outcomes for Type 2 diabetes, cardiovascular disease, and stroke outcomes. It is rarely one dramatic decision, it’s the daily choices that accumulate into what I saw in the Cardiology suite.  
 
-In part 2, we will cover more about fat loss and muscle-building principles for nutrition, as well as simplifying concepts such as Intermittent fasting.  
-
 I would want others to consider making at least one change, if not for the environment and their conscience, then at least for their health and the health of their family members.  
 
 Whenever nutrition and eating well seems to get confusing, we can try and remember these three precepts to clarify and return to a place of confidence:
@@ -184,6 +181,8 @@ We need a shift in mindset.
 
 Lesica N.A – A Conversation About Healthy Eating  
 http://discovery.ucl.ac.uk/1560465/1/A-Conversation-about-Healthy-Eating.pdf  
+
+Al-Ghazali -The Manners Relating to Eating (Kitab adab al-akl)
 
 Michael Pollan – In Defense of Food (2008)  
 https://michaelpollan.com/books/in-defense-of-food/  
