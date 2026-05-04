@@ -7,7 +7,7 @@ categories : philosophy
 toc: true
 tags: happiness al-ghazali
 featured: true
-image: woods.jpg
+image: halo.jpg
 ---
 
 
