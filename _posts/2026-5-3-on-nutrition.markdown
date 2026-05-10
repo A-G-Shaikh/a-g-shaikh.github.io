@@ -26,7 +26,7 @@ Seeing my father on life support machines after a quadruple bypass, unconscious,
 
 Years later, in Interventional Cardiology I got to see exactly what my Dad went through. Seeing case after case of males under 50 get stents and surgeries for atherosclerosis ends up having an impact.  
 
-After researching cardiovascular disease, I learned that the most powerful modifiable factor is nutrition.  
+After researching cardiovascular disease, I learned that the most powerful modifiable factor seemed to be nutrition.  
 
 After months of getting bogged down in research, conflicting opinions and controversy, Michael Pollan's simple guidelines seemed to capture the essence of what it means to eat well.  
 
@@ -89,7 +89,7 @@ Is this sustainable for the environment?
 For our health?  
 For our conscience?  
 
-There are a number of high-protein plant-based options such as lentils, legumes, beans, and chickpeas. Edamame are very high in protein and easy to prepare. Varying our diet and having meat-free days does not mean becoming a vegetarian or vegan overnight.  
+There are a number of high-protein plant-based options such as lentils, legumes, beans, and chickpeas. Nuts, seeds and  Edamame are additional options that are higher protein and easy to prepare/accessible. Varying our diet and having meat-free days does not mean becoming a vegetarian or vegan overnight.  
 
 It is our responsibility, however, to explore alternatives and see how we can still get our nutritional needs met whilst ensuring much better outcomes for the planet, our health, and our conscience.  
 
@@ -158,8 +158,6 @@ Afterward, having a finisher to end the meal can signify that the meal has come 
 We got to have another chance with our Dad.  
 
 Others we know didn't.  
-
-I wouldn’t want others to ever hear those screams.  
 
 Nutrition choices shape outcomes for Type 2 diabetes, cardiovascular disease, and stroke outcomes. It is rarely one dramatic decision, it’s the daily choices that accumulate into what I saw in the Cardiology suite.  
 

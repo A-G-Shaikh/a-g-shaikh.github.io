@@ -19,7 +19,6 @@ May you find a book below that helps you clarify, heal and grow :
 | On Becoming a Person                             | Carl Rogers                  |
 | Qisas an Nabiyeen                                | Abul Hasan Ali Nadwi         |
 | Daily Wisdom                                     | Abdur Raheem Kidwai          |
-| Hafez : The Poets of Shiraz                      | D. Davis                   |
 
 ---
 
@@ -44,6 +43,7 @@ May you find a book below that helps you clarify, heal and grow :
 | Deliverance from Error                           | Al-Ghazali         |
 | Islam at the Crossroads                          | Muhammad Asad             |
 | Western Civilisation, Islam and Muslims          | Abul Hasan Ali Nadwi      |
+| The Leadership of Muhammad (PBUH)                       | Joel Hayward          |
 | Purification of the Heart                        | Imam Mawlud / Hamza Yusuf |
 | Peace Is Every Step                              | Thich Nhat Hanh           |
 | The Varieties of Religious Experience            | William James             |
@@ -59,6 +59,7 @@ May you find a book below that helps you clarify, heal and grow :
 | Sustenance for the Soul                          | Abu Zayd al-Balkhi        |
 | The Mind Illuminated                             | Culadasa        |
 | The Communist Manifesto                          | Karl Marx and F. Engels        |
+| Aurangzeb: The Man and the Myth                  | Audrey Truschke                   |
 | The Prophet                                      | Kahlil Gibran             |
 | 8000 Years of Wisdom                             | Mike Cast                 |
 
@@ -76,8 +77,11 @@ May you find a book below that helps you clarify, heal and grow :
 | Gitanjali                        | Rabindranath Tagore   |
 | Collected Poems                  | William Wordsworth   |
 | Pain and Passing                 | Joel Hayward     |
+| Poetry please !                  | BBC Radio 4          |
 | Nation’s Favourite Poems         | BBC              |
+| Hafez : The Poets of Shiraz      | D. Davis                   |
 | International Poetry             | Bartram          |
+| Poems of the Countryside         | Various & G. Benningfield                   |
 | Classic Poetry                   | Rosen & Walters  |
 | Best-Loved Poems                 | Neil Philip      |
 | Anthology of Popular Verse       | C. Huverford     |
@@ -95,6 +99,7 @@ May you find a book below that helps you clarify, heal and grow :
 | The Metamorphosis                                                 | Franz Kafka            |
 | Tom Jones                                                        | Henry Fielding               |
 | The Scarlet letter                                                | Nathaniel Hawthorne    |
+| Chronicle of a death foretold                                     | Gabriel Garcia Marquez                   |
 | The Canterbury Tales                                              | Geoffery Chaucer       |
 | Jeeves & Wooster                                                   | P.G. Wodehouse         |
 | Heart of Darkness                                                 | Joseph Conrad          |
@@ -127,7 +132,9 @@ May you find a book below that helps you clarify, heal and grow :
 | The Kite Runner                                                   | Khaled Hosseini        |
 | The Fall of the House of Usher                                    | Edgar Allen Poe       |
 | Emma                                                              | Jane Austen          |
+| Hadji Murad                                                       | Leo Tolstoy          |
 | The Rosie Project                                                 | Graeme Simison         |
+| Silas Marner                                                      | George Eliot          |
 | The Martian                                                       | Andy Weir              |
 | The Old Man and the Sea                                           | Ernest Hemingway       |
 | Men Without Women                                                 | Ernest Hemingway       |
@@ -162,6 +169,7 @@ May you find a book below that helps you clarify, heal and grow :
 | Black Beauty                         | Anna Sewell            |
 | Paddington Bear                       | Michael Bond          |
 | Koshka’s Tales                      | James Mayhew           |
+| Kensuke's Kingdom                    | Michael Morpurgo          |
 | The Adventures of Pinocchio          | Carlo Collodi          |
 | The Tale of Peter Rabbit             | Beatrix Potter         |
 | The Hobbit                           | J.R.R. Tolkien         |
@@ -193,10 +201,16 @@ May you find a book below that helps you clarify, heal and grow :
 | Four Thousand Weeks                            | Oliver Burkeman       |
 | The Power of Now                               | Eckhart Tolle         |
 | The Talent Code                                | Daniel Coyle        |
+| Mistakes were made, but not by me              | C. Tavris & E. Aronson                   |
 | Games People Play                              | Eric Berne            |
+| Girl unmasked                                  | Emily Katy          |
+| Small Talk                                     | Richard & Roxanne Pink          |
 | The Man Who Mistook His Wife for a Hat         | Oliver Sacks          |
+| In the Realm of Hungry Ghosts                  | Gabor Mate          |
 | How to Live                                    | Derek Sivers          |
+| Staying OK                                     | Thomas Harris          |
 | 7 Habits of Highly Effective People            | Stephen Covey         |
+| AuDHD                                          | Khurram Sadiq                   |
 | How to Read a Book                             | Mortimer Adler        |
 | Die with Zero                                  | Bill Perkins          |
 | The Price of Money                             | Rob Dix               |
@@ -211,8 +225,10 @@ May you find a book below that helps you clarify, heal and grow :
 | Into the Magic Shop                            | James Doty            |
 | Dream Yoga                                     | Andrew Holecek        |
 | Hopeful                                        | Omid Djalili          |
+| Pretending to be normal                        | Liane Wiley          |
 | Can’t Hurt Me                                  | David Goggins         |
 | Be Useful                                      | Arnold Schwarzenegger |
+| Memories, Dreams, Reflections                  | Carl Jung          |
 | The Anxious Generation                         | Jonathan Haidt        |
 | Your Money or Your Life                        | Vicki Robins          |
 | Darkness Visible                               | William Styron        |
