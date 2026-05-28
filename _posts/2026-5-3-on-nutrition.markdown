@@ -26,6 +26,12 @@ Seeing my father on life support machines after a quadruple bypass, unconscious,
 
 Years later, in Interventional Cardiology I got to see exactly what my Dad went through. Seeing case after case of males under 50 get stents and surgeries for atherosclerosis ends up having an impact.  
 
+The screams of one patient still ring in my ears. He had been given local anaesthetic, yet was still experiencing extreme sensitivity during the procedure. 
+
+Stenting had been unsuccessful.
+
+I can vividly remember the moment they were given the phone to make a call to a relative before being taken in for surgery. 
+
 After researching cardiovascular disease, I learned that the most powerful modifiable factor seemed to be nutrition.  
 
 After months of getting bogged down in research, conflicting opinions and controversy, Michael Pollan's simple guidelines seemed to capture the essence of what it means to eat well.  

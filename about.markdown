@@ -6,15 +6,23 @@ permalink: /about/
 image : knowledge.jpg
 ---
 
+>
 "Lives of great men all remind us
-   We can make our lives sublime,
+>
+We can make our lives sublime,
+>
 And, departing, leave behind us
-   Footprints on the sands of time;
-
+>
+Footprints on the sands of time;
+>
 Footprints, that perhaps another,
-   Sailing o’er life’s solemn main,
+>
+Sailing over life’s solemn main,
+>
 A forlorn and shipwrecked brother,
-   Seeing, shall take heart again." 
+>
+Seeing, shall take heart again." 
+
 
 ## In the pursuit of knowledge
 
