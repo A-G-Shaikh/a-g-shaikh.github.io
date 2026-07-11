@@ -71,9 +71,9 @@ navigation:
   - title: Library
     url: /library
     icon: book-open
-#  - title: Contact
-#    url: /contact
-#    icon: mail   
+  - title: Contact
+    url: /contact
+    icon: mail   
      
 rss_enabled: false
 

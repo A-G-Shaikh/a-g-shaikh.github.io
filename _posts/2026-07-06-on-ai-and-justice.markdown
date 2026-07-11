@@ -14,7 +14,7 @@ Can AI deliver absolute Justice ?
 
 ---
 
-### Deus ex Machina 
+### Introduction
 
 Where do we begin with this question...
 
@@ -49,7 +49,7 @@ recognise patterns to save time.
 
 ### World-view
 
-Yet, it is God who ultimately made us stewards on this earth.
+It is God who ultimately made us stewards on this earth.
 
 To outsource the role of judge, jury, and executioner to algorithmic decision-making
 would be shirking our responsibility and foregoing our opportunity to access the
@@ -63,6 +63,7 @@ conscience and  insight.
 
 Fundamentally, using a probabilistic, sophisticated guessing machine as the authority   to make decisions such as hiring and firing, diagnosing and treating, training and guiding
 others is irresponsible.
+
 ---
 
 ### Conclusion
