@@ -1,26 +1,21 @@
 ---
-Title: On learning Arabic
+Title: On AI & Justice
 layout: post
 author: AGS
-Description: Reflections on Happiness
-categories : languages
+Description: Reflections on AI & Justice
+categories : philsophy
 toc: true
-tags: languages arabic
+tags: philsophy faith programming
 featured: true
-image: arabic.jpeg
+image: justice.jpeg
 ---
 ‬
-From stumbling to success...
+Deux ex Machina... 
 
 ---
 
 ### Introduction
 
-Is learning Arabic really that important ?  Can’t I get by with English instead ? What’s wrong with using a translation ? 
-
-These questions inevitably surface in the mind of every Arabic learner, let alone any language learner. Yet, even to have the chance of learning it and accessing these resouces is a privilege granted to only a few us. 
-
-It’s not something we have to do, but that we *get* to do, a gift to open our hearts and souls to the Divine message. This is a sacred language that connects us to centuries of seekers. 
 
 ---
 

@@ -123,7 +123,7 @@ homepage:
   featured_posts:
     enabled: true
     title: "Featured Posts"
-    limit: 8
+    limit: 12
 
 # Table of Contents configuration
 toc:
@@ -140,8 +140,8 @@ search:
   placeholder: "Search posts..."
   results_count: 10  # Maximum number of search results to display
   
-#social:
-   # email: N/A
+social:
+   email: amarshaikh@hotmail.com
    
 #giscus:
   enabled: true # Set to true to enable Giscus comments
