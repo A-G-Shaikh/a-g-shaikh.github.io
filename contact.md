@@ -8,7 +8,6 @@ permalink: /contact/
   
 Have questions, comments or feedback? 
 
-Get in touch:
-Amar.G.Shaikh@Gmail.com
-  
+Get in touch :
+Amarshaikh@hotmail.com  
   
