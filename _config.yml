@@ -123,7 +123,7 @@ homepage:
   featured_posts:
     enabled: true
     title: "Featured Posts"
-    limit: 8
+    limit: 12
 
 # Table of Contents configuration
 toc:
