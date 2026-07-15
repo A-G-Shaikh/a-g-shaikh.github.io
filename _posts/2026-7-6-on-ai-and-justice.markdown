@@ -44,6 +44,11 @@ Can we offer genuine transparency and oversight which would ensure justice as we
 
 ### Context
 
+>
+افلا تتفكرون
+>
+Will you not contemplate ? 
+
 At its core, AI is mathematics, code and statistics.
 
 Now, does this phenomenon have a spiritual heart?
@@ -68,8 +73,8 @@ There is a danger of defaulting to computers for all our answers, leading to an 
 
 >
 لا تجعل مع الله الها اخر فتقعد مذموما مخذولا
-
-*Do not set up any other god alongside God, or you will end up disgraced and forsaken.* (17:22)
+>
+Do not set up any other god alongside God, or you will end up disgraced and forsaken. (17:22)
 
 The Islamic view is that it is God who ultimately made us stewards on this earth and that we turn to God for guidance as our first port of call.
 
@@ -87,6 +92,7 @@ Fundamentally, the trend would lead us to defaulting to a probabilistic, sophist
 
 >
 فاين تذهبون
+>
 "So where are you people going?" (81:26)
 
 Let’s take a step back and recognise the nature of AI, how it works, and remember the faculties needed to access absolute justice.
