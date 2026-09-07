@@ -18,7 +18,9 @@ May you find a book below that helps you clarify, heal and grow :
 | Crisis of the Modern World                       | René Guénon                  |
 | On Becoming a Person                             | Carl Rogers                  |
 | Qisas an Nabiyeen                                | Abul Hasan Ali Nadwi         |
-| Daily Wisdom                                     | Abdur Raheem Kidwai          |
+| A Short History of Nearly Everything             | Bill Bryson         |
+| As Long as the Lemon Trees Grow                  | Zoulfa Katouh          |
+| The Year of Magical Thinking                     | Joan Didion          |
 
 ---
 
@@ -38,6 +40,7 @@ May you find a book below that helps you clarify, heal and grow :
 | The Illumination                                 | Ibn Ata Allah al-Sakandari             |
 | Alchemy of Happiness                             | Al-Ghazali                |
 | Meditations                                      | Marcus Aurelius             |
+| A Treasury of Al-Ghazali                         | Mustafa Abu Sway             |
 | Aphorisms of Ibn Ata Allah                       | Ibn Ata Allah al-Iskandari          |
 | Road to Mecca                                    | Muhammad Asad             |
 | Deliverance from Error                           | Al-Ghazali         |
@@ -53,9 +56,11 @@ May you find a book below that helps you clarify, heal and grow :
 | O Dear Son (Ayyuhal Walad)                       | Al-Ghazali                |
 | Messenger                                        | Tariq Ramadan             |
 | With the Heart in Mind                           | Mikaeel Ahmed Smith       |
+| Let your Life Speak                              | Parker J. Palmer                  |
 | Letters to a Young Poet                          | Rilke                     |
 | Prayers of the Last Prophet                      | Yusuf Islam               |
 | Prayers Upon the Beloved                         | Umar Hafez                |
+| Book of Wisdom                                   | Dalai Lama             |
 | Sustenance for the Soul                          | Abu Zayd al-Balkhi        |
 | The Mind Illuminated                             | Culadasa        |
 | The Communist Manifesto                          | Karl Marx and F. Engels        |
@@ -85,6 +90,7 @@ May you find a book below that helps you clarify, heal and grow :
 | Classic Poetry                   | Rosen & Walters  |
 | Best-Loved Poems                 | Neil Philip      |
 | Anthology of Popular Verse       | C. Huverford     |
+| The Odyssey                      | Homer             |
 | Poems for Gardeners              | Various          |
 
 ---
@@ -110,6 +116,7 @@ May you find a book below that helps you clarify, heal and grow :
 | Brave New World & Revisited                                       | Aldous Huxley          |
 | Siddhartha                                                        | Hermann Hesse          |
 | Dracula                                                           | Bram Stoker            |
+| The Pickwick Papers                                               | Charles Dickens              | 
 | Persuasion                                                             | Jane Austen          |
 | The Sorrows of young Werther                                      | Goethe               |
 | Frankenstein                                                      | Mary Shelley           |
@@ -120,15 +127,18 @@ May you find a book below that helps you clarify, heal and grow :
 | Dune                                                              | Frank Herbert          |
 | Hitchhiker's Guide to the Galaxy                                  | Douglas Adams         |
 | Flowers for Algernon                                              | Daniel Keys           |
+| The Cassandra Complex                                             | Holly Smale             |
 | Of Mice and Men                                                  | John Steinbeck           |
 | Catch-22                                                          | Joseph Heller          |
 | Adventures of Huckleberry Finn                                    | Mark Twain             |
 | Animal Farm                                                       | George Orwell          |
+| A Kind of Spark                                                  | Ellie McNicoll             |
 | Lord of the Flies                                                 | William Golding        |
 | The Time Machine / War of the Worlds / Invisible Man / Dr. Moreau | H.G. Wells             |
 | A Tale of Two Cities                                              | Charles Dickens        |
 | The Curious Incident of the Dog in the Night-Time                 | Mark Haddon         |
 | A Christmas Carol                                                 | Charles Dickens        |
+| Anne of Green Gables                                              | L.M Montgomery      |
 | The Kite Runner                                                   | Khaled Hosseini        |
 | The Fall of the House of Usher                                    | Edgar Allen Poe       |
 | Emma                                                              | Jane Austen          |
@@ -199,8 +209,10 @@ May you find a book below that helps you clarify, heal and grow :
 | 12 Years a Slave                               | Solomon Northup        |
 | Bitcoin: A Peer-to-Peer Electronic Cash System | Satoshi Nakamoto      |
 | Four Thousand Weeks                            | Oliver Burkeman       |
+| The Myth of Normal                             | Gabor Mate        |
 | The Power of Now                               | Eckhart Tolle         |
 | The Talent Code                                | Daniel Coyle        |
+| Seven Principles for Making Marriage Work      | John Gottman            |
 | Mistakes were made, but not by me              | C. Tavris & E. Aronson                   |
 | Games People Play                              | Eric Berne            |
 | Girl unmasked                                  | Emily Katy          |
@@ -229,12 +241,14 @@ May you find a book below that helps you clarify, heal and grow :
 | Can’t Hurt Me                                  | David Goggins         |
 | Be Useful                                      | Arnold Schwarzenegger |
 | Memories, Dreams, Reflections                  | Carl Jung          |
+| Non-Violent Communication                      | Marshall Rosenberg      | 
 | The Anxious Generation                         | Jonathan Haidt        |
 | Your Money or Your Life                        | Vicki Robins          |
 | Darkness Visible                               | William Styron        |
 | Man and His Symbols                            | Carl Jung             |
 | Life-Changing Magic of Tidying Up / Kurashi    | Marie Kondo           |
 | A Conversation About Healthy Eating            | Nicholas Lesica       |
+| House of Wisdom                                | Jim Al-Khalili       | 
 | Conversations with Scientists                  | Vivien Marx           |
 | Arabic Stories                                 | Lufti Mansour            |
 | The Procrastination Equation                   | Piers Steel           |
@@ -256,17 +270,18 @@ May you find a book below that helps you clarify, heal and grow :
 | The Diary of a Young Girl            | Anne Frank           |
 | On the Origin of Species             | Charles Darwin       |
 | Crossing the Floods                  | Ajahn Sucitto        |
-| The Pickwick Papers                  | Charles Dickens              |
 | Why Zebras Don’t Get Ulcers          | Robert Sapolsky      |
 | Message of the Qur’an                | Muhammad Asad        |
 | Saviours of the Islamic Spirit       | Abul Hasan Ali Nadwi |
-| House of Wisdom                      | Jim Al-Khalili       |
+| Daily Wisdom                         | Abdur Raheem Kidwai          |
 | American Gods                        | Neil Gaiman          |
 | Code                                 | Charles Petzold      |
 | Essays                               | Francis Bacon        |
 | Short Stories in Arabic              | Olly Richards        |
+| The Bible in One Year                | NIV                  |
 | Getting Things Done                  | David Allen          |
 | The Pilgrim’s Progress               | John Bunyan          |
+| Why We Sleep                         | Matthew Walker          |
 | Purity of Heart is to will one thing | Søren Kierkegaard    |
 
 ---

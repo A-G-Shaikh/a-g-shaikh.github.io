@@ -1,16 +1,16 @@
 ---
-Title: On AI & Justice
+Title: On Arabic
 layout: post
 author: AGS
-Description: Reflections on AI & Justice
-categories : philsophy
+Description: On learning Arabic
+categories : languagues
 toc: true
-tags: philsophy faith programming
+tags: languages
 featured: true
-image: justice.jpeg
+image: arabic.jpeg
 ---
 ‬
-Deux ex Machina... 
+Let's simplify...
 
 ---
 

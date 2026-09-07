@@ -57,7 +57,7 @@ Does it have a soul?
 
 Can it have conscience, wisdom and accountability?
 
-Without a heart, without a soul, can it access the Divine and answer our question about accessing absolute justice, which is an attribute of the Divine?
+Without a heart, without a soul, can it access the Divine (to reflect Divine attributes) and answer our question about accessing absolute justice, which is an attribute of the Divine?
 
 There is no doubt that AI can calculate at amazing speeds, help us recognise patterns and sift through mountains of data.
 
